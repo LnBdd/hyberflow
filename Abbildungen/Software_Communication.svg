@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="281.15799mm"
+   height="180.216mm"
+   viewBox="0 0 281.15799 180.216"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Software_Communication.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.66691529"
+     inkscape:cx="554.7931"
+     inkscape:cy="283.39431"
+     inkscape:window-width="1368"
+     inkscape:window-height="850"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-7.3904858"
+       originy="-6.7333326"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker16"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 31.716001 : 1"
+       inkscape:vp_y="0 : 999.99995 : 0"
+       inkscape:vp_z="210 : 31.716001 : 1"
+       inkscape:persp3d-origin="105 : -17.784002 : 1"
+       id="perspective10" />
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-48" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-8-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-48-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-8-5-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-48-9-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-8-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-48-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-60" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-41" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-41-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-21"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-40" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-57"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-1" />
+    </marker>
+    <filter
+       id="fx0"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer1">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR1" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG1" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB1" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA1" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       id="fx1"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer2">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR2" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG2" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB2" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA2" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       id="fx2"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer3">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR3" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG3" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB3" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur3" />
+    </filter>
+    <filter
+       id="fx3"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer4">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR4" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG4" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB4" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA4" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       id="fx4"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer5">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR5" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG5" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB5" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA5" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur5" />
+    </filter>
+    <filter
+       id="fx5"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer6">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR6" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG6" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB6" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA6" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur6" />
+    </filter>
+    <filter
+       id="fx6"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer7">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR7" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG7" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB7" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA7" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur7" />
+    </filter>
+    <clipPath
+       id="clip7">
+      <rect
+         x="456"
+         y="176"
+         width="368"
+         height="368"
+         id="rect7" />
+    </clipPath>
+    <filter
+       id="fx0-1"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer1-6">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR1-8" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG1-3" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB1-6" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA1-6" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur1-5" />
+    </filter>
+    <filter
+       id="fx1-3"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer2-0">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR2-1" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG2-7" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB2-4" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA2-1" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur2-4" />
+    </filter>
+    <filter
+       id="fx2-1"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer3-3">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR3-0" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG3-2" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB3-5" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA3-9" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur3-2" />
+    </filter>
+    <filter
+       id="fx3-2"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer4-6">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR4-3" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG4-0" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB4-7" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA4-7" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur4-1" />
+    </filter>
+    <filter
+       id="fx4-0"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer5-2">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR5-9" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG5-8" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB5-7" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA5-0" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur5-3" />
+    </filter>
+    <filter
+       id="fx5-1"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer6-8">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR6-6" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG6-8" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB6-5" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA6-7" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur6-8" />
+    </filter>
+    <clipPath
+       id="clip6">
+      <rect
+         x="456"
+         y="176"
+         width="368"
+         height="368"
+         id="rect6" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="marker16-5-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-6-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path16-60-1" />
+    </marker>
+    <filter
+       id="fx0-8"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer1-4">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR1-5" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG1-1" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB1-9" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA1-3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur1-2" />
+    </filter>
+    <filter
+       id="fx1-8"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer2-2">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR2-8" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG2-5" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB2-49" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA2-3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur2-5" />
+    </filter>
+    <filter
+       id="fx2-7"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer3-1">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR3-8" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG3-4" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB3-9" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA3-0" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur3-0" />
+    </filter>
+    <filter
+       id="fx3-6"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer4-4">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR4-5" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG4-1" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB4-2" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA4-8" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur4-0" />
+    </filter>
+    <filter
+       id="fx4-5"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer5-7">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR5-3" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG5-0" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB5-4" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA5-05" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur5-5" />
+    </filter>
+    <filter
+       id="fx5-5"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer6-3">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR6-0" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG6-4" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB6-3" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA6-4" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur6-1" />
+    </filter>
+    <clipPath
+       id="clip6-6">
+      <rect
+         x="377"
+         y="346"
+         width="367"
+         height="367"
+         id="rect6-3" />
+    </clipPath>
+    <filter
+       id="fx0-2"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer1-41">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR1-3" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG1-2" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB1-1" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA1-2" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur1-8" />
+    </filter>
+    <filter
+       id="fx1-1"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer2-1">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR2-9" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG2-9" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB2-7" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA2-4" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur2-3" />
+    </filter>
+    <filter
+       id="fx2-71"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer3-30">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR3-9" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG3-7" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB3-8" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA3-3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur3-1" />
+    </filter>
+    <filter
+       id="fx3-60"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer4-60">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR4-4" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG4-3" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB4-5" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA4-5" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur4-9" />
+    </filter>
+    <filter
+       id="fx4-6"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer5-6">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR5-6" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG5-7" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB5-2" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA5-1" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur5-9" />
+    </filter>
+    <filter
+       id="fx5-18"
+       x="-21"
+       y="-29.700001"
+       width="252.00002"
+       height="356.40002"
+       filterUnits="userSpaceOnUse"
+       primitiveUnits="userSpaceOnUse">
+      <feComponentTransfer
+         color-interpolation-filters="sRGB"
+         id="feComponentTransfer6-2">
+        <feFuncR
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncR6-2" />
+        <feFuncG
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncG6-41" />
+        <feFuncB
+           type="discrete"
+           tableValues="0 0"
+           id="feFuncB6-2" />
+        <feFuncA
+           type="linear"
+           slope="0.301961"
+           intercept="0"
+           id="feFuncA6-3" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         stdDeviation="4.44444 4.44444"
+         id="feGaussianBlur6-82" />
+    </filter>
+    <clipPath
+       id="clip6-7">
+      <rect
+         x="377"
+         y="346"
+         width="367"
+         height="367"
+         id="rect6-9" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.3904848,-6.7333324)">
+    <rect
+       style="fill:#82ae18;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:0.454902"
+       id="rect10"
+       width="34.450001"
+       height="15.95"
+       x="18.1423"
+       y="41.696548"
+       rx="2"
+       ry="1.9999999" />
+    <rect
+       style="fill:#489dc2;fill-opacity:0.460432;stroke:#1a3d4c;stroke-width:1;stroke-dasharray:none;stroke-opacity:0.8"
+       id="rect10-7"
+       width="34.450001"
+       height="15.95"
+       x="109.2625"
+       y="41.696999"
+       rx="2"
+       ry="2" />
+    <rect
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.0499998;stroke-dasharray:none;stroke-opacity:0.458824"
+       id="rect10-7-2"
+       width="34.449997"
+       height="15.950001"
+       x="171.04582"
+       y="72.406998"
+       rx="1.9999999"
+       ry="2.0000002" />
+    <rect
+       style="fill:#489dc2;fill-opacity:0.460432;stroke:#1a3d4c;stroke-width:1;stroke-dasharray:none;stroke-opacity:0.8"
+       id="rect10-7-3"
+       width="112.80089"
+       height="71.965775"
+       x="53.975574"
+       y="104.10088"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="72.276268"
+       y="127.32717"
+       id="text7-3-8"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan7-0-4"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="72.276268"
+         y="127.32717">Calculate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="72.2761"
+       y="153.87093"
+       id="text7-3-5"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan7-0-8"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="72.2761"
+         y="153.87093">Calculate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="100.74198"
+       y="172.27113"
+       id="text7-3-83"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan7-0-40"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="100.74198"
+         y="172.27113">Calculate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="144.09291"
+       y="157.00502"
+       id="text7-3-6"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan7-0-89"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="144.09291"
+         y="157.00502">Include</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="144.26324"
+       y="130.31464"
+       id="text7-3-7"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan7-0-899"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="144.26324"
+         y="130.31464">Check</tspan></text>
+    <rect
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.0499998;stroke-dasharray:none;stroke-opacity:0.458824"
+       id="rect10-7-2-84"
+       width="34.449997"
+       height="15.950001"
+       x="171.04582"
+       y="11.758332"
+       rx="1.9999999"
+       ry="2.0000002" />
+    <rect
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.0499998;stroke-dasharray:none;stroke-opacity:0.458824"
+       id="rect10-7-2-8"
+       width="34.449997"
+       height="15.950001"
+       x="234.04582"
+       y="41.696999"
+       rx="1.9999999"
+       ry="2.0000002" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.64081px;line-height:0;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+       x="29.086512"
+       y="51.124374"
+       id="text1"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:4.64081px;line-height:0;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+         x="29.086512"
+         y="51.124374">Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-dasharray:none;stroke-opacity:1"
+       x="111.41761"
+       y="51.124378"
+       id="text2"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.05;stroke-dasharray:none"
+         x="111.41761"
+         y="51.124378">Microcontroller</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="177.71855"
+       y="82.230515"
+       id="text3"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.05"
+         x="177.71855"
+         y="82.230515">Highdriver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="239.93845"
+       y="50.974823"
+       id="text4"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.05"
+         x="239.93845"
+         y="50.974823">Micropump</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="176.66376"
+       y="21.360575"
+       id="text5"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.05"
+         x="176.66376"
+         y="21.360575">Flow Sensor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="17.740269"
+       y="21.89916"
+       id="text6"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.05"
+         x="17.740269"
+         y="21.89916">Printing parameters</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="19.550615"
+       y="81.414551"
+       id="text7"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.05"
+         x="19.550615"
+         y="81.414551">Plot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="34.216255"
+       y="81.414551"
+       id="text8"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.05"
+         x="34.216255"
+         y="81.414551">Evaluation data</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#285562;stroke-width:0.8;stroke-dasharray:0.400001, 0.400001;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle)"
+       d="m 144.49476,149.91934 v 9.02414"
+       id="path1-7-4-2" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#285562;stroke-width:0.799999;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:0.92549;marker-end:url(#ConcaveTriangle-2-5)"
+       d="m 72.181844,145.08472 v 9.02413"
+       id="path1-7-4" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#25505b;stroke-width:0.799999;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2)"
+       d="m 72.182208,118.92188 v 9.02413"
+       id="path1-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="71.359894"
+       y="112.55979"
+       id="text3-1"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="71.359894"
+         y="112.55979"
+         id="tspan11">Moving Average</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="71.359894"
+         y="118.37382"
+         id="tspan9">of actual values</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#81ad19;fill-opacity:0.456835;stroke:#8cc248;stroke-width:0.0499999;stroke-opacity:0.458824"
+       x="88.480316"
+       y="131.00954"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.05"
+         x="88.480316"
+         y="131.00954" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="71.888748"
+       y="138.8486"
+       id="text3-6"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="71.888748"
+         y="138.8486"
+         id="tspan13">Difference to</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="71.888748"
+         y="144.66263"
+         id="tspan10">target value</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="73.349609"
+       y="165.22781"
+       id="text3-5"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="73.349609"
+         y="165.22781"
+         id="tspan14">Proportional &amp; </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="73.349609"
+         y="171.04184"
+         id="tspan16">integral component</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#81ad19;fill-opacity:0.456835;stroke:#8cc248;stroke-width:0.0499999;stroke-opacity:0.458824"
+       x="159.36235"
+       y="136.14236"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.05"
+         x="159.36235"
+         y="136.14236" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="142.86365"
+       y="165.22749"
+       id="text3-9"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan3-28"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="142.86365"
+         y="165.22749">Controller</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="142.86365"
+         y="171.04152"
+         id="tspan20">output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="143.26666"
+       y="138.84618"
+       id="text3-54"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="143.26666"
+         y="138.84618">Feedforward</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="143.26666"
+         y="144.6602"
+         id="tspan17">control</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="141.99117"
+       y="112.7101"
+       id="text3-55"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan3-58"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="141.99117"
+         y="112.7101">Value range</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="141.99117"
+         y="118.52412"
+         id="tspan28">of target voltage</tspan></text>
+    <path
+       style="fill:#82ae18;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:0.454902;marker-start:url(#ConcaveTriangle);marker-end:url(#marker16)"
+       d="M 59.776396,47.257967 101.24025,47.028984"
+       id="path15" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.8;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:0.458824;marker-start:url(#ConcaveTriangle-6);marker-end:url(#marker16-8)"
+       d="M 59.836382,53.170613 101.30024,52.94163"
+       id="path15-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="65.950706"
+       y="38.548878"
+       id="text8-6"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan8-8"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="65.950706"
+         y="38.548878">send (2.5 HZ) &amp;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="65.950706"
+         y="44.349903"
+         id="tspan29">read (5 Hz) data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="66.187279"
+       y="59.077991"
+       id="text8-6-3"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan8-8-3"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="66.187279"
+         y="59.077991">send (5 HZ) &amp;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="66.187279"
+         y="64.879013"
+         id="tspan30">read (5 Hz) data</tspan></text>
+    <path
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:0.454902;marker-end:url(#marker16)"
+       d="m 35.630021,23.836291 0.0069,11.941125"
+       id="path17" />
+    <path
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:0.454902;marker-end:url(#marker16-1)"
+       d="m 42.567813,59.784546 1.994856,11.773319"
+       id="path17-4" />
+    <path
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:0.454902;marker-end:url(#marker16-6)"
+       d="m 27.912542,59.69657 -2.35598,11.707198"
+       id="path17-3" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.799999;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:0.458824;marker-end:url(#marker16)"
+       d="m 144.35516,58.630008 21.36681,11.534357"
+       id="path18" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.799999;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:0.458824;marker-end:url(#marker16-0)"
+       d="m 168.87913,28.112955 -19.94668,10.64615"
+       id="path18-1" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.799998;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.458824;marker-start:url(#marker16)"
+       d="M 210.53126,29.705798 233.25421,41.7045"
+       id="path18-9" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.8;stroke-dasharray:0.8, 1.60001;stroke-dashoffset:0;stroke-opacity:0.458824;marker-start:url(#ConcaveTriangle)"
+       d="M 229.53519,59.961934 205.8913,73.142557"
+       id="path18-1-5" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#000000;stroke-width:0.8;stroke-dasharray:0.8, 1.6;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle-8)"
+       d="m 257.603,129.23762 -21.95835,0.0932"
+       id="path18-1-5-8" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="235.58766"
+       y="118.8868"
+       id="text8-9"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.58766"
+         y="118.8868"
+         id="tspan18">Voltage-actuated</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.58766"
+         y="125.06042"
+         id="tspan19">communication</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle-8-5)"
+       d="m 257.6047,107.73762 -21.95832,0.0932"
+       id="path18-1-5-8-9" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="235.25487"
+       y="103.72765"
+       id="text8-9-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.25487"
+         y="103.72765"
+         id="tspan18-0">I2C communication</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-dasharray:3.2, 1.6, 0.8, 1.6;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle-8-5-1)"
+       d="m 257.6047,92.737618 -21.96005,0.0932"
+       id="path18-1-5-8-9-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="235.49843"
+       y="88.88681"
+       id="text8-9-4-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.49843"
+         y="88.88681"
+         id="tspan18-0-8">Serial communication</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#000000;stroke-width:0.8;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.997199;marker-start:url(#ConcaveTriangle-8-6)"
+       d="m 257.6047,142.73762 -21.95832,0.0932"
+       id="path18-1-5-8-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="235.25487"
+       y="138.90369"
+       id="text8-9-4-0"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.25487"
+         y="138.90369"
+         id="tspan18-0-5">Material flow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="28.77622"
+       y="68.798828"
+       id="text7-2"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan7-8"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="28.77622"
+         y="68.798828">Export</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="36.731888"
+       y="32.121181"
+       id="text7-1"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan7-5"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="36.731888"
+         y="32.121181">Import</tspan></text>
+    <g
+       id="g1"
+       transform="matrix(0.94245157,0,0,0.93684838,170.94872,-5.56219)"
+       style="stroke-width:1.06423">
+      <text
+         xml:space="preserve"
+         style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0532114;stroke-dasharray:none;stroke-opacity:1"
+         x="52.992676"
+         y="47.803566"
+         id="text7-9"><tspan
+           sodipodi:role="line"
+           id="tspan7-7"
+           style="text-align:end;text-anchor:end;fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="52.992676"
+           y="47.803566">Generate</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:end;text-anchor:end;fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="52.992676"
+           y="53.977192"
+           id="tspan22">flow</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0532114;stroke-dasharray:none;stroke-opacity:1"
+         x="-16.963202"
+         y="47.760159"
+         id="text7-0"><tspan
+           sodipodi:role="line"
+           id="tspan7-2"
+           style="fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="-16.963202"
+           y="47.760159">Measure</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="-16.963202"
+           y="53.933784"
+           id="tspan23">flow</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0532114;stroke-dasharray:none;stroke-opacity:1"
+         x="-17.105484"
+         y="67.202614"
+         id="text7-0-6"><tspan
+           sodipodi:role="line"
+           style="fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="-17.105484"
+           y="67.202614"
+           id="tspan23-2">Update</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#020202;fill-opacity:0.5;stroke-width:0.0532115"
+           x="-17.105484"
+           y="73.376236"
+           id="tspan25">data</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.64082px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:0.5;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="202.77895"
+       y="61.588753"
+       id="text7-4"
+       transform="scale(1.002986,0.99702289)"><tspan
+         sodipodi:role="line"
+         id="tspan7-1"
+         style="fill:#020202;fill-opacity:0.5;stroke-width:0.05"
+         x="202.77895"
+         y="61.588753">Set voltage</tspan></text>
+    <path
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.60001, 0.8, 1.60001;stroke-dashoffset:0;stroke-opacity:0.454902;marker-end:url(#marker16-5)"
+       d="m 18.277038,138.56543 28.958361,-0.0862"
+       id="path17-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="34.151531"
+       y="147.60606"
+       id="text8-7"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan8-86"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="34.151531"
+         y="147.60606">Target value</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="34.151531"
+         y="153.42009"
+         id="tspan24">from Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="33.636993"
+       y="121.46219"
+       id="text8-7-5"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         id="tspan8-86-0"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="33.636993"
+         y="121.46219">Actual value</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="33.636993"
+         y="127.27621"
+         id="tspan24-8">from Flow Sensor</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.8;stroke-dasharray:2.4, 2.4;stroke-dashoffset:0;stroke-opacity:0.458824;marker-end:url(#marker16-2)"
+       d="m 18.275924,112.7628 28.959917,0.006"
+       id="path18-6" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#020405;stroke-width:0.799999;stroke-dasharray:0.4, 0.4;stroke-dashoffset:0;stroke-opacity:0.458824;marker-end:url(#ConcaveTriangle-5)"
+       d="m 235.65035,157.52829 21.95482,0.22993"
+       id="path1-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="235.25487"
+       y="153.8868"
+       id="text8-9-4-0-4"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="235.25487"
+         y="153.8868"
+         id="tspan18-0-5-3">PID controller</tspan></text>
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#285562;stroke-width:0.8;stroke-dasharray:0.400001, 0.400001;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle-21)"
+       d="m 144.49485,123.81357 v 9.02414"
+       id="path1-7-4-2-8" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#285562;stroke-width:0.800001;stroke-dasharray:0.400001, 0.400001;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ConcaveTriangle-57)"
+       d="m 123.1328,165.08754 -28.083529,-0.1"
+       id="path1-7-4-2-5" />
+    <rect
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.458824"
+       id="rect21"
+       width="5.8208337"
+       height="5.8208332"
+       x="235.64464"
+       y="165.01604"
+       rx="1"
+       ry="1" />
+    <rect
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.454902"
+       id="rect21-1"
+       width="5.8208337"
+       height="5.8208332"
+       x="235.64464"
+       y="176.12856"
+       rx="1"
+       ry="1" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="246.54823"
+       y="169.72328"
+       id="text8-9-4-0-4-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="246.54823"
+         y="169.72328"
+         id="tspan18-0-5-3-5">Hardware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="246.01906"
+       y="180.8358"
+       id="text8-9-4-0-4-21"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.05"
+         x="246.01906"
+         y="180.8358"
+         id="tspan18-0-5-3-8">Software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="108.58083"
+       y="142.37613"
+       id="text7-3-54"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="108.58083"
+         y="142.37613"
+         id="tspan31">PID loop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="180.97229"
+       y="147.62166"
+       id="text8-7-5-2"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="180.97229"
+         y="147.62166"
+         id="tspan24-8-6">Actual flow</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="180.97229"
+         y="153.43568"
+         id="tspan26">value to Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.65122px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:#020202;fill-opacity:1;stroke:#000000;stroke-width:0.0499999;stroke-dasharray:none;stroke-opacity:1"
+       x="179.46542"
+       y="121.46232"
+       id="text8-7-50"
+       transform="scale(1.0109999,0.98911978)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="179.46542"
+         y="121.46232"
+         id="tspan24-7">Target voltage</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.05"
+         x="179.46542"
+         y="127.27634"
+         id="tspan27">to Highdriver</tspan></text>
+    <path
+       style="fill:#82ae16;fill-opacity:0.454902;stroke:#82ae16;stroke-width:0.8;stroke-dasharray:3.2, 1.60001, 0.8, 1.60001;stroke-dashoffset:0;stroke-opacity:0.454902;marker-end:url(#marker16-5-7)"
+       d="m 167.68504,138.56543 28.95836,-0.0862"
+       id="path17-5-3" />
+    <path
+       style="fill:#489dc2;fill-opacity:0.458824;stroke:#489dc2;stroke-width:0.8;stroke-dasharray:2.39999, 2.39999;stroke-dashoffset:0;stroke-opacity:0.458824;marker-end:url(#marker16-2-9)"
+       d="m 167.68353,112.7628 28.95988,0.006"
+       id="path18-6-1" />
+    <g
+       clip-path="url(#clip6-7)"
+       transform="matrix(0.10775167,0,0,0.10832479,49.711499,82.845053)"
+       id="g18"
+       style="stroke-width:2.44899">
+      <g
+         filter="url(#fx0)"
+         transform="translate(376,426)"
+         id="g7"
+         style="stroke-width:2.44899;filter:url(#fx0-2)">
+        <g
+           id="g6"
+           style="stroke-width:2.44899">
+          <path
+             d="M 73,141.61 C 53.728,110.724 49.64,71.0965 64.24,35.5483 51.976,0 51.976,0 51.976,0 16.352,6.9931 16.352,6.9931 16.352,6.9931 5.84,29.1379 0,53.6138 0,79.8379 0,112.472 9.344,142.776 25.112,169 c 11.68,-34.966 11.68,-34.966 11.68,-34.966 z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(1,0,0,-1,15,184)"
+             id="path6"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="M 73,141.61 C 53.728,110.724 49.64,71.0965 64.24,35.5483 51.976,0 51.976,0 51.976,0 16.352,6.9931 16.352,6.9931 16.352,6.9931 5.84,29.1379 0,53.6138 0,79.8379 0,112.472 9.344,142.776 25.112,169 c 11.68,-34.966 11.68,-34.966 11.68,-34.966 z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,391,610)"
+         id="path7-0"
+         style="stroke-width:2.44899" />
+      <g
+         filter="url(#fx1)"
+         transform="translate(405,345)"
+         id="g9"
+         style="stroke-width:2.44899;filter:url(#fx1-1)">
+        <g
+           id="g8"
+           style="stroke-width:2.44899">
+          <path
+             d="M 0,54.9459 C 20.9032,54.3676 42.3871,58.9946 61.5484,69.9838 75.4839,78.0811 86.5161,87.9135 95.2258,99.4811 132.387,107 132.387,107 132.387,107 144,72.8757 144,72.8757 144,72.8757 113.226,28.9189 62.129,0 4.06452,0 2.90323,0 1.16129,0.578378 0,0.578378 23.8065,27.7622 23.8065,27.7622 23.8065,27.7622 Z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(-1,0,0,1,159,15)"
+             id="path8"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="M 0,54.9459 C 20.9032,54.3676 42.3871,58.9946 61.5484,69.9838 75.4839,78.0811 86.5161,87.9135 95.2258,99.4811 132.387,107 132.387,107 132.387,107 144,72.8757 144,72.8757 144,72.8757 113.226,28.9189 62.129,0 4.06452,0 2.90323,0 1.16129,0.578378 0,0.578378 23.8065,27.7622 23.8065,27.7622 23.8065,27.7622 Z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,564,360)"
+         id="path9"
+         style="stroke-width:2.44899" />
+      <g
+         filter="url(#fx2)"
+         transform="translate(541,577)"
+         id="g11"
+         style="stroke-width:2.44899;filter:url(#fx2-71)">
+        <g
+           id="g10"
+           style="stroke-width:2.44899">
+          <path
+             d="M 144,52.337 C 123.181,52.9185 101.783,48.2663 82.1205,36.6359 68.8193,29.0761 57.253,18.6087 48.5783,6.97826 11.5663,0 11.5663,0 11.5663,0 0,33.7283 0,33.7283 0,33.7283 30.6506,77.9239 81.5422,107 139.373,107 c 1.157,0 2.892,0 4.049,0 C 119.711,79.6685 119.711,79.6685 119.711,79.6685 Z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(-1,0,0,1,159,15)"
+             id="path10"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="M 144,52.337 C 123.181,52.9185 101.783,48.2663 82.1205,36.6359 68.8193,29.0761 57.253,18.6087 48.5783,6.97826 11.5663,0 11.5663,0 11.5663,0 0,33.7283 0,33.7283 0,33.7283 30.6506,77.9239 81.5422,107 139.373,107 c 1.157,0 2.892,0 4.049,0 C 119.711,79.6685 119.711,79.6685 119.711,79.6685 Z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,700,592)"
+         id="path11"
+         style="stroke-width:2.44899" />
+      <g
+         filter="url(#fx3)"
+         transform="translate(642,435)"
+         id="g13"
+         style="stroke-width:2.44899;filter:url(#fx3-60)">
+        <g
+           id="g12"
+           style="stroke-width:2.44899">
+          <path
+             d="M 0,27.7113 C 19.856,58.3093 23.944,97.567 8.76,132.206 21.024,168 21.024,168 21.024,168 56.648,161.072 56.648,161.072 56.648,161.072 67.16,139.134 73,114.309 73,88.3299 73,56 63.656,25.9794 47.888,0 35.624,34.6392 35.624,34.6392 35.624,34.6392 Z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(1,0,0,-1,15,183)"
+             id="path12"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="M 0,27.7113 C 19.856,58.3093 23.944,97.567 8.76,132.206 21.024,168 21.024,168 21.024,168 56.648,161.072 56.648,161.072 56.648,161.072 67.16,139.134 73,114.309 73,88.3299 73,56 63.656,25.9794 47.888,0 35.624,34.6392 35.624,34.6392 35.624,34.6392 Z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,657,618)"
+         id="path13"
+         style="stroke-width:2.44899" />
+      <g
+         filter="url(#fx4)"
+         transform="translate(397,568)"
+         id="g15"
+         style="stroke-width:2.44899;filter:url(#fx4-6)">
+        <g
+           id="g14"
+           style="stroke-width:2.44899">
+          <path
+             d="m 112.117,0 c -0.584,1.16583 -1.168,2.33166 -1.752,3.49749 C 91.6788,36.1407 59.562,55.9598 25.6934,60.6231 0,89.1859 0,89.1859 0,89.1859 23.9416,116 23.9416,116 23.9416,116 82.9197,111.337 133.139,76.9447 160,27.9799 c -35.62,6.995 -35.62,6.995 -35.62,6.995 z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(-1,0,0,1,175,15)"
+             id="path14"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="m 112.117,0 c -0.584,1.16583 -1.168,2.33166 -1.752,3.49749 C 91.6788,36.1407 59.562,55.9598 25.6934,60.6231 0,89.1859 0,89.1859 0,89.1859 23.9416,116 23.9416,116 23.9416,116 82.9197,111.337 133.139,76.9447 160,27.9799 c -35.62,6.995 -35.62,6.995 -35.62,6.995 z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,572,583)"
+         id="path15-9"
+         style="stroke-width:2.44899" />
+      <g
+         filter="url(#fx5)"
+         transform="translate(535,345)"
+         id="g17"
+         style="stroke-width:2.44899;filter:url(#fx5-18)">
+        <g
+           id="g16"
+           style="stroke-width:2.44899">
+          <path
+             d="m 47.5839,116 c 0.5803,-1.166 1.1606,-2.332 1.7409,-3.497 C 67.8942,80.4422 99.8102,60.0402 134.047,55.9598 159,27.397 159,27.397 159,27.397 135.208,0 135.208,0 135.208,0 77.1788,5.24623 26.6934,39.6382 0,88.603 35.9781,81.0251 35.9781,81.0251 35.9781,81.0251 Z"
+             fill="#ffffff"
+             fill-rule="evenodd"
+             transform="matrix(-1,0,0,1,174,15)"
+             id="path16-49"
+             style="stroke-width:2.44899" />
+        </g>
+      </g>
+      <path
+         d="m 47.5839,116 c 0.5803,-1.166 1.1606,-2.332 1.7409,-3.497 C 67.8942,80.4422 99.8102,60.0402 134.047,55.9598 159,27.397 159,27.397 159,27.397 135.208,0 135.208,0 135.208,0 77.1788,5.24623 26.6934,39.6382 0,88.603 35.9781,81.0251 35.9781,81.0251 35.9781,81.0251 Z"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,709,360)"
+         id="path17-6"
+         style="stroke-width:2.44899" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#1a3d4c;stroke-width:1;stroke-dasharray:none;stroke-opacity:0.8"
+       d="m 108.00115,57.45946 -52.739334,45.4456"
+       id="path25" />
+    <path
+       style="fill:#ffffff;stroke:#1a3d4c;stroke-width:0.999996;stroke-dasharray:none;stroke-opacity:0.8"
+       d="m 143.41866,59.283907 21.98483,43.550003"
+       id="path26" />
+    <g
+       transform="matrix(0.11962537,0,0,0.11962537,-8.838199,55.662171)"
+       id="g1-3"
+       style="stroke-width:2.21177">
+      <path
+         d="m 661.985,387 c -1.051,0 -2.103,-0.383 -2.867,-1.149 -10.706,-10.726 -10.706,-10.726 -10.706,-10.726 -3.633,2.586 -8.03,3.927 -12.427,3.927 -12.139,0 -21.985,-9.864 -21.985,-22.026 0,-12.258 9.846,-22.026 21.985,-22.026 12.14,0 21.986,9.768 21.986,22.026 0,4.405 -1.339,8.81 -3.824,12.449 10.706,10.726 10.706,10.726 10.706,10.726 0.669,0.766 1.147,1.723 1.147,2.777 0,2.298 -1.816,4.022 -4.015,4.022 z m -26,-44.052 c -7.742,0 -13.956,6.321 -13.956,14.078 0,7.661 6.214,13.981 13.956,13.981 7.743,0 13.956,-6.32 13.956,-13.981 0,-7.757 -6.213,-14.078 -13.956,-14.078 z m 10.037,15.035 c 0,0.575 -0.478,1.054 -1.051,1.054 -6.978,0 -6.978,0 -6.978,0 0,6.991 0,6.991 0,6.991 0,0.478 -0.478,0.957 -0.956,0.957 -2.008,0 -2.008,0 -2.008,0 -0.573,0 -1.051,-0.479 -1.051,-0.957 0,-6.991 0,-6.991 0,-6.991 -6.978,0 -6.978,0 -6.978,0 -0.574,0 -1.051,-0.479 -1.051,-1.054 0,-2.011 0,-2.011 0,-2.011 0,-0.478 0.477,-0.957 1.051,-0.957 6.978,0 6.978,0 6.978,0 0,-6.991 0,-6.991 0,-6.991 0,-0.575 0.478,-1.053 1.051,-1.053 2.008,0 2.008,0 2.008,0 0.478,0 0.956,0.478 0.956,1.053 0,6.991 0,6.991 0,6.991 6.978,0 6.978,0 6.978,0 0.573,0 1.051,0.479 1.051,0.957 z"
+         fill-rule="evenodd"
+         id="path1"
+         style="stroke-width:2.21177" />
+    </g>
+  </g>
+</svg>
