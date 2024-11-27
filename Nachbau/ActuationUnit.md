@@ -5,7 +5,13 @@ nav_order: 2
 ---
 
 
-## Hydraulik
+<p align="center">
+  <img src="../Abbildungen/Control.svg" width=600>
+</p>
+
+HIER DIE AUFBAU ANLEITUNG AKTUIERUNGSEINHEIT UNTERBRINGEN
+
+## Flowchart
 
 <p align="center">
   <img src="../Abbildungen/Hydraulic.svg" width=500>
