@@ -14,7 +14,144 @@ nav_order: 1
   <img src="../Abbildungen/Explosion_3.svg" width=600>
 </p>
 
-## Komponenten
+## [Actuation Unit](./ActuationUnit.md)
+
+### Of the shelf materials 
+
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(1)** | Mikropumpe mp6-liq | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/de/mikropumpen/) | 2 |
+| **(2)** | Pulsationsdämpfer mp-damper | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-damper-pulsation-damper/) | 1 |
+| **(3)** | Flusssensor SLF3S-0600F | [Sensirion](https://sensirion.com/de/produkte/katalog/SLF3S-0600F) | 1 |
+| **(4)** | 3/2-Wege Mikro-Schaltventil | [Staiger](https://www.staiger.de/ventil-online-shop/start/mikroventile/va-304-913-v-08-sap-12-1-detail) | 2 |
+| **(5)** | Widerstand 4.7kΩ | beliebig| 2 |
+| **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
+| **(7)** | 5V Relais-Modul | [Tru Components](https://www.conrad.de/de/p/tru-components-tc-9927156-relais-modul-1-st-passend-fuer-entwicklungskits-arduino-2481789.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZw33gOABH-W5sgy4y142vKv9I7WKVQ1G17AHRNnxb6aWDHuf778MKgBoC0Q4QAvD_BwE&refresh=true) | 1 |
+| **(8)** | Arduino Mega 2560 | [Arduino](https://store.arduino.cc/products/arduino-mega-2560-rev3) | 1 |
+
+### 3D printed components
+
+| Partnumber | Material | File | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(1)** | PLA | back_wall.stl | 1 |
+| **(5)** | BlackV4 | valve_interface.stl | 1 |
+| **(6)** | BlackV4 | tube_adapter.stl | 1 |
+| **(8)** | PLA | micropump_frame_A.stl | 1 |
+| **(9)** | PLA | micropump_frame_B.stl | 1 |
+| **(10)** | PLA | damper_frame.stl | 1 |
+| **(12)** | PLA | cover.stl | 1 |
+
+
+## Bioprinting Cartrdige
+
+### Of the shelf materials 
+
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(14)** | Hydraulic Quick Release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
+| **(32)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
+| **(33)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
+| **(34)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
+| **(22)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
+
+### 3D printed components
+
+| Partnumber | Material | File | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(15)** | PLA | upper_support.stl | 1 |
+| **(16)** | PLA | lower_support.stl | 1 |
+| **(18)** | BlackV4 | reservoir.stl | 1 |
+| **(19)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
+| **(20)** | BlackV4 | plug.stl | 1 |
+| **(24)** | BlackV4 | stamp.stl | 1 |
+| **(25)** | BlackV4 | syringe_cap.stl | 1 |
+| **(26)** | PLA | upper_support_plate.stl | 1 |
+| **(27)** | PLA | lower_support_plate.stl | 1 |
+
+
+## General Assembly Components
+
+SCHRAUBEN, KLEMMEN, ETC.
+| XXX | XXX |
+| :----: | :----: | 
+| **(17)** | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) |
+| **(4)** | Senkkopfschraube M2,5x4 | 
+| **(28)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) |
+| **(29)** | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) |
+| **(30)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) 
+| **(31)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) |
+
+------
+
+# Summary / Bill of Materials
+
+### Of the shelf materials 
+
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(1)** | Mikropumpe mp6-liq | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/de/mikropumpen/) | 2 |
+| **(2)** | Pulsationsdämpfer mp-damper | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-damper-pulsation-damper/) | 1 |
+| **(3)** | Flusssensor SLF3S-0600F | [Sensirion](https://sensirion.com/de/produkte/katalog/SLF3S-0600F) | 1 |
+| **(4)** | 3/2-Wege Mikro-Schaltventil | [Staiger](https://www.staiger.de/ventil-online-shop/start/mikroventile/va-304-913-v-08-sap-12-1-detail) | 2 |
+| **(5)** | Widerstand 4.7kΩ | beliebig| 2 |
+| **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
+| **(7)** | 5V Relais-Modul | [Tru Components](https://www.conrad.de/de/p/tru-components-tc-9927156-relais-modul-1-st-passend-fuer-entwicklungskits-arduino-2481789.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZw33gOABH-W5sgy4y142vKv9I7WKVQ1G17AHRNnxb6aWDHuf778MKgBoC0Q4QAvD_BwE&refresh=true) | 1 |
+| **(8)** | Arduino Mega 2560 | [Arduino](https://store.arduino.cc/products/arduino-mega-2560-rev3) | 1 |
+| **(14)** | Hydraulic Quick Release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
+| **(32)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
+| **(33)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
+| **(34)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
+| **(22)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
+
+SCHRAUBEN, KLEMMEN, ETC.
+| XXX | XXX |
+| :----: | :----: | 
+| **(17)** | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) |
+| **(4)** | Senkkopfschraube M2,5x4 | 
+| **(28)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) |
+| **(29)** | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) |
+| **(30)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) 
+| **(31)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) |
+
+### 3D printed components
+
+## Downloads
+
+* 3D Modelle
+   * [Dateien für den 3D-Drucker (.STL)](/sponge/downloads/SPONGE_Modular_stl.zip)
+   * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)](/sponge/downloads/SPONGE_Modular_CAD_inventor.zip)
+
+
+| Partnumber | Material | File | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(1)** | PLA | back_wall.stl | 1 |
+| **(5)** | BlackV4 | valve_interface.stl | 1 |
+| **(6)** | BlackV4 | tube_adapter.stl | 1 |
+| **(8)** | PLA | micropump_frame_A.stl | 1 |
+| **(9)** | PLA | micropump_frame_B.stl | 1 |
+| **(10)** | PLA | damper_frame.stl | 1 |
+| **(12)** | PLA | cover.stl | 1 |
+| **(15)** | PLA | upper_support.stl | 1 |
+| **(16)** | PLA | lower_support.stl | 1 |
+| **(18)** | BlackV4 | reservoir.stl | 1 |
+| **(19)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
+| **(20)** | BlackV4 | plug.stl | 1 |
+| **(24)** | BlackV4 | stamp.stl | 1 |
+| **(25)** | BlackV4 | syringe_cap.stl | 1 |
+| **(26)** | PLA | upper_support_plate.stl | 1 |
+| **(27)** | PLA | lower_support_plate.stl | 1 |
+
+
+
+
+-------
+
+-------
+
+
+
+--- Old Version --
+
 
 | Bauteil-Nr. | Name | Funktion | Anzahl <br> pro Druckmodul |
 | :----: | :----: | :----: | :----: |
@@ -55,45 +192,7 @@ nav_order: 1
 
 Auf die Darstellung der Schlauchverbindungen wurde in der Abbildung aus Gründen der Übersichtlichkeit verzichtet. Alle Details zum hydraulischen System sind im Abschnitt 'Hydraulik' zu finden. **(29)** und **(31)** sind daher in dieser Abbildung ebenfalls nicht dargestellt.
 
-## 3D-gedruckte Bauteile
 
-| Bauteil-Nr. | Material | Datei |
-| :----: | :----: | :----: |
-| **(1)** | PLA | back_wall.stl |
-| **(5)** | BlackV4 | valve_interface.stl |
-| **(6)** | BlackV4 | tube_adapter.stl |
-| **(8)** | PLA | micropump_frame_A.stl |
-| **(9)** | PLA | micropump_frame_B.stl |
-| **(10)** | PLA | damper_frame.stl |
-| **(12)** | PLA | cover.stl |
-| **(15)** | PLA | upper_support.stl |
-| **(16)** | PLA | lower_support.stl |
-| **(18)** | BlackV4 | reservoir.stl |
-| **(19)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl |
-| **(20)** | BlackV4 | plug.stl |
-| **(24)** | BlackV4 | stamp.stl |
-| **(25)** | BlackV4 | syringe_cap.stl |
-| **(26)** | PLA | upper_support_plate.stl |
-| **(27)** | PLA | lower_support_plate.stl |
-
-## Zugekaufte Bauteile
-
-Die zur Montage des hydraulischen Druckmoduls verwendeten Schrauben können von einem beliebigen Hersteller zugekauft werden und sind in dieser Auflistung nicht weiter berücksichtigt.
-
-| Bauteil-Nr. | Hersteller |
-| :----: | :----: |
-| **(14)** | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) |
-| **(17)** | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) |
-| **(21)** | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) |
-| **(22)** | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) |
-| **(23)** | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) |
-| **(28)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) |
-| **(29)** | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) |
-| **(30)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) 
-| **(31)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/)
-| **(32)** | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) |
-| **(33)** | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) |
-| **(34)** | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) |
 
 ## Hydraulik
 
@@ -159,8 +258,4 @@ In der Spritze trennt ein Stempel **(24)** die Biotinte von der Antriebsflüssig
 
 Als Teil des Entwicklungsprozesses wurde überlegt an den Spritzendeckel einen weiterer Anschluss mit Luer-Lock-System zu ergänzen. Dieser Anschluss könnte genutzt werden, um das Restvolumen der Antriebsflüssigkeit in der Spritze aufzufüllen, nachdem die Spritze mit dem Spritzendeckel verschlossen wird. Der in der Betriebsanleitung beschriebene Mechanismus hat sich jedoch als voll funktionsfähig erwiesen, um das Restvolumen aufzufüllen, und der zusätzliche Anschluss würde das Risiko einer möglichen Undichtigkeit bergen. Daher wurde der Ansatz eines weiteren standartisierten Anschlusses verworfen.
 
-## Downloads
 
-* 3D Modelle
-   * [Dateien für den 3D-Drucker (.STL)](/sponge/downloads/SPONGE_Modular_stl.zip)
-   * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)](/sponge/downloads/SPONGE_Modular_CAD_inventor.zip)
