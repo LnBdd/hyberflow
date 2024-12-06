@@ -28,8 +28,8 @@ AccelStepper stepperX(AccelStepper::DRIVER, STEP_PIN_X, DIR_PIN_X);
 AccelStepper stepperY(AccelStepper::DRIVER, STEP_PIN_Y, DIR_PIN_Y);
 
 // Steps per millimeter for each axis
-const float stepsPerMmX = 38.7;
-const float stepsPerMmY = 87.79;
+const float stepsPerMmX = 38.7;  // Geschwindigkeit in mm/s = (Schritte pro Sekunde step/s) / (Schritten pro mm step/mm) = 300/38.7  =  7,75 mm/s
+const float stepsPerMmY = 87.79; // Geschwindigkeit in mm/s = (Schritte pro Sekunde step/s) / (Schritten pro mm step/mm) = 300/87.79 =  3.42 mm/s
 
 // Global variables for position tracking and mode
 bool isAbsoluteMode = true; // Default mode: Absolute positioning
@@ -44,85 +44,67 @@ bool motorsEnabled = true;          // Motor status: true if enabled
 // G-code script to be executed automatically
 const char* gCodeScript[] = {
     "G28",                // Homing
-    "G1 X1 Y20 F800",     // Move to the desired start position
+    "G1 X19 Y30 F400",     // Move to the desired start position
     "G92 X0 Y0",          // Set current position to (0,0)
     "G91",                // Switch to relative mode
 
-    // 1. Line to the right
-    "G1 X25 Y0 F800",     // Move 20 mm to the left
-    "G1 X0 Y5 F800",     // Move 5 mm to the front
-    "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    "G1 X0 Y5 F800",     // Move 20 mm to the front
-    "G1 X25 Y0 F800",     // Move 20 mm to the left
-    "G1 X0 Y5 F800",     // Move 5 mm to the front
-    "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    "G1 X0 Y5 F800",     // Move 20 mm to the front
-    "G1 X25 Y0 F800",     // Move 20 mm to the left
-    "G1 X0 Y5 F800",     // Move 5 mm to the front
-    "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    "G1 X0 Y5 F800",     // Move 20 mm to the front
-    "G1 X25 Y0 F800",     // Move 20 mm to the left
-    "G1 X0 Y5 F800",     // Move 5 mm to the front
-    "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    // "G1 X0 Y5 F800",     // Move 5 mm to the front
-    // "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    // "G1 X0 Y5 F800",     // Move 20 mm to the front
-    // "G1 X25 Y0 F800",     // Move 20 mm to the left
-    // "G1 X0 Y5 F800",     // Move 5 mm to the front
-    // "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    // "G1 X0 Y5 F800",     // Move 20 mm to the front
-    // "G1 X25 Y0 F800",     // Move 20 mm to the left
-    // "G1 X0 Y5 F800",     // Move 5 mm to the front
-    // "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    // "G1 X0 Y5 F800",     // Move 20 mm to the front
-    // "G1 X25 Y0 F800",     // Move 20 mm to the left
-    // "G1 X0 Y5 F800",     // Move 5 mm to the front
-    // "G1 X-25 Y0 F800",     // Move 20 mm to the right
-    // "G1 X0 Y5 F800",     // Move 20 mm to the front
-    // "G1 X25 Y0 F800",     // Move 20 mm to the left
-    // "G1 X0 Y5 F800",     // Move 5 mm to the front
-    // "G1 X-25 Y0 F800",     // Move 20 mm to the right
+    /// 1. Line to the right
+"G1 X0 Y80 F400",    // Bewegung um 100 mm entlang Y
+"G1 X0 Y-80 F400",   // Bewegung um -100 mm entlang Y
+"G1 X0 Y80 F400",    // Bewegung um 100 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y-80 F400",   // Bewegung um -100 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y80 F400",    // Bewegung um 100 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y-80 F400",   // Bewegung um -80 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y80 F400",    // Bewegung um 80 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y-80 F400",   // Bewegung um -80 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y80 F400",    // Bewegung um 80 mm entlang Y
+"G1 X0.5 Y0 F400",      // Bewegung 5 mm entlang X
+"G1 X0 Y-80 F400",   // Bewegung um -80 mm entlang Y
 
-    "G1 X0 Y-40 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y-45 F800",
-    "G1 X0.5 Y0 F800",
-    "G1 X0 Y45 F800",
-    "M2"                  // Program end, disable motors
+// "G1 X-40 Y0 F400",    // Bewegung um -40 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X-45 Y0 F400",    // Bewegung um -45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+// "G1 X45 Y0 F400",     // Bewegung um 45 mm entlang X
+// "G1 X0 Y0.5 F400",    // Bewegung um 0,5 mm entlang Y
+"M2"                  // Program end, disable motors
+
 };
 const int gCodeScriptSize = sizeof(gCodeScript) / sizeof(gCodeScript[0]); // Script size
 int currentScriptLine = 0; // Current line in the G-code script
@@ -138,7 +120,7 @@ void setup() {
     pinMode(BUTTON_PIN_Y, INPUT_PULLUP); // Configure Y-axis button as input with pull-up resistor
 
     // Set stepper motor parameters: maximum speed and acceleration
-    stepperX.setMaxSpeed(300);
+    stepperX.setMaxSpeed(75);
     stepperX.setAcceleration(200);
     stepperY.setMaxSpeed(300);
     stepperY.setAcceleration(300);
@@ -263,6 +245,7 @@ void startHoming() {
 
 // Set the current position based on G92 parameters
 void setCurrentPosition(String params) {
+
     float x = currentX; // Default X position
     float y = currentY; // Default Y position
 
@@ -278,6 +261,17 @@ void setCurrentPosition(String params) {
     stepperY.setCurrentPosition(currentY * stepsPerMmY);
 
     DEBUG_PRINTLN("Aktuelle Position gesetzt auf X=" + String(currentX) + ", Y=" + String(currentY)); // Debug
+    // String input_23;
+    Serial.println("Warte");
+    delay(60000);
+    Serial.println("GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+    //  while (input_23 != "START") {  // Schleife läuft, bis "START" eingegeben wird
+    //     if (Serial.available()) {  // Prüfen, ob Eingaben verfügbar sind
+    //         input_23 = Serial.readStringUntil('\n');  // Eingabe lesen
+    //         input_23.trim();  // Entfernt Leerzeichen oder Steuerzeichen
+    //         Serial.println("Eingegeben: " + input_23);
+    //     }
+    // }
 }
 
 // Handle linear movements (G1 command)
