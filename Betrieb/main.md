@@ -4,53 +4,52 @@ has_children: true
 nav_order: 3
 ---
 
-# Betriebsanleitung für das hydraulische Druckmodul
+# User Manual for the HYBERFLOW
 
 <p align="center">
   <img src="../Abbildungen/Explosion_1.svg" width=500>
 </p>
 
-## Komponenten
+## Components
 
 | Bauteil-Nr. | Name |
 | :----: | :----: |
-| **(1)** | Glasspritze |
-| **(2)** | Stempel |
-| **(3)** | Spritzendeckel |
+| **(1)** | Glasssyringe |
+| **(2)** | Divider |
+| **(3)** | Syringe lid |
 | **(4)** | Reservoir |
-| **(5)** | Stopfen |
-| **(6)** | Regelungsgehäuse |
-| **(7)** | Obere Halterunge |
-| **(8)** | Untere Halterung |
-| **(9)** | Obere Verankerungsplatte (weiß) |
-| **(10)** | Untere Verankerungsplatte (schwarz) |
-| **(11)** | Obere Schnellkupplung |
-| **(12)** | Untere Schnellkupplung |
-| **(13)** | Druckausgleichselement |
+| **(5)** | Filling port plug |
+| **(6)** | Actuation unit |
+| **(7)** | Fastener top (white) |
+| **(8)** | Fastener bottom (black) |
+| **(9)** | Quick release 1 |
+| **(10)** | Quick release 2 |
 
-## Weitere Materialien am Arbeitsplatz
+## Additional Tools & Materials
 
-- Spritze A & B ([10 ml B. Braun Injekt Luer Solo](https://www.bbraun.de/de/products/b0/injekt-solo.html))
-- Biotinte
-- Steriles Wasser
-- Pinzette
+- Syringes for filling
+- Bioink
+- Actuation Fluid (i.e., sterile water)
+- Tweezers 
 
-## Vorbereitung
+## Loading 
 
 Entsprechend dem in der [Montageanweisung](https://github.com/Jhundertmark/Hydraulic_Printing_Module/blob/main/Nachbau/Konstruktion.md) zusammengebauten Druckmodul sind folgenden Schritte notwendig, um einen Druckzyklus zu starten.
 <br>
-1. Prüfen Sie, dass der Auslass der Glasspritze verschlossen ist.
-2. Füllen Sie mithilfe von Spritze A die erforderliche Menge an Modelltinte über die große Öffnung der Glasspritze ein.
-3. Führen Sie den Stempel langsam in die Glasspritze ein, wobei das Druckausgleichsmodul zum Boden zeigt. Drücken Sie den Stempel leicht auf die Modelltinte, sodass die eingeschlossene Luft über das Druckausgleichselement entweichen kann. Sie können dazu eine Pinzette zur Hilfe nehmen, mit der Sie in die Aussparungen auf der Oberseite des Stempels greifen.
-4. Füllen Sie die Glasspritze mit sterilem Wasser bis zu der schwarzen Markierung (etwa 2-3 mm unterhalb der Oberkante der Spritze) auf.
-5. Setzen Sie den Spritzendeckel auf die Glasspritze. Dazu können Sie die Schlauchklemme kurz öffnen, um etwas Wasser entweichen zu lassen und den Spritzendeckel vollständig einzusetzen. Verschließen Sie die Schlauchklemme anschließend wieder. Es sollte keine Luftblase unter dem Spritzendeckel zurück bleiben. Die geraden Seiten des Spritzendeckels sollten mit den geraden Seiten an der Spritzenöffnung übereinstimmen.
-6. Entfernen Sie den Stopfen aus dem Reservoir und füllen Sie mit Spritze B etwa 20 ml steriles Wasser in das Reservoir. Befüllen Sie das Reservoir dabei langsam, sodass die Luft durch die Druckausgleichselemente entweichen kann.
-7. Verschließen Sie das Reservoir mithilfe des Stopfen (leichte Drehbewegung, damit der O-Ring am Stopfen sich setzen kann).
-8. Verbinden Sie den Schlauch des Reservoirs über die untere Schnellkupplung mit dem Regelungsgehäuse. Die beiden Komponenten der Schnellkupplung können verbunden werden, indem sie ineinander gedrückt werden und der Mantel der größeren Komponente in Richtung der kleineren Komponenten geschoben wird.
-9. Legen Sie das Reservoir mit der Rückseite an das Regelungsgehäuse zwischen die obere und untere Halterung.
-10. Legen Sie die Glasspritze in die dafür vorgesehenen Aussparungen im Reservoir ein und fixieren Sie die Spritze mithilfe der oberen und unteren Verankerungsplatte (das Schlauchende am Spritzendeckel zeigt zum Regelungsgehäuse). Die obere und untere Verankerungsplatte können wie Puzzleteile an die beiden Halterungen gesetzt werden.
-11. Verbinden Sie den Schlauch des Spritzendeckel über die obere Schnellkupplung mit dem Regelungsgehäuse.
-12. Öffnen Sie beide Schlauchklemmen.
+1. Fill the reservoir with the actuation fluid. Either unscrew the lid of the reservoir or use the filling port. If you use the filling port, fill the reservoir slowly so that the pressure within the reservoir can be equalized thorugh the membrane.
+2. Seal the outlet of the glasssyringe with a cap
+3. Use an auxiallary syringe to fill the required amount of bioink into the glasssyringe
+4. Insert the divider with the pressure equalizing membrane facing towards the bioink into the glassyringe
+5. Slowly push down the diveder using the tweezers
+6. Fill the remaining volume of the glasssyringe with sterile water until the water level is approximately 3 mm below the top edge of the glasssyringe
+7. Fit the lid to the syringe so that the orientation of the outer rim matches the rim of the glassyringe. Open the hose clamp to let the additional water flow out.
+8. No air should remain within the glasssyringe. If the amount of water (see 5.) was not enough to fill the syringe completely, open the port X and slowly add water to the system until all air escaped through the pressure equalizing membrane
+9. Fit the reservoir to the printing module
+10. Connect the reservoir to the actuation unit using the quick release
+11. Fit the syringe to the printing module
+12. Secure the syringe and the reservoir using the two fasteners
+13. Connect the syringe to the actuation unit using the quick release
+14. Ensure that the two hose clamps (one between reservoir and actuation unit and one between actuation unit and syringe) are open
 
 
 &nbsp;
@@ -60,10 +59,13 @@ Entsprechend dem in der [Montageanweisung](https://github.com/Jhundertmark/Hydra
 15. Geben Sie die Anzahl der zu erreichenden Sollgeschwindigkeiten ein.
 16. Geben Sie die Sollgeschwindigkeiten und die Dauer, für die sie gehalten werden sollen, in chronologischer Reihenfolge ein. Der Druckzyklus wird anschließend automatisch ausgeführt.
 
-## Nachbereitung
+## Unloading
 
-1. Verschließen Sie beide Schlauchklemmen.
-2. Lösen Sie die obere und untere Schnellkupplung, indem Sie den äußeren Mantel in Richtung des Regelungsgehäuses schieben.
-3. Entfernen Sie die Verankerungsplatten und entnehmen Sie die Glasspritze und das Reservoir aus der Halterung.
-4. Lösen Sie den Spritzendeckel und entfernen Sie den Stempel aus der Glasspritze. Dies ist möglich, indem mit einer Pinzette in die zwei Aushöhlungen auf der Stempeloberseite gegriffen wird.
-5. Spritzen, Spritzendeckel und Stempel können in die Reinigung übergeben werden.
+1. Close the two hose clamps
+2. Open both quick release
+3. Remove the fasteners
+4. Remove the Syringe
+5. Remove the Reservoir
+6. Remove the lid of the syringe
+7. Use the tweezers to remove the divider by grasping the two indents in the divider
+8. Clean and sterilize all parts befor reusing them
