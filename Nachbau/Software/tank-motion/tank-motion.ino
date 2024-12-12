@@ -44,7 +44,7 @@ bool motorsEnabled = true;          // Motor status: true if enabled
 // G-code script to be executed automatically
 const char* gCodeScript[] = {
     "G28",                // Homing
-    "G1 X19 Y30 F400",     // Move to the desired start position
+    "G1 X24.5 Y30 F400",     // Move to the desired start position
     "G92 X0 Y0",          // Set current position to (0,0)
     "G91",                // Switch to relative mode
 
