@@ -42,7 +42,7 @@ nav_order: 1
 | **(12)** | PLA | cover.stl | 1 |
 
 
-## Bioprinting Cartrdige
+## [Bioprinting Cartrdige](./BioprintingCartridge)
 
 ### Of the shelf materials 
 
