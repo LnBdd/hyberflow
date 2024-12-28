@@ -9,6 +9,10 @@ nav_order: 2
   <img src="../Abbildungen/Control.svg" width=600>
 </p>
 
+<p align="center">
+  <img src="../Abbildungen/01_Montage.svg" width=600>
+</p>
+
 HIER DIE AUFBAU ANLEITUNG AKTUIERUNGSEINHEIT UNTERBRINGEN
 
 ## Flowchart
