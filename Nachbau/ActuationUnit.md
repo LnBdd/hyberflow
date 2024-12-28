@@ -10,7 +10,23 @@ nav_order: 2
 </p>
 
 <p align="center">
-  <img src="../Abbildungen/01_Montage.svg" width=600>
+  <img src="../Abbildungen/Montage_01.svg" width=200>
+</p>
+
+<p align="center">
+  <img src="../Abbildungen/Montage_02.svg" width=200>
+</p>
+
+<p align="center">
+  <img src="../Abbildungen/Montage_03.svg" width=200>
+</p>
+
+<p align="center">
+  <img src="../Abbildungen/Montage_04.svg" width=200>
+</p>
+
+<p align="center">
+  <img src="../Abbildungen/Montage_05.svg" width=200>
 </p>
 
 HIER DIE AUFBAU ANLEITUNG AKTUIERUNGSEINHEIT UNTERBRINGEN
