@@ -29,15 +29,52 @@ Mount the upper and lower support plates to the cover using four M2x8 screws.
 
 Cut an M6 thread into the two recesses on the inside of the cover and insert tube adapters using thread sealing tape.
 
-Connect the silicon tubing according to the principle sketch by cutting tube sections of the appropriate length. Y-tube-connectors can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor to the upper tube adapter in the cover and the end of the tubing coming out of one of the valve interfaces to the lower tube adapter in the cover. Place micro tube clamps on all tube ends in the system.
-
 <p align="center">
   <img src="../Abbildungen/Montage_15.svg" width=200>
 </p>
 
+Connect the silicon tubing according to the principle sketch by cutting tube sections of the appropriate length. Y-tube-connectors can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor to the upper tube adapter in the cover and the end of the tubing coming out of one of the valve interfaces to the lower tube adapter in the cover. Place micro tube clamps on all tube ends in the system.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_16.svg" width=200>
+</p>
+
 Mount the cover to the back wall using four M2,5x8 screws.
 
-- Stick one pressure equalizing membrane each on components X,X,X and the positions indicated in Figure X
+<p align="center">
+  <img src="../Abbildungen/Montage_17.svg" width=200>
+</p>
+
+Cut an M3 thread into the two recesses on the outside of the cover and insert the two hydraulic quick releases.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_18.svg" width=200>
+</p>
+
+Attach the reservoir lid to the reservoir using five M2,5x8 screws. The elastic seal should be pressed on the reservoir.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_19.svg" width=200>
+</p>
+
+Stick two pressure equalizing membranes on the reservoir at the positions indicated in Figure X.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_20.svg" width=200>
+</p>
+
+Insert a tube adapter into the side of the reservoir using thread sealing tape.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_21.svg" width=200>
+</p>
+
+Fit the O-ring 4x1 to the plug and insert it into the recess on the side of the reservoir.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_22.svg" width=200>
+</p>
+
 - Fit the O-ring XX to component XX
 - Fit the O-ring XX to component XX
 - Gently insert component X with the O-ring into component X
