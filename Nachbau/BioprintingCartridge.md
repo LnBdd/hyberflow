@@ -69,13 +69,34 @@ Insert a tube adapter into the side of the reservoir using thread sealing tape.
   <img src="../Abbildungen/Montage_21.svg" width=200>
 </p>
 
-Fit the O-ring 4x1 to the plug and insert it into the recess on the side of the reservoir.
+Slide the O-ring 4x1 onto the plug up to behind the small elevation and insert the plug into the recess on the side of the reservoir.
 
 <p align="center">
   <img src="../Abbildungen/Montage_22.svg" width=200>
 </p>
 
-- Fit the O-ring XX to component XX
-- Fit the O-ring XX to component XX
-- Gently insert component X with the O-ring into component X
+Connect the tupe adapter, inserted into the reservoir, with the lower hydraulic quick release and thread a tube clamp onto the tubing. Place the reservoir between the upper and lower support plate.
+
+-----
+
+<p align="center">
+  <img src="../Abbildungen/Montage_23.svg" width=200>
+</p>
+
+Stick a pressure equalizing membrane onto the stamp on the side with only one opening.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_24.svg" width=200>
+</p>
+
+Slide the O-ring 11,6x2,4 onto the stamp.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_25.svg" width=200>
+</p>
+
+Gently insert the stamp with the O-ring into the cut glass flask.
+
+
+
   
