@@ -11,7 +11,30 @@ We used a Stratasys Polyjet printer (Objet 350 Connex 3) with MED610 as the mate
 
 ### Assembly
 
-- Melt M3 thread inserts into the components X,X,X at the positions indicated in Figure X
+<p align="center">
+  <img src="../Abbildungen/Montage_12.svg" width=200>
+</p>
+
+Melt M2 thread inserts into the upper and lower support plates at the positions indicated in Figure X.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_13.svg" width=200>
+</p>
+
+Mount the upper and lower support plates to the cover using four M2x8 screws.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_14.svg" width=200>
+</p>
+
+Cut an M6 thread into the two recesses on the inside of the cover and insert tube adapters using thread sealing tape.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_15.svg" width=200>
+</p>
+
+Connect the tube according to the principle sketch in the Hydraulics chapter by cutting hose sections of the appropriate length.
+
 - Stick one pressure equalizing membrane each on components X,X,X and the positions indicated in Figure X
 - Fit the O-ring XX to component XX
 - Fit the O-ring XX to component XX
