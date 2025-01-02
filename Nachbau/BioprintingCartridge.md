@@ -75,7 +75,7 @@ Slide the O-ring 4x1 onto the plug up to behind the small elevation and insert t
   <img src="../Abbildungen/Montage_22.svg" width=200>
 </p>
 
-Connect the tupe adapter, inserted into the reservoir, with the lower hydraulic quick release and thread a tube clamp onto the tubing. Place the reservoir between the upper and lower support plate.
+Connect the tupe adapter, inserted into the reservoir, with the lower hydraulic quick release and thread a hose clamp onto the tubing. Place the reservoir between the upper and lower support plate.
 
 -----
 
@@ -83,19 +83,19 @@ Connect the tupe adapter, inserted into the reservoir, with the lower hydraulic 
   <img src="../Abbildungen/Montage_23.svg" width=200>
 </p>
 
-Stick a pressure equalizing membrane onto the stamp on the side with only one opening.
+Stick a pressure equalizing membrane onto the divider on the side with only one opening.
 
 <p align="center">
   <img src="../Abbildungen/Montage_24.svg" width=200>
 </p>
 
-Slide the O-ring 11,6x2,4 onto the stamp.
+Slide the O-ring 11,6x2,4 onto the divider.
 
 <p align="center">
   <img src="../Abbildungen/Montage_25.svg" width=200>
 </p>
 
-Gently insert the stamp with the O-ring into the cut glass flask.
+Gently insert the divider with the O-ring into the cut glass flask.
 
 <p align="center">
   <img src="../Abbildungen/Montage_26.svg" width=200>
@@ -115,7 +115,7 @@ Slide the O-ring 15,3x2,4 onto the syringe cap.
 
 Insert a tube adapter into the side of the syringe cap using thread sealing tape.
 
-Connect the tube adapter, inserted into the syringe cap, with the upper hydraulic quick release and thread a tube clamp onto the tubing. Place the syringe in the intended recess.
+Connect the tube adapter, inserted into the syringe cap, with the upper hydraulic quick release and thread a hose clamp onto the tubing.
 
 
 
