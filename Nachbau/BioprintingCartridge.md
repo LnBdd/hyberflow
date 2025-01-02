@@ -97,6 +97,26 @@ Slide the O-ring 11,6x2,4 onto the stamp.
 
 Gently insert the stamp with the O-ring into the cut glass flask.
 
+<p align="center">
+  <img src="../Abbildungen/Montage_26.svg" width=200>
+</p>
+
+Stick a pressure equalizing membrane onto the small side opening of the syringe cap.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_27.svg" width=200>
+</p>
+
+Slide the O-ring 15,3x2,4 onto the syringe cap.
+
+<p align="center">
+  <img src="../Abbildungen/Montage_28.svg" width=200>
+</p>
+
+Insert a tube adapter into the side of the syringe cap using thread sealing tape.
+
+Connect the tube adapter, inserted into the syringe cap, with the upper hydraulic quick release and thread a tube clamp onto the tubing. Place the syringe in the intended recess.
 
 
-  
+
+
