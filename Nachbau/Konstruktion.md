@@ -101,6 +101,7 @@ SCHRAUBEN, KLEMMEN, ETC.
 | **(7)** | 5V Relais-Modul | [Tru Components](https://www.conrad.de/de/p/tru-components-tc-9927156-relais-modul-1-st-passend-fuer-entwicklungskits-arduino-2481789.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZw33gOABH-W5sgy4y142vKv9I7WKVQ1G17AHRNnxb6aWDHuf778MKgBoC0Q4QAvD_BwE&refresh=true) | 1 |
 | **(8)** | Arduino Mega 2560 | [Arduino](https://store.arduino.cc/products/arduino-mega-2560-rev3) | 1 |
 | **(14)** | Hydraulic Quick Release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
+| **(21)** | Pressure equalising element | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
 | **(32)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
 | **(33)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
 | **(34)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
@@ -128,8 +129,8 @@ SCHRAUBEN, KLEMMEN, ETC.
 | Partnumber | Material | File | Quantity | 
 | :----: | :----: | :----: | :----: |
 | **(1)** | PLA | back_wall.stl | 1 |
-| **(5)** | BlackV4 | valve_interface.stl | 1 |
-| **(6)** | BlackV4 | tube_adapter.stl | 1 |
+| **(5)** | BlackV4 | valve_interface.stl | 2 |
+| **(6)** | BlackV4 | tube_adapter.stl | 10 |
 | **(8)** | PLA | micropump_frame_A.stl | 1 |
 | **(9)** | PLA | micropump_frame_B.stl | 1 |
 | **(10)** | PLA | damper_frame.stl | 1 |
