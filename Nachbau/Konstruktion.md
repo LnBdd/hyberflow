@@ -160,47 +160,6 @@ nav_order: 1
 --- Old Version --
 
 
-| Bauteil-Nr. | Name | Funktion | Anzahl <br> pro Druckmodul |
-| :----: | :----: | :----: | :----: |
-| **(1)** | Rückwand | Gehäuse |1|
-| **(2)** | Zylinderkopfschraube M2x8 | Montage von **(1)**, **(15)** und **(16)** | 8 |
-| **(3)** | [Hardware](https://github.com/Jhundertmark/Hydraulic_Printing_Module/blob/main/Nachbau/Hardware.md) | Regelung | 1 |
-| **(4)** | Senkkopfschraube M2,5x4 | Montage von **(3)** | 2 |
-| **(5)** | Anschlussbuchse | Integration Ventil | 2 |
-| **(6)** | Schlauch-Adapter | Abdichtung und Führung der Antriebsflüssigkeit aus **(5)**, **(12)**, **(18)** und **(25)** | 10 |
-| **(7)** | Zylinderkopfschraube M2x16 | Montage von **(5)** | 4 |
-| **(8)** | Halterung Mikropumpe A | Montage von **(3)** | 1 |
-| **(9)** | Halterung Mikropumpe B | Montage von **(3)** | 1 |
-| **(10)** | Halterung Pulsationsdämpfer | Montage von **(3)** | 1 |
-| **(11)** | Zylinderkopfschraube M1,6x8 | Montage von **(8)**, **(9)** und **(10)** | 10 |
-| **(12)** | Abdeckung | Gehäuse | 1 |
-| **(13)** | Senkkopfschraube M2,5x8 | Montage von **(12)** und **(19)** | 4 |
-| **(14)** | Schnellkupplung | Abdichtung und Führung der Antriebsflüssigkeit aus **(12)**| 2 |
-| **(15)** | Obere Halterung | Stabilisierung von **(18)** | 1 |
-| **(16)** | Untere Halterung | Stabilisierung von **(18)** | 1 |
-| **(17)** | Gewindeeinsatz M2 | Montage von **(15)** und **(16)** | 4 |
-| **(18)** | Reservoir | Aufbewahrung Antriebsflüssigkeit | 1 |
-| **(19)** | Reservoir Deckel | Abdichtung von **(18)** | 1 |
-| **(20)** | Stopfen | Abdichtung von **(18)** | 1 |
-| **(21)** | Druckausgleichselement | Belüftung von **(18)**, **(24)** und **(25)** | 4 |
-| **(22)** | Glasspritze 20 ml | Hydraulik | 1 |
-| **(23)** | Glaskolben geschnitten | Verbesserung der Tribologie von **(24)** | 1 |
-| **(24)** | Stempel | Hydraulik | 1 |
-| **(25)** | Spritzendeckel | Abdichtung von **(22)** | 1 |
-| **(26)** | Obere Verankerungsplatte | Stabilisierung von **(18)** und **(22)** | 1 |
-| **(27)** | Untere Verankerungsplatte | Stabilisierung von **(18)** und **(22)** | 1 |
-| **(28)** | Schlauch AD Ø 3mm, ID Ø 1,3mm | Hydraulik | 1 |
-| **(29)** | Schlauchklemme | Hydraulik | 2 |
-| **(30)** | Schlauchschellen | Hydraulik | 18 |
-| **(31)** | y-Schlauchverbindung | Hydraulik | 2 |
-| **(32)** | O-Ring 11,6x2,4 | Abdichtung | 1 |
-| **(33)** | O-Ring 15,3x2,4 | Abdichtung | 1 |
-| **(34)** | O-Ring 4x1 | Abdichtung | 1 |
-
-Auf die Darstellung der Schlauchverbindungen wurde in der Abbildung aus Gründen der Übersichtlichkeit verzichtet. Alle Details zum hydraulischen System sind im Abschnitt 'Hydraulik' zu finden. **(29)** und **(31)** sind daher in dieser Abbildung ebenfalls nicht dargestellt.
-
-
-
 ## Hydraulik
 
 <p align="center">
@@ -211,32 +170,6 @@ In der Standardeinstellung sind die Ausgänge 'R' und 'A' der Ventile verbunden.
 
 Während der Flusssensor bidirektional messen kann, würde die Mikropumpe beschädigt werden, wenn die Antriebsflüssigkeit entgegen der Pumprichtung durch die Mikropumpe gefördert werden würde.
 
-## Montage
-
-1. Montieren Sie **(1)** am Hauptgehäuse mithilfe von **(2)**.
-2. Setzen Sie ein Ventil in **(5)** ein (2x)
-3. Schrauben Sie **(6)** in die seitlichen Ausgänge von **(5)** (6x).
-4. Montieren Sie **(5)** auf **(1)** mithilfe von **(7)** (2x) und den Flusssensor auf **(1)** mithilfe von **(4)**.
-5. Setzen Sie eine Mikropumpe in **(8)**, die zweite Mikropumpe in **(9)** und den Pulsationsdämpfer in **(10)** ein.
-6. Montieren Sie **(10)** auf **(9)**, **(9)** auf **(8)** und **(8)** auf **(1)** unter Verwendung von **(11)**.
-7. Schneiden Sie ein M6 Gewinde in die die beiden Aussparungen auf der Innenseite von **(12)**. Schneiden Sie ein M3 Gewinde in die beiden Aussparungen auf der Außenseite von **(12)**.
-8. Verschrauben Sie **(6)** in **(12)** (2x).
-9. Montieren Sie **(14)** gewindeseitig an die Außenseite von **(12)** (2x).
-10. Drehen Sie **(6)** in die seitliche Öffnung von **(25)**.
-11. Schmelzen Sie **(17)** in **(15)** und **(16)** mithilfe eines Lötkolbens ein (4x).
-12. Verschrauben Sie **(15)** und **(16)** mit **(12)** unter Verwendung von **(2)**.
-13. Verbinden Sie **(28)** entsprechend der Prinzipskizze im Kapitel **Hydraulik**, indem entsprechend lange Schlauchstücke geschnitten werden. Für die Verbindung von drei Schlauchenden kann **(31)** verwendet werden. Verbinden Sie das aus dem Flusssensor leitende Ende des Schlauchs mit dem oberen Schlauch-Adapter in **(12)** und das aus einer der Anschlussbuchsen leitende Ende des Schlauchs mit dem unteren Schlauch-Adapter in **(12)**.
-14. Fädeln Sie **(29)** auf das Schlauchstück zwischen **(14)** und **(25)** und auf das Schlauchstück zwischen **(14)** und **(18)**.
-15. Setzen Sie **(30)** auf alle Schlauchenden im System (10x an **(6)**, 2x an **(14)**, 2x an Pulsationsdämpfer und 4x an Mikropumpen.
-16. Montieren Sie **(12)** an **(1)** und **(19)** auf **(18)** mithilfe von **(13)**.
-17. Stülpen Sie **(34)** auf **(20)** bis hinter die kleine Erhebung.
-18. Drehen Sie **(6)** in die untere seitliche Öffnung von **(18)** und **(20)** in die obere seitliche Öffnung von **(18)**.
-19. Kleben Sie **(21)** auf die frontale Öffnung von **(18)** (2x).
-20. Kleben Sie **(21)** auf **(24)** auf die Seite mit nur einer Öffnung und kleben Sie **(21)** auf die seitliche kleine Öffnung von **(25)**.
-21. Stülpen Sie **(32)** auf **(24)** und **(33)** auf **(25)**.
-22. Setzen Sie **(24)** in **(23)** ein.
-
-Die Montage der restlichen Bauteile ist Teil des Zusammenbaus, der vor jedem neuen Druckzyklus durchgeführt werden muss. Dieser wird im Rahmen der [Betriebsanleitung](https://github.com/Jhundertmark/Hydraulic_Printing_Module/blob/main/Betrieb/main.md) weiter beschrieben.
 
 ## Montagehinweise
 
@@ -261,7 +194,7 @@ Das Reservoir **(18)** hat ein maximales Fassungsvermögen von 40 ml. Der Boden 
 
 In der Spritze trennt ein Stempel **(24)** die Biotinte von der Antriebsflüssigkeit. Der 3D-gedruckte Stempel wird über einen O-Ring in einen umfunktionierten Glaskolben eingesetzt. Der von innen hohle Glaskolben ist der mit der Spritze ursprünglich mitgelieferte Glaskolben und hat somit optimale Reibungseigenschaften bei gleichzeitig vollständiger Abdichtung zwischen Glasspritze und Glaskolben. Der Glaskolben wird in 20 mm dicke Scheiben geschnitten und dient somit als Außenhülle für den eigentlichen Stempel.
 
-## Spritzendeckel
+### Spritzendeckel
 
 Als Teil des Entwicklungsprozesses wurde überlegt an den Spritzendeckel einen weiterer Anschluss mit Luer-Lock-System zu ergänzen. Dieser Anschluss könnte genutzt werden, um das Restvolumen der Antriebsflüssigkeit in der Spritze aufzufüllen, nachdem die Spritze mit dem Spritzendeckel verschlossen wird. Der in der Betriebsanleitung beschriebene Mechanismus hat sich jedoch als voll funktionsfähig erwiesen, um das Restvolumen aufzufüllen, und der zusätzliche Anschluss würde das Risiko einer möglichen Undichtigkeit bergen. Daher wurde der Ansatz eines weiteren standartisierten Anschlusses verworfen.
 
