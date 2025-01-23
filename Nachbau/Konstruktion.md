@@ -33,13 +33,13 @@ nav_order: 1
 
 | Partnumber | Material | File | Quantity | 
 | :----: | :----: | :----: | :----: |
-| **(1)** | PLA | back_wall.stl | 1 |
-| **(5)** | BlackV4 | valve_interface.stl | 2 |
-| **(6)** | BlackV4 | tube_adapter.stl | 6 |
-| **(8)** | PLA | micropump_frame_A.stl | 1 |
-| **(9)** | PLA | micropump_frame_B.stl | 1 |
-| **(10)** | PLA | damper_frame.stl | 1 |
-| **(12)** | PLA | cover.stl | 1 |
+| **(9)** | PLA | back_wall.stl | 1 |
+| **(10)** | BlackV4 | valve_interface.stl | 2 |
+| **(11)** | BlackV4 | tube_adapter.stl | 6 |
+| **(12)** | PLA | micropump_frame_A.stl | 1 |
+| **(13)** | PLA | micropump_frame_B.stl | 1 |
+| **(14)** | PLA | damper_frame.stl | 1 |
+| **(15)** | PLA | cover.stl | 1 |
 
 
 ## [Bioprinting Cartrdige](./BioprintingCartridge.md)
@@ -48,41 +48,41 @@ nav_order: 1
 
 | Part Number | Part | Supplier | Quantity | 
 | :----: | :----: | :----: | :----: |
-| **(14)** | Hydraulic Quick Release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
-| **(32)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
-| **(33)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
-| **(34)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
-| **(21)** | Pressure equalising element | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
-| **(22)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
+| **(16)** | Hydraulic Quick Release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
+| **(17)** | Pressure equalising element | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
+| **(18)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
+| **(19)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
+| **(20)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
+| **(21)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
 
 ### 3D printed components
 
 | Partnumber | Material | File | Quantity | 
 | :----: | :----: | :----: | :----: |
-| **(15)** | PLA | upper_support.stl | 1 |
-| **(16)** | PLA | lower_support.stl | 1 |
-| **(18)** | BlackV4 | reservoir.stl | 1 |
-| **(19)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
-| **(20)** | BlackV4 | plug.stl | 1 |
-| **(24)** | BlackV4 | stamp.stl | 1 |
-| **(25)** | BlackV4 | syringe_cap.stl | 1 |
-| **(6)** | BlackV4 | tube_adapter.stl | 4 |
-| **(12)** | PLA | cover.stl | 1 |
-| **(26)** | PLA | upper_support_plate.stl | 1 |
-| **(27)** | PLA | lower_support_plate.stl | 1 |
+| **(22)** | PLA | upper_support.stl | 1 |
+| **(23)** | PLA | lower_support.stl | 1 |
+| **(24)** | BlackV4 | reservoir.stl | 1 |
+| **(25)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
+| **(26)** | BlackV4 | plug.stl | 1 |
+| **(27)** | BlackV4 | stamp.stl | 1 |
+| **(28)** | BlackV4 | syringe_cap.stl | 1 |
+| **(29)** | BlackV4 | tube_adapter.stl | 4 |
+| **(30)** | PLA | cover.stl | 1 |
+| **(31)** | PLA | upper_support_plate.stl | 1 |
+| **(32)** | PLA | lower_support_plate.stl | 1 |
 
 
 ## General Assembly Components
 
 SCHRAUBEN, KLEMMEN, ETC.
-| XXX | XXX |
-| :----: | :----: | 
-| **(17)** | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) |
-| **(4)** | Senkkopfschraube M2,5x4 | 
-| **(28)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) |
-| **(29)** | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) |
-| **(30)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) 
-| **(31)** | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) |
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(33)** | Thread insert | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) |
+| **(34)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) |
+| **(35)** | Hose Clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) 
+| **(36)** | Y-Hose Connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) |
+| **(37)** | Hose Clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) |
+| **(38)** | Senkkopfschraube M2,5x4 | 
 
 ------
 
