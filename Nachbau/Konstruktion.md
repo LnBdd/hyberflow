@@ -169,33 +169,3 @@ nav_order: 1
 In der Standardeinstellung sind die Ausgänge 'R' und 'A' der Ventile verbunden. Sobald die Ventile mit 12 V betrieben werden, schalten sie um, sodass 'A' und 'P' miteinander verbunden werden.
 
 Während der Flusssensor bidirektional messen kann, würde die Mikropumpe beschädigt werden, wenn die Antriebsflüssigkeit entgegen der Pumprichtung durch die Mikropumpe gefördert werden würde.
-
-
-## Montagehinweise
-
-### Abdichtungen
-
-Die beiden pro hydraulischem Druckmodul erforderlichen Ventile werden jeweils in einer Anschlussbuchse **(5)** gelagert, um die Leitung des Wassers zu kontrollieren. Es wird empfohlen sowohl die Anschlussbuchsen, als auch die Ventile beim Einsetzen in die Anschlussbuchsen mit Isopropanol zu schmieren, um eine Beschädigung der O-Ringe am Ventil zu vermeiden. Zudem sollte vor dem Einsetzen des Ventils geprüft werden, ob alle Ausgänge an der Anschlussbuchse einwandfrei gedruckt wurden und wasserdurchlässig sind, da das Ventil nach dem Einsetzen in die Anschlussbuchse nicht mehr schadensfrei aus dieser entfernt werden kann.
-
-Im Druckmodul sind Schlauch-Adapter **(6)** an verschiedenen Stellen verbaut, um den Wasserfluss aus Bauteilen wie den Anschlussbuchsen oder dem Reservoir in die Schläuche zu ermöglichen. Dazu werden die Schlauch-Adapter über ein Gewinde in den Bauteilen fixiert. Es wurde versucht, den Schlauch-Anschluss direkt an die entsprechenden Bauteile zu drucken. Dies führte allerdings entweder zu verstopften Anschlüssen oder dazu, dass die Anschlüsse beim Entfernen der Supportstrukturen abbrachen. Um eine vollständige Abdichtung zwischen dem Schlauch-Adapter und dem entsprechenden Bauteil zu gewährleisten, wird empfohlen Gewindedichtband zu verwenden. Zudem können nach der Montage noch Lufteinschlüsse in den Schläuchen sein, die durch Probeläufe vollständig entfernt werden müssen, damit der Flusssensor korrekte Messungen durchführen kann.
-
-### Druckausgleichselemente
-
-Die selbstklebenden Druckausgleichselemente **(21)** umfassen eine Membran, die luftdurchlässig, allerdings nicht wasserdurchlässig ist. Diese eingeschränkte Permeabilität wird zur Entlüftung sowohl im Reservoir als auch am Stempel und Spritzendeckel verwendet.
-An den vorgesehenen Klebeflächen für die Druckausgleichselemente sollte, wenn möglich, auf das 3D-Drucken von Supportstrukturen verzichtet werden, um eine möglichst ebene Fläche zu erhalten und somit die Haftkraft der selbstklebenden Elemente zu gewährleisten.
-Zudem wird empfohlen die Druckausgleichselemente nach dem Aufkleben und vor der dem ersten Einsatz 24h trocknen zu lassen.
-Die wiederholte Nutzung eines Druckausgleichselements am Stempel und Spritzendeckel hat gezeigt, dass die Luftdurchlässigkeit stark nachlässt, sobald das Element mit Flüssigkeit in Kontakt gekommen ist. Nachdem das Druckausgleichselement trocknen konnte, ist die Lutdurchlässigkeit jedoch wieder hergestellt und das Elemten kann erneut zur Entlüftung in der Spritze eingesetzt werden. Daher wird empfohlen mehrere Stempel und Spritzendeckel mit Druckausgleichselementen zu präparieren.
-
-### Reservoir
-
-Das Reservoir **(18)** hat ein maximales Fassungsvermögen von 40 ml. Der Boden des Reservoirs ist angeschrägt, sodass das Wasser in Richtung der halbmondförmigen Spitzen fließt. In diesen Spitzen beginnt jeweils ein Tunnelsystem, welches sich vereint und dann zur Seite herausgeleitet wird.
-
-### Stempel
-
-In der Spritze trennt ein Stempel **(24)** die Biotinte von der Antriebsflüssigkeit. Der 3D-gedruckte Stempel wird über einen O-Ring in einen umfunktionierten Glaskolben eingesetzt. Der von innen hohle Glaskolben ist der mit der Spritze ursprünglich mitgelieferte Glaskolben und hat somit optimale Reibungseigenschaften bei gleichzeitig vollständiger Abdichtung zwischen Glasspritze und Glaskolben. Der Glaskolben wird in 20 mm dicke Scheiben geschnitten und dient somit als Außenhülle für den eigentlichen Stempel.
-
-### Spritzendeckel
-
-Als Teil des Entwicklungsprozesses wurde überlegt an den Spritzendeckel einen weiterer Anschluss mit Luer-Lock-System zu ergänzen. Dieser Anschluss könnte genutzt werden, um das Restvolumen der Antriebsflüssigkeit in der Spritze aufzufüllen, nachdem die Spritze mit dem Spritzendeckel verschlossen wird. Der in der Betriebsanleitung beschriebene Mechanismus hat sich jedoch als voll funktionsfähig erwiesen, um das Restvolumen aufzufüllen, und der zusätzliche Anschluss würde das Risiko einer möglichen Undichtigkeit bergen. Daher wurde der Ansatz eines weiteren standartisierten Anschlusses verworfen.
-
-
