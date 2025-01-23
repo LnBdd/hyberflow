@@ -6,11 +6,7 @@ nav_order: 2
 
 
 <p align="center">
-  <img src="../Abbildungen/Control.svg" width=600>
-</p>
-
-<p align="center">
-  <img src="../Abbildungen/Montage_01.svg" width=200>
+  <img src="../Abbildungen/Elektronik_1_Explosion.svg" width=1200>
 </p>
 
 Mount the back wall onto the main housing using four M2x8 screws.
