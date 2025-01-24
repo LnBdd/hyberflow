@@ -34,34 +34,26 @@ nav_order: 3
 
 ## Loading 
 
-Entsprechend dem in der [Montageanweisung](https://github.com/Jhundertmark/Hydraulic_Printing_Module/blob/main/Nachbau/Konstruktion.md) zusammengebauten Druckmodul sind folgenden Schritte notwendig, um einen Druckzyklus zu starten.
+Once the printing module has been assembled using the [assembly instructions](./Konstruktion.md), the following steps are necessary to start a printing cycle.
 <br>
 1. Fill the reservoir with the actuation fluid. Either unscrew the lid of the reservoir or use the filling port. If you use the filling port, fill the reservoir slowly so that the pressure within the reservoir can be equalized thorugh the membrane.
 2. Seal the outlet of the glasssyringe with a cap
 3. Use an auxiallary syringe to fill the required amount of bioink into the glasssyringe
 4. Insert the divider with the pressure equalizing membrane facing towards the bioink into the glassyringe
-5. Slowly push down the diveder using the tweezers
+5. Slowly push down the divider using the tweezers
 6. Fill the remaining volume of the glasssyringe with sterile water until the water level is approximately 3 mm below the top edge of the glasssyringe
 7. Fit the lid to the syringe so that the orientation of the outer rim matches the rim of the glassyringe. Open the hose clamp to let the additional water flow out.
-8. No air should remain within the glasssyringe. If the amount of water (see 5.) was not enough to fill the syringe completely, open the port X and slowly add water to the system until all air escaped through the pressure equalizing membrane
+8. No air should remain within the glasssyringe. If the amount of water (see 6.) was not enough to fill the syringe completely, use another syringe to slowly add water to the system through the tube adapter until all air escaped through the pressure equalizing membrane
 9. Fit the reservoir to the printing module
 10. Connect the reservoir to the actuation unit using the quick release
 11. Fit the syringe to the printing module
 12. Secure the syringe and the reservoir using the two fasteners
 13. Connect the syringe to the actuation unit using the quick release
-14. Ensure that the two hose clamps (one between reservoir and actuation unit and one between actuation unit and syringe) are open
-
-
-&nbsp;
-
-13. Bestätigen Sie in Python, dass ein neuer Druckzyklus gestartet werden soll und, dass die Vorbereitungen abgeschlossen sind.
-14. Bestätigen Sie in Python, sobald Biotinte aus der Spritzendüse extrudiert wird und damit die restliche Luft in der Spritze verdrängt wurde.
-15. Geben Sie die Anzahl der zu erreichenden Sollgeschwindigkeiten ein.
-16. Geben Sie die Sollgeschwindigkeiten und die Dauer, für die sie gehalten werden sollen, in chronologischer Reihenfolge ein. Der Druckzyklus wird anschließend automatisch ausgeführt.
+14. Ensure that the two hose clips (one between reservoir and actuation unit and one between actuation unit and syringe) are open
 
 ## Unloading
 
-1. Close the two hose clamps
+1. Close the two hose clips
 2. Open both quick release
 3. Remove the fasteners
 4. Remove the Syringe
