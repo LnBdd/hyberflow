@@ -8,6 +8,10 @@
   <img src="../Abbildungen/Abdeckung.svg" width=600>
 </p>
 
+<p align="center">
+  <img src="../Abbildungen/Spritze.svg" width=600>
+</p>
+
 ## Assembly
 
 <p align="center">
