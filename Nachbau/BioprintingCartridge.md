@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="../Abbildungen/Abdeckung.svg" width=1200>
+  <img src="../Abbildungen/Abdeckung.svg" width=600>
 </p>
 
 ## Assembly
