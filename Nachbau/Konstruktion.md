@@ -27,8 +27,8 @@ nav_order: 1
 | Partnumber | Material | File | Quantity | 
 | :----: | :----: | :----: | :----: |
 | **(8)** | PLA | back_wall.stl | 1 |
-| **(9)** | BlackV4 | valve_interface.stl | 2 |
-| **(10)** | BlackV4 | tube_adapter.stl | 6 |
+| **(9)** | MED610 | valve_interface.stl | 2 |
+| **(10)** | MED610 | tube_adapter.stl | 6 |
 | **(11)** | PLA | micropump_frame_A.stl | 1 |
 | **(12)** | PLA | micropump_frame_B.stl | 1 |
 | **(13)** | PLA | damper_frame.stl | 1 |
@@ -55,12 +55,12 @@ nav_order: 1
 | **(21)** | PLA | cover.stl | 1 |
 | **(22)** | PLA | upper_support.stl | 1 |
 | **(23)** | PLA | lower_support.stl | 1 |
-| **(24)** | BlackV4 | reservoir.stl | 1 |
-| **(25)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
-| **(26)** | BlackV4 | plug.stl | 1 |
-| **(27)** | BlackV4 | stamp.stl | 1 |
-| **(28)** | BlackV4 | syringe_cap.stl | 1 |
-| **(29)** | BlackV4 | tube_adapter.stl | 4 |
+| **(24)** | MED610 | reservoir.stl | 1 |
+| **(25)** | MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
+| **(26)** | MED610 | plug.stl | 1 |
+| **(27)** | MED610 | stamp.stl | 1 |
+| **(28)** | MED610 | syringe_cap.stl | 1 |
+| **(29)** | MED610 | tube_adapter.stl | 4 |
 | **(30)** | PLA | upper_support_plate.stl | 1 |
 | **(31)** | PLA | lower_support_plate.stl | 1 |
 
