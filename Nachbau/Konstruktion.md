@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="../Abbildungen/Übersicht.png" width=800>
+  <img src="../Abbildungen/ActuationUnit_BioprintingCartrige.png" width=800>
 </p>
 
 ## [Actuation Unit](./ActuationUnit.md)
