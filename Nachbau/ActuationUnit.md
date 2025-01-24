@@ -9,67 +9,67 @@ nav_order: 2
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
 </p>
 
-Mount the back wall onto the main housing using four M2x8 screws.
+Mount the back wall **(8)** onto the main housing using four M2x8 screws **(39)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_02.svg" width=200>
 </p>
 
-Attach the flow sensor to the back wall using two M2,5x4 screws.
+Attach the flow sensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(37)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_03.svg" width=200>
 </p>
 
-Insert a valve in each of the two valve interfaces.
+Insert a valve **(4)** in each of the two valve interfaces **(9)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_04.svg" width=200>
 </p>
 
-Insert tube adapters into the side of the valve interfaces using thread sealing tape.
+Insert tube adapters **(10)** into the side of the valve interfaces **(9)** using thread sealing tape.
 
 <p align="center">
   <img src="../Abbildungen/Montage_05.svg" width=200>
 </p>
 
-Attach the valve interfaces to the back wall using two M2x16 screws each.
+Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(40)** each.
 
 <p align="center">
   <img src="../Abbildungen/Montage_06.svg" width=200>
 </p>
 
-Fit the first micropump in the micropump frame A.
+Fit the first micropump **(1)** in the micropump frame A **(11)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_07.svg" width=200>
 </p>
 
-Mount the micropump frame A with the micropump to the back wall using four M1,6x8 screws.
+Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four M1,6x8 screws **(38)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_08.svg" width=200>
 </p>
 
-Fit the second micropump in the micropump frame B.
+Fit the second micropump **(1)** in the micropump frame B **(12)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_09.svg" width=200>
 </p>
 
-Mount the micropump frame B with the micropump to the micropump frame A using two M1,6x8 screws.
+Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using two M1,6x8 screws **(38)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_10.svg" width=200>
 </p>
 
-Fit the pulsation damper in the damper frame.
+Fit the pulsation damper **(2)** in the damper frame **(13)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_11.svg" width=200>
 </p>
 
-Mount the damper frame to the micropump frame B using four M1,6x8 screws.
+Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws **(38)**.
 
 ## Flowchart
 
