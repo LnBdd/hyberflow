@@ -3,12 +3,14 @@ title: Actuation Unit
 parent: Konstruktion
 nav_order: 2
 ---
-
+ # Actuation Unit
 
 <p align="center">
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
 </p>
 
+## Assembly
+ 
 Mount the back wall **(8)** onto the main housing using four M2x8 screws **(38)**.
 
 <p align="center">
