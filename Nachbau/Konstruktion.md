@@ -4,8 +4,6 @@ parent: Herstellungsanleitung
 nav_order: 1
 ---
 
-# Konstruktive Umsetzung des hydraulischen Druckmoduls
-
 <p align="center">
   <img src="../Abbildungen/Übersicht.png" width=800>
 </p>
