@@ -71,6 +71,12 @@ Fit the pulsation damper **(2)** in the damper frame **(13)**.
 
 Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws **(38)**.
 
+<p align="center">
+  <img src="../Abbildungen/Elektronik.png" width=200>
+</p>
+
+The front view of the back wall with all control components should look like the above figure.
+
 ## Flowchart
 
 <p align="center">
