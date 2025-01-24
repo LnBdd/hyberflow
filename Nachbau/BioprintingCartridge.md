@@ -1,7 +1,7 @@
 # Bioprinting Cartridge
 
 <p align="center">
-  <img src="../Abbildungen/Reservoir.svg" width=800>
+  <img src="../Abbildungen/Reservoir.svg" width=700>
 </p>
 
 <p align="center">
