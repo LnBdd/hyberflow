@@ -61,8 +61,8 @@ nav_order: 1
 | **(27)** | MED610 | divider.stl | 1 |
 | **(28)** | MED610 | syringe_cap.stl | 1 |
 | **(29)** | MED610 | tube_adapter.stl | 4 |
-| **(30)** | PLA | upper_support_plate.stl | 1 |
-| **(31)** | PLA | lower_support_plate.stl | 1 |
+| **(30)** | PLA | upper_fastener.stl | 1 |
+| **(31)** | PLA | lower_fastener.stl | 1 |
 
 
 ## General Assembly Components
@@ -130,8 +130,8 @@ nav_order: 1
 | **(27)** | BlackV4 | divider.stl | 1 |
 | **(28)** | BlackV4 | syringe_cap.stl | 1 |
 | **(29)** | BlackV4 | tube_adapter.stl | 4 |
-| **(30)** | PLA | upper_support_plate.stl | 1 |
-| **(31)** | PLA | lower_support_plate.stl | 1 |
+| **(30)** | PLA | upper_fastener.stl | 1 |
+| **(31)** | PLA | lower_fastener.stl | 1 |
 
 
 #### Downloads
