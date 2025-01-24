@@ -7,11 +7,7 @@ nav_order: 1
 # Konstruktive Umsetzung des hydraulischen Druckmoduls
 
 <p align="center">
-  <img src="../Abbildungen/Explosion_2.svg" width=1000>
-</p>
-
-<p align="center">
-  <img src="../Abbildungen/Explosion_3.svg" width=600>
+  <img src="../Abbildungen/Übersicht.png" width=1000>
 </p>
 
 ## [Actuation Unit](./ActuationUnit.md)
