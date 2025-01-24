@@ -57,7 +57,7 @@ nav_order: 1
 | **(23)** | PLA | lower_support.stl | 1 |
 | **(24)** | MED610 | reservoir.stl | 1 |
 | **(25)** | MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
-| **(26)** | MED610 | plug.stl | 1 |
+| **(26)** | MED610 | fillig_port_plug.stl | 1 |
 | **(27)** | MED610 | divider.stl | 1 |
 | **(28)** | MED610 | syringe_cap.stl | 1 |
 | **(29)** | MED610 | tube_adapter.stl | 4 |
@@ -126,7 +126,7 @@ nav_order: 1
 | **(23)** | PLA | lower_support.stl | 1 |
 | **(24)** | BlackV4 | reservoir.stl | 1 |
 | **(25)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
-| **(26)** | BlackV4 | plug.stl | 1 |
+| **(26)** | MED610 | fillig_port_plug.stl | 1 |
 | **(27)** | BlackV4 | divider.stl | 1 |
 | **(28)** | BlackV4 | syringe_cap.stl | 1 |
 | **(29)** | BlackV4 | tube_adapter.stl | 4 |
