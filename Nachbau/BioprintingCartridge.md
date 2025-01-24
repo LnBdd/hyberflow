@@ -72,7 +72,7 @@ Insert a tube adapter **(29)** into the side of the reservoir **(24)** using thr
   <img src="../Abbildungen/Montage_21.svg" width=200>
 </p>
 
-Slide the O-ring 4x1 **(19)** onto the plug **(26)** up to behind the small elevation and insert the plug into the recess on the side of the reservoir **(24)**.
+Slide the O-ring 4x1 **(19)** onto the filling port filling port plug **(26)** up to behind the small elevation and insert the filling port plug into the recess on the side of the reservoir **(24)**.
 
 <p align="center">
   <img src="../Abbildungen/Montage_22.svg" width=200>
