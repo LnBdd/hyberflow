@@ -1,5 +1,13 @@
 # Bioprinting Cartridge
 
+<p align="center">
+  <img src="../Abbildungen/Reservoir.svg" width=1200>
+</p>
+
+<p align="center">
+  <img src="../Abbildungen/Abdeckung.svg" width=1200>
+</p>
+
 ## Assembly
 
 <p align="center">
