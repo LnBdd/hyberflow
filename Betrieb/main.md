@@ -20,8 +20,8 @@ nav_order: 3
 | **(4)** | Reservoir |
 | **(5)** | Filling port plug |
 | **(6)** | Actuation unit |
-| **(7)** | Fastener top (white) |
-| **(8)** | Fastener bottom (black) |
+| **(7)** | Upper fastener (white) |
+| **(8)** | Lower fastener (black) |
 | **(9)** | Quick release 1 |
 | **(10)** | Quick release 2 |
 
