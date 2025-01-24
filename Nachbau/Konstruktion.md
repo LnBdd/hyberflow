@@ -42,7 +42,7 @@ nav_order: 1
 | :----: | :----: | :----: | :----: |
 | **(14)** | Thread insert | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) | 4 |
 | **(15)** | Hydraulic quick release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
-| **(16)** | Pressure equalising element | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
+| **(16)** | Pressure equalising membrane | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
 | **(17)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
 | **(18)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
 | **(19)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
@@ -58,7 +58,7 @@ nav_order: 1
 | **(24)** | MED610 | reservoir.stl | 1 |
 | **(25)** | MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
 | **(26)** | MED610 | plug.stl | 1 |
-| **(27)** | MED610 | stamp.stl | 1 |
+| **(27)** | MED610 | divider.stl | 1 |
 | **(28)** | MED610 | syringe_cap.stl | 1 |
 | **(29)** | MED610 | tube_adapter.stl | 4 |
 | **(30)** | PLA | upper_support_plate.stl | 1 |
@@ -96,7 +96,7 @@ nav_order: 1
 | **(7)** | Adafruit Metro Mini| [Adafruit](https://www.adafruit.com/product/2590) | 1 |
 | **(15)** | Thread insert | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) | 4 |
 | **(16)** | Hydraulic quick release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
-| **(17)** | Pressure equalising element | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
+| **(17)** | Pressure equalising membrane | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
 | **(18)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
 | **(19)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
 | **(20)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
@@ -127,7 +127,7 @@ nav_order: 1
 | **(24)** | BlackV4 | reservoir.stl | 1 |
 | **(25)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
 | **(26)** | BlackV4 | plug.stl | 1 |
-| **(27)** | BlackV4 | stamp.stl | 1 |
+| **(27)** | BlackV4 | divider.stl | 1 |
 | **(28)** | BlackV4 | syringe_cap.stl | 1 |
 | **(29)** | BlackV4 | tube_adapter.stl | 4 |
 | **(30)** | PLA | upper_support_plate.stl | 1 |
