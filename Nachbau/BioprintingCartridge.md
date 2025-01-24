@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="../Abbildungen/Spritze.svg" width=300>
+  <img src="../Abbildungen/Spritze.svg" width=400>
 </p>
 
 ## Assembly
