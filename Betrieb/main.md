@@ -7,7 +7,7 @@ nav_order: 3
 # User Manual for the HYBERFLOW
 
 <p align="center">
-  <img src="../Abbildungen/Explosion_1.svg" width=500>
+  <img src="../Abbildungen/Übersicht.png" width=800>
 </p>
 
 ## Components
