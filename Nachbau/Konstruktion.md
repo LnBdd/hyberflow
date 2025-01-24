@@ -24,10 +24,9 @@ nav_order: 1
 | **(2)** | mp-damper | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-damper-pulsation-damper/) | 1 |
 | **(3)** | Flow sensor SLF3S-0600F | [Sensirion](https://sensirion.com/de/produkte/katalog/SLF3S-0600F) | 1 |
 | **(4)** | 3/2-way micro-switching valve | [Staiger](https://www.staiger.de/ventil-online-shop/start/mikroventile/va-304-913-v-08-sap-12-1-detail) | 2 |
-| **(5)** | Resistor 4.7kΩ | any | 2 |
+| **(5)** | PCB |  | 1 |
 | **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
-| **(7)** | 5V Relais-Modul | [Tru Components](https://www.conrad.de/de/p/tru-components-tc-9927156-relais-modul-1-st-passend-fuer-entwicklungskits-arduino-2481789.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=CjwKCAjwnK60BhA9EiwAmpHZw33gOABH-W5sgy4y142vKv9I7WKVQ1G17AHRNnxb6aWDHuf778MKgBoC0Q4QAvD_BwE&refresh=true) | 1 |
-| **(8)** | Arduino Mega 2560 | [Arduino](https://store.arduino.cc/products/arduino-mega-2560-rev3) | 1 |
+| **(7)** | Adafruit Metro Mini| [Adafruit](https://www.adafruit.com/product/2590) | 1 |
 
 ### 3D printed components
 
