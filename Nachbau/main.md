@@ -12,11 +12,11 @@ nav_order: 2
   <img src="../Abbildungen/Übersicht.png" width=800>
 </p>
 
-# Herstellungsanleitung zum Nachbauen des hydraulischen Druckmoduls
+# Manufacturing instructions for replicating the hydraulic printing module
 
-Das hydraulisches Druckmodul umfasst ein Reservoir für die Antriebsflüssigkeit, eine Spritze, die pro Spritze erforderlichen Regelungs- und Steuerungskomponenten sowie die Abdeckungen und Halterungen.
+The hydraulic printing module comprises a reservoir for the actuating fluid, a syringe, the regulation and control components required for each syringe and the covers and supports.
 
-Die Bauteile sind (mit Ausnahme der elektronischen Komponenten und weniger zugekaufter Teile) vollständig 3D-druckbar. Die FDM-Technologie wird verwendet zum Drucken der Abdeckungen und Halterungen. Für Bauteile, die komplexere Strukturen umfassen oder hohe Anforderungen an die Passgenauigkeit haben, wird die Resin-Technologie verwendet. Zum Druck einer Dichtungslippe auf einem Bauteil kommt zusätzlich die Polyjet-Technologie mit dem Multimaterial-Druck zum Einsatz.
+The 3D printed componenents should be printed from thermoplastic material such as PLA on a fused deposition modelling (FDM) printer. This allows to melt insert threads into the components at a later stage. All components that are in close contact with the bioink or the actuation fluid should be printed from biocompatible and sterilisable material such as Stratasys' MED610. For the lid of the reservoir (X) a multi-material technique is necessary to print an elastic seal directly onto the lid. We used a Stratasys Polyjet printer (Objet 350 Connex 3) with MED610 as the material for the lid and Agilus for the seal.
 
 | Drucker | Materialien |
 | :----: | :----: |
