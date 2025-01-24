@@ -12,7 +12,7 @@ The self-adhesive pressure equalization elements contain a membrane that is perm
 The reservoir has a maximum capacity of 40 ml. The bottom of the reservoir is angled so that the water flows to one side of the reservoir and is led out of the reservoir through a tunnel system.
 
 ## Stamp
-A stamp separates the bio-ink from the actuating liquid in the syringe. The 3D-printed stamp is fitted into a modified glass piston using an O-ring. The hollow glass piston is the glass piston originally supplied with the syringe and therefore has optimum friction properties with complete sealing between the glass syringe and glass piston. The glass bulb is cut into 20 mm thick slices and thus serves as an outer shell for the actual stamp.
+A stamp separates the bioink from the actuating liquid in the syringe. The 3D-printed stamp is fitted into a modified glass piston using an O-ring. The hollow glass piston is the glass piston originally supplied with the syringe and therefore has optimum friction properties with complete sealing between the glass syringe and glass piston. The glass bulb is cut into 20 mm thick slices and thus serves as an outer shell for the actual stamp.
 
 ## Syringe cap
 As part of the development process, it was considered to add another connection with a Luer lock system to the syringe cap. This connection could be used to fill the remaining volume of the drive fluid in the syringe after the syringe cap is closed. However, the mechanism described in the instructions proved to be fully functional to fill the remaining volume and the additional connection would pose a risk of possible leakage. The idea of an additional standardized connection was therefore rejected.
