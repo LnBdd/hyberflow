@@ -77,6 +77,6 @@ Mount the damper frame to the micropump frame B using four M1,6x8 screws.
   <img src="../Abbildungen/Hydraulic.svg" width=500>
 </p>
 
-In der Standardeinstellung sind die Ausgänge 'R' und 'A' der Ventile verbunden. Sobald die Ventile mit 12 V betrieben werden, schalten sie um, sodass 'A' und 'P' miteinander verbunden werden.
+In the default setting, outputs 'R' and 'A' of the valves are connected. As soon as the valves are operated with 12 V, they switch over so that 'A' and 'P' are connected to each other.
 
-Während der Flusssensor bidirektional messen kann, würde die Mikropumpe beschädigt werden, wenn die Antriebsflüssigkeit entgegen der Pumprichtung durch die Mikropumpe gefördert werden würde.
+While the flow sensor can measure bidirectionally, the micropump would be damaged if the actuating fluid would be pumped through the micropump in the opposite pumping direction.
