@@ -143,23 +143,3 @@ nav_order: 1
    * [Dateien für den 3D-Drucker (.STL)](/sponge/downloads/SPONGE_Modular_stl.zip)
    * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)](/sponge/downloads/SPONGE_Modular_CAD_inventor.zip)
 
-
-
--------
-
--------
-
-
-
---- Old Version --
-
-
-## Hydraulik
-
-<p align="center">
-  <img src="../Abbildungen/Hydraulic.svg" width=500>
-</p>
-
-In der Standardeinstellung sind die Ausgänge 'R' und 'A' der Ventile verbunden. Sobald die Ventile mit 12 V betrieben werden, schalten sie um, sodass 'A' und 'P' miteinander verbunden werden.
-
-Während der Flusssensor bidirektional messen kann, würde die Mikropumpe beschädigt werden, wenn die Antriebsflüssigkeit entgegen der Pumprichtung durch die Mikropumpe gefördert werden würde.
