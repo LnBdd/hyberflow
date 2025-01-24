@@ -8,6 +8,10 @@ nav_order: 2
   <img src="../Abbildungen/HPM.png" width=300>
 </p>
 
+<p align="center">
+  <img src="../Abbildungen/Übersicht.png" width=800>
+</p>
+
 # Herstellungsanleitung zum Nachbauen des hydraulischen Druckmoduls
 
 Das hydraulisches Druckmodul umfasst ein Reservoir für die Antriebsflüssigkeit, eine Spritze, die pro Spritze erforderlichen Regelungs- und Steuerungskomponenten sowie die Abdeckungen und Halterungen.
