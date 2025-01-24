@@ -61,24 +61,23 @@ nav_order: 1
 | **(27)** | BlackV4 | stamp.stl | 1 |
 | **(28)** | BlackV4 | syringe_cap.stl | 1 |
 | **(29)** | BlackV4 | tube_adapter.stl | 4 |
-| **(30)** | PLA | cover.stl | 1 |
-| **(31)** | PLA | upper_support_plate.stl | 1 |
-| **(32)** | PLA | lower_support_plate.stl | 1 |
+| **(30)** | PLA | upper_support_plate.stl | 1 |
+| **(31)** | PLA | lower_support_plate.stl | 1 |
 
 
 ## General Assembly Components
 
 | Part Number | Part | Supplier | Quantity | 
 | :----: | :----: | :----: | :----: |
-| **(33)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) | 50 cm |
-| **(34)** | Hose clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) | 18 |
-| **(35)** | Y-Hose connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) | 2 |
-| **(36)** | Hose clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) | 2 |
-| **(37)** | Countersunk head screw M2,5x4 | any | 2 |
-| **(38)** | Cylinder head screw M1,6x8 | any | 10 |
-| **(39)** | Cylinder head screw M2x8 | any | 8 |
-| **(40)** | Cylinder head screw M2x16 | any | 4 |
-| **(41)** | Cylinder head screw M2,5x8 | any | 9 |
+| **(32)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) | 50 cm |
+| **(33)** | Hose clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) | 18 |
+| **(34)** | Y-Hose connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) | 2 |
+| **(35)** | Hose clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) | 2 |
+| **(36)** | Countersunk head screw M2,5x4 | any | 2 |
+| **(37)** | Cylinder head screw M1,6x8 | any | 10 |
+| **(38)** | Cylinder head screw M2x8 | any | 8 |
+| **(39)** | Cylinder head screw M2x16 | any | 4 |
+| **(40)** | Cylinder head screw M2,5x8 | any | 9 |
 
 ------
 
@@ -102,15 +101,15 @@ nav_order: 1
 | **(19)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
 | **(20)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
 | **(21)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
-| **(33)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) | 50 cm |
-| **(34)** | Hose clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) | 18 |
-| **(35)** | Y-Hose connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) | 2 |
-| **(36)** | Hose clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) | 2 |
-| **(37)** | Countersunk head screw M2,5x4 | any | 2 |
-| **(38)** | Cylinder head screw M1,6x8 | any | 10 |
-| **(39)** | Cylinder head screw M2x8 | any | 8 |
-| **(40)** | Cylinder head screw M2x16 | any | 4 |
-| **(41)** | Cylinder head screw M2,5x8 | any | 9 |
+| **(32)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) | 50 cm |
+| **(33)** | Hose clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) | 18 |
+| **(34)** | Y-Hose connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) | 2 |
+| **(35)** | Hose clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) | 2 |
+| **(36)** | Countersunk head screw M2,5x4 | any | 2 |
+| **(37)** | Cylinder head screw M1,6x8 | any | 10 |
+| **(38)** | Cylinder head screw M2x8 | any | 8 |
+| **(39)** | Cylinder head screw M2x16 | any | 4 |
+| **(40)** | Cylinder head screw M2,5x8 | any | 9 |
 
 ### 3D printed components
 
@@ -122,7 +121,7 @@ nav_order: 1
 | **(11)** | PLA | micropump_frame_A.stl | 1 |
 | **(12)** | PLA | micropump_frame_B.stl | 1 |
 | **(13)** | PLA | damper_frame.stl | 1 |
-| **(14)** | PLA | cover.stl | 1 |
+| **(21)** | PLA | cover.stl | 1 |
 | **(22)** | PLA | upper_support.stl | 1 |
 | **(23)** | PLA | lower_support.stl | 1 |
 | **(24)** | BlackV4 | reservoir.stl | 1 |
@@ -131,9 +130,9 @@ nav_order: 1
 | **(27)** | BlackV4 | stamp.stl | 1 |
 | **(28)** | BlackV4 | syringe_cap.stl | 1 |
 | **(29)** | BlackV4 | tube_adapter.stl | 4 |
-| **(30)** | PLA | cover.stl | 1 |
-| **(31)** | PLA | upper_support_plate.stl | 1 |
-| **(32)** | PLA | lower_support_plate.stl | 1 |
+| **(30)** | PLA | upper_support_plate.stl | 1 |
+| **(31)** | PLA | lower_support_plate.stl | 1 |
+
 
 #### Downloads
 
