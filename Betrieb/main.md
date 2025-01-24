@@ -34,7 +34,7 @@ nav_order: 3
 
 ## Loading 
 
-Once the printing module has been assembled using the [assembly instructions](./Konstruktion.md), the following steps are necessary to start a printing cycle.
+Once the printing module has been assembled using the [assembly instructions](Nachbau/Konstruktion.md), the following steps are necessary to start a printing cycle.
 <br>
 1. Fill the reservoir with the actuation fluid. Either unscrew the lid of the reservoir or use the filling port. If you use the filling port, fill the reservoir slowly so that the pressure within the reservoir can be equalized thorugh the membrane.
 2. Seal the outlet of the glasssyringe with a cap
