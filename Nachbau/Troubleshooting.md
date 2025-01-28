@@ -16,3 +16,8 @@ A divider separates the bioink from the actuating liquid in the syringe. The 3D-
 
 ## Syringe cap
 As part of the development process, it was considered to add another connection with a Luer lock system to the syringe cap. This connection could be used to fill the remaining volume of the drive fluid in the syringe after the syringe cap is closed. However, the mechanism described in the instructions proved to be fully functional to fill the remaining volume and the additional connection would pose a risk of possible leakage. The idea of an additional standardized connection was therefore rejected.
+
+## Micropumps and valves
+In order to control both micropumps, the mp-Highdriver4 is used in the hydraulic printing module, which can operate up to four micropumps.
+
+Both valves are connected to the NO output of the relay module so that both valves are closed in the default position when there is no power. In this state, the direction of flow is from the reservoir to the syringe. This ensures the correct direction of flow through the micropumps even if the 12V power source fails.
