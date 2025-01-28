@@ -137,6 +137,6 @@ nav_order: 1
 #### Downloads
 
 * 3D Modelle
-   * [Dateien für den 3D-Drucker (.STL)](/sponge/downloads/SPONGE_Modular_stl.zip)
-   * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)](/sponge/downloads/SPONGE_Modular_CAD_inventor.zip)
+   * [Dateien für den 3D-Drucker (.STL)]()
+   * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)]()
 
