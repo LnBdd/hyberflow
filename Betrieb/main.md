@@ -63,4 +63,4 @@ Once the printing module has been assembled using the assembly instructions, the
 8. Clean and sterilize all parts befor reusing them
 
 ## Video
-[Video hier ansehen](Abbildungen/Hydraulic_printing_module_mirrored.mp4)
+[Video hier ansehen](./Abbildungen/Hydraulic_printing_module_mirrored.mp4)
