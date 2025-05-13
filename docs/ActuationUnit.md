@@ -1,8 +1,9 @@
 ---
 title: Actuation Unit
-parent: Konstruktion
-nav_order: 2
+parent: Loading & Unloading
+nav_order: 1
 ---
+
  # Actuation Unit
 
 <p align="center">
@@ -10,6 +11,8 @@ nav_order: 2
 </p>
 
 ## Assembly
+
+Assemble [PCB](./Electronics.md) first
  
 Mount the back wall **(8)** onto the main housing using four M2x8 screws **(38)**.
 

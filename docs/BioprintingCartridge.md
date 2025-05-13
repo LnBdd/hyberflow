@@ -1,3 +1,9 @@
+---
+title: Bioprinting Cartridge
+parent: Loading & Unloading
+nav_order: 2
+---
+
 # Bioprinting Cartridge
 
 <p align="center">

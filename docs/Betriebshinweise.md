@@ -1,6 +1,6 @@
 ---
-title: Betriebshinweise
-parent: Betriebanleitung
+title: Operating Notes
+parent: Usage
 nav_order: 1
 ---
 
