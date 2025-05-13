@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "HYBERFLOW"
+description: Open-Source Design of a Hydraulically Actuated Bioprinthead with Flow rate Feedback Control
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+github_username: LnBdd
+remote_theme: pmarsceill/just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: "theme"
