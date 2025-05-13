@@ -1,4 +1,12 @@
+---
+title: Troubleshooting
+nav_order: 4
+---
+
 # Troubleshooting
+
+## Further Issues
+Please report bugs via the [Git](https://github.com/LnBdd/hyberflow/issues) repository and feel encouraged to contribute to the project by submitting your own developments and improvements.
 
 ## Sealing
 The two valves required for the hydraulic pressure module are each mounted in a connection socket in order to control the water flow. It is recommended to apply isopropanol to both the connection socket and the valve when inserting it into the connection socket in order to prevent damage to the O-rings on the valve. Before inserting the valve, it should also be checked that all outlets on the connection socket have been printed correctly and allow water to pass through, as the valve can not be removed from the connection socket without causing damage once it has been inserted.

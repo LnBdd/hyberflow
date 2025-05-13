@@ -1,7 +1,7 @@
 ---
 title: GUI
 parent: Usage
-nav_order: 2
+nav_order: 3
 ---
 
 # Hyberflow GUI
@@ -42,7 +42,7 @@ pip install pyserial matplotlib pandas scipy
 
 ## Download the Script
 
-Download the script [here](../Code/GUI.py)
+Download the script [here](../Code/GUI.py )
 
 
 ---

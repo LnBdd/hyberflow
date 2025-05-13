@@ -1,12 +1,10 @@
----
+  ---
 title: Actuation Unit
 parent: Assembly
-nav_order: 2å
+nav_order: 2
 ---
 
-
- # Actuation Unit
- 
+# Actuation Unit
 
 <p align="center">
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
