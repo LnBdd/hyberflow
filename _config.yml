@@ -3,6 +3,8 @@ description: Open-Source Design of a Hydraulically Actuated Bioprinthead with Fl
 theme: just-the-docs
 
 github_username: LnBdd
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 color_scheme: "theme"
