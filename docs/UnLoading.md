@@ -1,7 +1,7 @@
 ---
-title: Betriebsanleitung
-has_children: true
-nav_order: 3
+title: Loading & Unloading
+parent: Usage
+nav_order: 1
 ---
 
 # User Manual for the HYBERFLOW

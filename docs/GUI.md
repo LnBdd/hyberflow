@@ -1,3 +1,9 @@
+---
+title: GUI
+parent: Usage
+nav_order: 2
+---
+
 # Hyberflow GUI
 
 The `GUI.py` module provides a graphical user interface (GUI) for controlling the Hyberflow system. This GUI allows users to configure flowrate parameters, interact with the system, and monitor real-time data.
