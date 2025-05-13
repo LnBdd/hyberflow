@@ -1,6 +1,5 @@
 title: "HYBERFLOW"
 description: Open-Source Design of a Hydraulically Actuated Bioprinthead with Flow rate Feedback Control
-theme: just-the-docs
 
 github_username: LnBdd
 remote_theme: just-the-docs/just-the-docs
