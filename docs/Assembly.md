@@ -7,6 +7,4 @@ nav_order: 2
 
 ## User Manual
 
-- Loading and unloading
-- Using the GUI to start extrusions
-- todo: document interface for other means of communication
+- Assembling all sub-assemblies and the main system
