@@ -1,6 +1,6 @@
 ---
 title: Electronics
-parent: Loading & Unloading
+parent: Assembly
 nav_order: 3
 ---
 

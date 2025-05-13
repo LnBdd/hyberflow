@@ -1,6 +1,6 @@
 ---
 title: Bioprinting Cartridge
-parent: Loading & Unloading
+parent: Assembly
 nav_order: 2
 ---
 

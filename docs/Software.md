@@ -30,5 +30,5 @@ Die Evaluation dieser Methodiken hat ergeben, dass die Regelung mit Vorsteuerung
 
 ## Downloads
 
-* [Arduino Skript]()
-* [Python Skript]()
+* [Arduino Skript](../Code/arduino_control/arduino_control.ino)
+* [GUI](../Code/GUI.py)

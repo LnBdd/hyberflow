@@ -20,6 +20,32 @@ The `GUI.py` module provides a graphical user interface (GUI) for controlling th
 - **Data Logging**: Save flowrate data to an Excel file and generate a flowrate plot.
 
 ---
+# Installation
+
+## Requirements
+
+- Python 3.x
+- Required Python libraries:
+  - `tkinter`
+  - `serial`
+  - `matplotlib`
+  - `pandas`
+  - `scipy`
+
+Install the required libraries using:
+
+```bash
+pip install pyserial matplotlib pandas scipy
+```
+
+---
+
+## Download the Script
+
+Download the script [here](../Code/GUI.py)
+
+
+---
 
 ## How to Use
 
@@ -107,20 +133,3 @@ python GUI.py
 
 ---
 
-## Requirements
-
-- Python 3.x
-- Required Python libraries:
-  - `tkinter`
-  - `serial`
-  - `matplotlib`
-  - `pandas`
-  - `scipy`
-
-Install the required libraries using:
-
-```bash
-pip install pyserial matplotlib pandas scipy
-```
-
----

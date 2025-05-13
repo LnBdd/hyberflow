@@ -1,6 +1,6 @@
 ---
 title: Actuation Hardware
-parent: Manufacturing Instructions
+parent: Asselmbly
 nav_order: 2
 ---
 

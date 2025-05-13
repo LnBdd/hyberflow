@@ -1,5 +1,5 @@
 ---
-title: General Design Components
+title: Manufacturing
 parent: Manufacturing Instructions
 nav_order: 1
 ---

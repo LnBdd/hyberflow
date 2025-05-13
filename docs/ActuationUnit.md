@@ -1,6 +1,6 @@
 ---
 title: Actuation Unit
-parent: Loading & Unloading
+parent: Assembly
 nav_order: 1
 ---
 
