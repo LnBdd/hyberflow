@@ -1,7 +1,7 @@
 ---
 title: Actuation Hardware
-parent: Asselmbly
-nav_order: 2
+parent: Assembly
+nav_order: 3
 ---
 
 # Hardwareseitige Umsetzung des hydraulischen Druckmoduls

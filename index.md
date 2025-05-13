@@ -21,7 +21,9 @@ TBD
 
 ## Further Publications
 
-There are also further publication of our bioprinting and automisation projects:
+There are also further publication of our bioprinting and automation projects:
+- [EMBC 2025 Camera-based In-Process Evaluation and Parameter Study of Core-Shell-Capsule Dimensions]()
+- [CDBME 2024 Core-Shell Capsule Image Segmentation through Deep Learning with Synthetic Training Data](https://doi.org/10.1515/cdbme-2024-2030)
 - [SLAS Tech 2024 CrocoGrip](https://doi.org/10.1016/j.slast.2024.100148)
 - [CDBME 2022 A Six Degree of Freedom Bioprinter](https://www.degruyter.com/document/doi/10.1515/cdbme-2022-1036/html)
 - more to come!

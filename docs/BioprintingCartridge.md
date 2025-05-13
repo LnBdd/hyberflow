@@ -1,7 +1,7 @@
 ---
 title: Bioprinting Cartridge
 parent: Assembly
-nav_order: 2
+nav_order: 4
 ---
 
 # Bioprinting Cartridge
