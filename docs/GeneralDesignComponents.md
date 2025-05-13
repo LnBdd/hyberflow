@@ -1,6 +1,6 @@
 ---
-title: Konstruktive Umsetzung
-parent: Herstellungsanleitung
+title: General Design Components
+parent: Manufacturing Instructions
 nav_order: 1
 ---
 

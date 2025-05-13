@@ -1,6 +1,6 @@
 ---
-title: Hardwareseitige Umsetzung
-parent: Herstellungsanleitung
+title: Actuation Hardware
+parent: Manufacturing Instructions
 nav_order: 2
 ---
 

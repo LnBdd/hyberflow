@@ -1,6 +1,6 @@
 ---
-title: Softwareseitige Umsetzung
-parent: Herstellungsanleitung
+title: Software
+parent: Manufacturing Instructions
 nav_order: 3
 ---
 
