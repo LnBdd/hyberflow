@@ -15,7 +15,7 @@ nav_order: 1
 ## Schematic
 
 <p align="center">
-  <img src="../Abbildungen/hyberflowschematic.pdf" width=900>
+  <img src="../Abbildungen/hyberflowschematic.pdf" width=1500>
 </p>
 
 
