@@ -4,17 +4,18 @@ parent: Assembly
 nav_order: 1
 ---
 
-<p align="center">
-  <img src="../Abbildungen/PCB_Iso.png" width=400>
-</p>
 
 # PCB Design
+<p align="center">
+  <img src="../Abbildungen/PCB_Iso.png" width=800>
+</p>
+
 - Full KiCad Project [Download](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1)
 
 ## Schematic
 
 <p align="center">
-  <img src="../Abbildungen/hyberflowschematic.pdf" width=400>
+  <img src="../Abbildungen/hyberflowschematic.pdf" width=900>
 </p>
 
 
