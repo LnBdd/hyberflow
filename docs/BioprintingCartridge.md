@@ -33,17 +33,23 @@ Melt M2 thread inserts **(14)** into the upper **(22)** and lower support **(23)
 Mount the upper **(22)** and lower support **(23)** to the cover **(21)** using four M2x8 screws **(38)**.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_14.svg" width=200>
+  <img src="../Abbildungen/hoseCoupling-labeled" width=200>
 </p>
 
 Cut an M6 thread into the hose coupling **(41)**. 
 Put the o-ring **(43)** on the tube adapter **(29)** and screw the tube adapter into the tube connector **(41)**.
 
-Put the o-ring **(42)** on the Hydraulic quick release **(15)** and screw it into the hose coupling **(41)**. 
+<p align="center">
+  <img src="../Abbildungen/hoseCoupling_view-down_labeled" width=200>
+</p>
+
+Now put the o-ring **(42)** on the Hydraulic quick release **(15)** and screw it into the hose coupling **(41)**. 
 A little more force is required as we cut a threat into the plastic with the quick release. 
 Alternativly the threat could also be tapped.
 
-%%%%%%%%%%%%%%%%%%%%%%%%% BREAK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Repeat the stept for the second hose coupling.
+
+Insert the hose coupling **(41)** together with its attachments into  
 
 Insert the tube adapter **(29)** using 
 Repeat the steps for the second tube connector.
