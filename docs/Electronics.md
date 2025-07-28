@@ -10,14 +10,17 @@ nav_order: 1
   <img src="../Abbildungen/PCB_Iso.png" width=800>
 </p>
 
+
+<!-- Download muss erneuert werden -->
 - Full KiCad Project [Download](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1)
 
-## Schematic
+## Pinout
 
 <p align="center">
-  <img src="../Abbildungen/hyberflowschematic.pdf" width=1500>
+  <img src="../Abbildungen/PCB_PinOut.svg" width=400>
 </p>
 
 
-Gerberfiles
-- [Download](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1)
+#### Downloads
+<!-- Missing Link -->
+- [Assembly Instructions]()

@@ -14,6 +14,24 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 
 ## [Circuit Board](./Electronics.md)
 
+### BOM | PCB
+| Name | Qty. | Manufacturer | Description / Value | Package | Type |
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| Resistor | 3 | - | 4k7 | 0805 | SMD |
+| Connector | 2 | JST | B2B-PH-K-S | PH | THT |
+| Connector | 2 | JST | PHR-2 | PH | THT |
+| Connector | 1 | JST | PHR-3 | PH | THT |
+| Connector | 2 | JST | B4B-PH-K-S | PH | THT |
+| Connector | 2 | JST | PHR-4 | PH | THT |
+| Connector | 1 | JST | B5B-PH-K-S | PH | THT |
+| Connector | 1 | JST | PHR-5 | PH | THT |
+| Crimp contact | 50 | JST | BPH-002T-P0.5S | PH | - |
+| Connector | 1 | TE-Connectivity | 282836-2 | - | THT |
+| MOSFET | 1 | ALPHA & OMEGA | AO3400A | SOT-32 | SMD |
+| Pin Socket | 4 | - | 1×14 pin socket, 2.54mm pitch, vertical, 8.5mm height | - | THT |
+| Pin Hocket | 1 | - | 1×02 pin header, 2.54mm pitch, vertical | - | THT |
+| Jumper | 1 | - | 1×02 jumper, 2.54mm pitch, vertical | - | - |
+
 ### Of the shelf materials 
 
 | Part Number | Part | Supplier | Quantity | 
@@ -159,8 +177,8 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 
 
 #### Downloads
-
-* 3D Modelle
-   * [Dateien für den 3D-Drucker (.STL)]()
-   * [CAD-Dateien erstellt mit SolidWorks (.SLDPRT)]()
+<!-- Mising Links -->
+  - [STL Files]()
+  - [CAD Files (Solidworks)]()
+  - [PCB Manufaturing (Gerberfiles)](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1)
 

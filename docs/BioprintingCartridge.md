@@ -20,6 +20,8 @@ nav_order: 3
 
 ## Assembly
 
+### Assembly - Housing
+
 <p align="center">
   <img src="../Abbildungen/Montage_12.svg" width=200>
 </p>
@@ -47,7 +49,7 @@ Now put the o-ring **(42)** on the Hydraulic quick release **(15)** and screw it
 A little more force is required as we cut a threat into the plastic with the quick release. 
 Alternativly the threat could also be tapped.
 
-(Info: Apply sealing tape if the connection isn't water tight)
+**(Info: Apply sealing tape if the connection isn't water tight)**
 
 Repeat the stept for the second hose coupling.
 
@@ -55,29 +57,24 @@ Repeat the stept for the second hose coupling.
   <img src="../Abbildungen/hoseCoupling-into-cover_assembly.png" width=400>
 </p>
 
-Insert the hose coupling **(41)** together with its attachments into the cover **(21)**
+Insert the hose couplings **(41)** together with its attachments into the cover **(21)** and secure them using two M2x6 screws.
+
 
 <p align="center">
-  <img src="../Abbildungen/Montage_15.svg" width=200>
+  <img src="../Abbildungen/cover_assembly.png" width=600>
 </p>
 
-Connect the silicon tubing **(32)** according to the principle sketch by cutting tube sections of the appropriate length. Y-hose-connectors **(34)** can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor **(3)** to the upper tube adapter **(29)** in the cover **(21)** and the end of the tubing coming out of one of the valve interfaces **(9)** to the lower tube adapter **(29)** in the cover **(21)**. Place micro hose clamps **(33)** on all tube ends in the system.
-
-<p align="center">
-  <img src="../Abbildungen/Montage_16.svg" width=200>
-</p>
-
+Connect the silicon tubing **(32)** according to the principle sketch by cutting tube sections of the appropriate length. Y-hose-connectors **(34)** can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor **(3)** to the upper tube adapter **(29)** in the cover **(21)** and the end of the tubing coming out of one of the valve interfaces **(9)** to the lower tube adapter **(29)** in the cover **(21)**. Place micro hose clamps **(33)** on all tube ends in the system. <br>
 Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws **(40)**.
 
-<p align="center">
-  <img src="../Abbildungen/Montage_17.svg" width=200>
-</p>
+-----
 
-Cut an M3 thread into the two recesses on the outside of the cover **(21)** and insert the two hydraulic quick releases **(15)**.
+### Assembly - Reservoir
 
 <p align="center">
   <img src="../Abbildungen/Montage_18.svg" width=200>
 </p>
+
 
 Attach the reservoir lid **(25)** to the reservoir **(24)** using five M2,5x8 screws **(40)**. The elastic seal should be pressed on the reservoir.
 
@@ -106,6 +103,7 @@ Slide the O-ring 4x1 **(19)** onto the filling port filling port plug **(26)** u
 Connect the tupe adapter **(29)**, inserted into the reservoir **(24)**, with the lower hydraulic quick release **(15)** and thread a hose clip **(35)** onto the tubing **(32)**. Place the reservoir between the upper **(22)** and lower support **(23)**.
 
 -----
+### Assembly - Syringe
 
 <p align="center">
   <img src="../Abbildungen/Montage_23.svg" width=200>
@@ -142,6 +140,7 @@ Slide the O-ring 15,3x2,4 **(18)** onto the syringe cap **(28)**.
 </p>
 
 Insert a tube adapter **(29)** into the side of the syringe cap **(28)** using thread sealing tape.
+
 
 Connect the tube adapter **(29)**, inserted into the syringe cap **(28)**, with the upper hydraulic quick release **(15)** and thread a hose clip **(35)** onto the tubing **(32)**.
 
