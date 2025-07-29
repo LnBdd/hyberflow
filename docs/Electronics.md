@@ -4,21 +4,48 @@ parent: Assembly
 nav_order: 1
 ---
 
+# Electronics
 
-# PCB Design
+- [Electronics](#electronics)
+  - [PCB](#pcb)
+    - [Schematics](#schematics)
+    - [Pinout](#pinout)
+    - [Assembly Instructions](#assembly-instructions)
+  - [Wiring](#wiring)
+    - [MicroPumps](#micropumps)
+    - [Flow Sensor](#flow-sensor)
+      - [Downloads](#downloads)
+
+
+---
+
+## PCB
+
+### Schematics
 <p align="center">
-  <img src="../Abbildungen/PCB_Iso.png" width=800>
+  <img src="../Abbildungen/hyberflow_schematics_PCB_v1-2.svg" width=600>
 </p>
 
-
-<!-- Download muss erneuert werden -->
-- Full KiCad Project [Download](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1)
-
-## Pinout
+### Pinout
 
 <p align="center">
   <img src="../Abbildungen/PCB_PinOut.svg" width=400>
 </p>
+
+
+### Assembly Instructions 
+For PCB assembly use the [interactive instructions](#downloads).
+
+---
+
+## Wiring
+### MicroPumps
+
+<p align="center">
+  <img src="../Abbildungen/micropump_pinout.png" width=600>
+</p>
+
+### Flow Sensor
 
 
 #### Downloads
