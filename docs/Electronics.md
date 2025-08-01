@@ -61,6 +61,6 @@ For PCB assembly use the [interactive instructions](#downloads).
   <img src="../Abbildungen/Electronics/conn_valve.svg" width=400>
 </p>
 
-# Downloads
+## Downloads
 <!-- Missing Link -->
 - [Assembly Instructions]()

@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 # Manufacturing 
+{: .no_toc }
 
 This page gives a summary of all comonents that have to be 3D-printed or bought. The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
