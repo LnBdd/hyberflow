@@ -4,6 +4,8 @@ parent: Assembly
 nav_order: 1
 ---
 # Electronics
+{: .no_toc }
+
 
 1. TOC
 {:toc}
@@ -15,19 +17,19 @@ nav_order: 1
 
 ## PCB
 
-### PCB - Schematics
+### Schematics
 <p align="center">
   <img src="../Abbildungen/Electronics/hyberflow_schematics_PCB_v1-2.svg" width=600>
 </p>
 
-### PCB - Pinout
+### Pinout
 
 <p align="center">
   <img src="../Abbildungen/Electronics/PCB_PinOut.svg" width=400>
 </p>
 
 
-### PCB - Assembly 
+### Assembly 
 For PCB assembly use the [interactive instructions](#downloads).
 
 ---
