@@ -10,15 +10,17 @@ nav_order: 1
 
 This page gives a summary of all comonents that have to be 3D-printed or bought. The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
-<p align="center">
-  <img src="../Abbildungen/ActuationUnit_BioprintingCartrige.png" width=400>
-</p>
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+
+<p align="center">
+  <img src="../Abbildungen/ActuationUnit_BioprintingCartrige.png" width=400>
+</p>
+
 
 
 ## [Circuit Board](./Electronics.md)
