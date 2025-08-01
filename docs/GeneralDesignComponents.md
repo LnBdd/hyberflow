@@ -17,9 +17,9 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 {:toc}
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="../Abbildungen/ActuationUnit_BioprintingCartrige.png" width=400>
-</p>
+</p> -->
 
 
 
