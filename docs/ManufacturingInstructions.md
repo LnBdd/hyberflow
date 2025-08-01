@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <p align="center">
-  <img src="../Abbildungen/HPM.png" width=300>
+  <img src="../Abbildungen/HPM.png" width=150>
 </p>
 
 # Manufacturing instructions for replicating the hydraulic printing module

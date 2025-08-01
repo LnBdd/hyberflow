@@ -7,11 +7,19 @@ nav_order: 1
 # Manufacturing 
 {: .no_toc }
 
+
 This page gives a summary of all comonents that have to be 3D-printed or bought. The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
 <p align="center">
   <img src="../Abbildungen/ActuationUnit_BioprintingCartrige.png" width=400>
 </p>
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 ## [Circuit Board](./Electronics.md)
 
@@ -33,6 +41,7 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | Pin Hocket | 1 | - | 1×02 pin header, 2.54mm pitch, vertical | - | THT |
 | Jumper | 1 | - | 1×02 jumper, 2.54mm pitch, vertical | - | - |
 
+
 ### Of the shelf materials 
 
 | Part Number | Part | Supplier | Quantity | 
@@ -49,7 +58,7 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
 | **(7)** | Adafruit Metro Mini| [Adafruit](https://www.adafruit.com/product/2590) | 1 |
 
-
+---
 
 ## [Actuation Unit](./ActuationUnit.md)
 
@@ -76,6 +85,7 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | **(12)** | PLA | micropump_frame_B.stl | 1 |
 | **(13)** | PLA | damper_frame.stl | 1 |
 
+---
 
 ## [Bioprinting Cartridge](./BioprintingCartridge.md)
 
@@ -107,6 +117,7 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | **(30)** | PLA | upper_fastener.stl | 1 |
 | **(31)** | PLA | lower_fastener.stl | 1 |
 
+---
 
 ## General Assembly Components
 
@@ -122,7 +133,6 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | **(39)** | Cylinder head screw M2x16 | any | 4 |
 | **(40)** | Cylinder head screw M2,5x8 | any | 9 |
 
-------
 
 # Summary / Bill of Materials
 
@@ -176,11 +186,29 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | **(30)** | PLA | upper_fastener.stl | 1 |
 | **(31)** | PLA | lower_fastener.stl | 1 |
 
+---
 
-#### Downloads
+## Print Orientation
+
+### FDM Print
+<p align="center">
+  <img src="../Abbildungen/manufacturing/fdm_print-orientation.png" width=600>
+</p>
+
+#### Print Settings:
+- Layer height: 0.2mm
+- Infill: 15%
+- Perimeter: 5
+- Supports: enabled
+- Brim: only for large rectangular parts 
+
+### SLA Print
+
+## Downloads
 <!-- Mising Links -->
   - [STL Files]()
   - [CAD Files (Solidworks)]()
+  - [.3mf Files]()
   - [PCB Manufaturing (Gerberfiles)](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1) <!-- Download muss erneuert werden -->
   - [Full KiCad Project](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1) <!-- Download muss erneuert werden -->
   
