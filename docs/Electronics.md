@@ -5,14 +5,10 @@ nav_order: 1
 ---
 # Electronics
 
-<div style="width: 100%; overflow: hidden;">
+1. TOC
+{:toc}
 
-<div style="float: left; width: 48%; ">
-  <img src="../Abbildungen/Electronics/PCB_Iso.png" width=400>
-</div>
-
-</div>
-
+<img src="../Abbildungen/Electronics/PCB_Iso.png" width=400>
 
 
 ---

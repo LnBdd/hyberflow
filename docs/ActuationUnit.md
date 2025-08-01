@@ -12,7 +12,9 @@ nav_order: 2
 
 ## Assembly
 
+{: .note }
 Assemble [PCB](./Electronics.md) first
+
  
 <p align="center">
   <img src="../Abbildungen/pcb_backplate_assembly.png" width=400>
