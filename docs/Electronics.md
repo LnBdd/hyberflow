@@ -8,27 +8,10 @@ nav_order: 1
 <div style="width: 100%; overflow: hidden;">
 
 <div style="float: left; width: 48%; ">
-  <img src="../Abbildungen/Electronics/PCB_Iso.png" width=500>
+  <img src="../Abbildungen/Electronics/PCB_Iso.png" width=400>
 </div>
 
-<div style="float: right; width: 30%;">
-
-- [Electronics](#electronics)
-  - [PCB](#pcb)
-    - [PCB - Schematics](#pcb---schematics)
-    - [PCB - Pinout](#pcb---pinout)
-    - [PCB - Assembly](#pcb---assembly)
-  - [Wiring](#wiring)
-    - [MetroMini](#metromini)
-    - [MicroPumps](#micropumps)
-    - [Flowsensor](#flowsensor)
-    - [Valve](#valve)
-- [Downloads](#downloads)
-
 </div>
-</div>
-
-
 
 
 
