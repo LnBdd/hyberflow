@@ -8,13 +8,27 @@ nav_order: 2
   <img src="../Abbildungen/Elektronik.png" width=150>
 </p>
 
+<!-- Table of Contents -->
 # Actuation Unit
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--  -->
+
+---
 
 ## Components 
 
 <p align="center">
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
 </p>
+
+---
 
 ## Assembly
 

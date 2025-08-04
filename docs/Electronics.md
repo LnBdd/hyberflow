@@ -8,10 +8,10 @@ nav_order: 1
   <img src="../Abbildungen/Electronics/PCB_Iso.png" width=350>
 </p>
 
+
+<!-- Table of Contents -->
 # Electronics
 {: .no_toc }
-
-
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -20,6 +20,10 @@ nav_order: 1
 {:toc}
 
 
+
+---
+
+## Components
 
 ---
 
