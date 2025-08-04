@@ -204,6 +204,9 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 - Supports: enabled
 - Brim: only for large rectangular parts 
 
+{: .note }
+You can download the plate (.3mf) for Bambu Studio [here](#downloads).
+
 ### SLA Print
 
 ## Downloads
