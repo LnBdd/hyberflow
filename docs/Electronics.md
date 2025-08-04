@@ -28,7 +28,7 @@ nav_order: 1
 
 ### Schematics
 <p align="left">
-  <img src="../Abbildungen/Electronics/hyberflow_schematics_PCB_v1-2.svg" width=600>
+  <img src="../Abbildungen/Electronics/hyberflow_PCB_v1-2.svg" width=600>
 </p>
 
 ### Pinout
@@ -52,12 +52,12 @@ Bear in mind that crimp contacts can fail, so leave a safety margin for repair w
 {: .note }
 The corresponding pins on the PCB and device connectors are labelled with the same names.
 
-### Adafruit MetroMini
+### Adafruit Metro Mini
 <p align="center">
   <img src="../Abbildungen/Electronics/metroMini_assembly.png" width=600>
 </p>
 
-Solder the pinheaders to the Adafruit Metro Mini **(7)**.
+Solder the pinheaders to the Adafruit Metro Mini.
 
 ### Bartels Micropumps
 
@@ -68,7 +68,10 @@ Solder the pinheaders to the Adafruit Metro Mini **(7)**.
 
 Use JST-PH crimp contacts to crimp eight stranded wires (0.25mm²) at one end.
 Combine 4 cables each in one JST-PH4 connector.
-Solder the other ends to the micropump connector (supplied with the micro pump) as shown in the pictures. 
+Solder the other ends to the micropump connector (supplied with the micro pump) as shown in the pictures.
+
+{: .note }
+Label the cables, so you can differentiate the two pumps later on.
 
 
 ### Sensorion Flowsensor

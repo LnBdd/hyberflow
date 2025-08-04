@@ -4,7 +4,13 @@ parent: Assembly
 nav_order: 2
 ---
 
+<p align="center">
+  <img src="../Abbildungen/Elektronik.png" width=150>
+</p>
+
 # Actuation Unit
+
+## Components 
 
 <p align="center">
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
@@ -13,8 +19,9 @@ nav_order: 2
 ## Assembly
 
 {: .note }
-Assemble [PCB](./Electronics.md) first
+First, assemble the [PCB](./Electronics.md) and connect all cables to the devices but not to the PCB.
 
+### Housing
  
 <p align="center">
   <img src="../Abbildungen/pcb_backplate_assembly.png" width=400>
@@ -28,15 +35,21 @@ Mount the PCB **(???)** to the back wall **(8)** using four M2.5x8 screws
 
 Connect the back wall **(8)** with the sleeve **(???)** using four M2x8 screws **(38)**.
 
+
+### Actuation System
+
 <p align="center">
   <img src="../Abbildungen/Montage_02.svg" width=200>
 </p>
 
-Attach the flow sensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(36)**.
+Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(36)**. </br>
+Connect the flowsensor to the flowsensor port on the PCB.
+
 
 <p align="center">
   <img src="../Abbildungen/Montage_03.svg" width=200>
 </p>
+
 
 Insert a valve **(4)** in each of the two valve interfaces **(9)**.
 
@@ -50,7 +63,9 @@ Insert tube adapters **(10)** into the side of the valve interfaces **(9)** usin
   <img src="../Abbildungen/Montage_05.svg" width=200>
 </p>
 
-Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(39)** each.
+Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(39)** each. </br>
+Connect the valves to the ports Valve01 and Valve02 on the PCB.
+It does not matter which one is connected to which port. 
 
 <p align="center">
   <img src="../Abbildungen/Montage_06.svg" width=200>
@@ -62,19 +77,23 @@ Fit the first micropump **(1)** in the micropump frame A **(11)**.
   <img src="../Abbildungen/Montage_07.svg" width=200>
 </p>
 
-Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four M1,6x8 screws **(37)**.
+Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four 
+M1,6x8 screws **(37)**. </br>
+Connect the micropump to the port Pump01 on the PCB.
 
 <p align="center">
   <img src="../Abbildungen/Montage_08.svg" width=200>
 </p>
 
-Fit the second micropump **(1)** in the micropump frame B **(12)**.
+Fit the second micropump **(1)** in the micropump frame B **(12)**, it's later connected to Pump02.
 
 <p align="center">
   <img src="../Abbildungen/Montage_09.svg" width=200>
 </p>
 
-Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using two M1,6x8 screws **(37)**.
+Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using
+two M1,6x8 screws **(37)**. </br>
+Connect the micropump to the port Pump02 on the PCB.
 
 <p align="center">
   <img src="../Abbildungen/Montage_10.svg" width=200>
@@ -93,19 +112,25 @@ Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,
 </p>
 
 The front view of the back wall with all control components looks like the above figure.
+### Metro Mini and MP4-Highdriver
 
 
-## Wiring 
-
-# TODO: 
-
-
-## Flow of the Actuation Fluid
+## Hose System
 
 <p align="center">
   <img src="../Abbildungen/Hydraulic.svg" width=500>
 </p>
 
-In the default setting, outputs 'R' and 'A' of the valves are connected. As soon as the valves are operated with 12 V, they switch over so that 'A' and 'P' are connected to each other.
+{: .warning }
+While the flowsensor can measure bidirectionally, the micropump would be damaged if the actuating fluid would be pumped through the micropump in the opposite pumping direction.
 
-While the flow sensor can measure bidirectionally, the micropump would be damaged if the actuating fluid would be pumped through the micropump in the opposite pumping direction.
+{: .note }
+In the default setting, outputs 'R' and 'A' of the valves are connected. As soon as the valves are operated with 12 V, 
+they switch over so that 'A' and 'P' are connected to each other.
+
+
+
+
+
+
+
