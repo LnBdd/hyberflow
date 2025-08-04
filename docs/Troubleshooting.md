@@ -3,7 +3,17 @@ title: Troubleshooting
 nav_order: 4
 ---
 
+<!-- Table of Contents -->
 # Troubleshooting
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--  -->
 
 ## Further Issues
 Please report bugs via the [Git](https://github.com/LnBdd/hyberflow/issues) repository and feel encouraged to contribute to the project by submitting your own developments and improvements.

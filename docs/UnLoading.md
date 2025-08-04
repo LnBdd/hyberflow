@@ -4,7 +4,18 @@ parent: Usage
 nav_order: 2
 ---
 
+<!-- Table of Contents -->
 # User Manual for the HYBERFLOW
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--  -->
+
 
 <p align="center">
   <img src="../Abbildungen/Übersicht.svg" width=800>

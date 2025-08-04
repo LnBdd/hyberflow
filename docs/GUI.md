@@ -4,11 +4,25 @@ parent: Usage
 nav_order: 3
 ---
 
-# Hyberflow GUI
 
 The `GUI.py` module provides a graphical user interface (GUI) for controlling the Hyberflow system. This GUI allows users to configure flowrate parameters, interact with the system, and monitor real-time data.
 
+<!-- Table of Contents -->
+# Hyberflow GUI
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--  -->
+
 ---
+
+
+
 
 ## Features
 
@@ -20,9 +34,9 @@ The `GUI.py` module provides a graphical user interface (GUI) for controlling th
 - **Data Logging**: Save flowrate data to an Excel file and generate a flowrate plot.
 
 ---
-# Installation
+## Installation
 
-## Requirements
+### Requirements
 
 - Python 3.x
 - Required Python libraries:
@@ -38,9 +52,8 @@ Install the required libraries using:
 pip install pyserial matplotlib pandas scipy
 ```
 
----
 
-## Download the Script
+### Download the Script
 
 Download the script [here](../Code/GUI.py )
 
@@ -107,9 +120,8 @@ python GUI.py
 - **Real-Time Plot**: Displays the target and actual flowrate.
 - **Log Display**: Text area to display system messages and logs.
 
----
 
-## Screenshot
+### Screenshot
 
 ![438698921-f1f55479-3b48-4a40-8a07-6002c9fa855d](https://github.com/user-attachments/assets/ecfcf23c-3f79-4eac-96d0-ac9f0ed26c76)
 

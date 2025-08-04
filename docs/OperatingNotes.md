@@ -4,7 +4,19 @@ parent: Usage
 nav_order: 1
 ---
 
+<!-- Table of Contents -->
 # Operating Notes
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!--  -->
+
+---
 
 ## Pressure equalization membranes
 Repeated use of a pressure equalization membrane on the divider and syringe cap has shown that the air permeability decreases significantly as soon as the membrane comes into contact with liquid. However, after the pressure equalization membranes have been able to dry, the air permeability is restored and the membrane can be used again for venting in the syringe. It is therefore recommended to change the divider and syringe cap after each printing cycle.
