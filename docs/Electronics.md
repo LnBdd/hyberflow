@@ -25,6 +25,29 @@ nav_order: 1
 
 ## Components
 
+### PCB - ToDo: Gerberfiles, Manufacturing Instructions
+
+
+### Off-the-Shelf Components
+
+| Name | Qty. | Manufacturer | Description / Value | Package | Type |
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| Resistor | 3 | any | 4k7 | 0805 | SMD |
+| Connector | 2 | JST | B2B-PH-K-S | PH | THT |
+| Connector | 2 | JST | PHR-2 | PH | THT |
+| Connector | 1 | JST | PHR-3 | PH | THT |
+| Connector | 2 | JST | B4B-PH-K-S | PH | THT |
+| Connector | 2 | JST | PHR-4 | PH | THT |
+| Connector | 1 | JST | B5B-PH-K-S | PH | THT |
+| Connector | 1 | JST | PHR-5 | PH | THT |
+| Crimp contact | 50 | JST | BPH-002T-P0.5S | PH | - |
+| Connector | 1 | TE-Connectivity | 282836-2 | - | THT |
+| MOSFET | 1 | ALPHA & OMEGA | AO3400A | SOT-32 | SMD |
+| Pin Socket | 4 | any | 1×14 pin socket, 2.54mm pitch, vertical, 8.5mm height | - | THT |
+| Pin Hocket | 1 | any | 1×02 pin header, 2.54mm pitch, vertical | - | THT |
+| Jumper | 1 | any | 1×02 jumper, 2.54mm pitch, vertical | - | - |
+
+
 ---
 
 ## PCB

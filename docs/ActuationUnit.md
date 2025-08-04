@@ -28,6 +28,35 @@ nav_order: 2
   <img src="../Abbildungen/Elektronik_1.svg" width=1200>
 </p>
 
+### Off-the-Shelf Components
+
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(1)** | Micropump mp6-liq | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/de/mikropumpen/) | 2 |
+| **(2)** | mp-damper | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-damper-pulsation-damper/) | 1 |
+| **(3)** | Flow sensor SLF3S-0600F | [Sensirion](https://sensirion.com/de/produkte/katalog/SLF3S-0600F) | 1 |
+| **(4)** | 3/2-way micro-switching valve | [Staiger](https://www.staiger.de/ventil-online-shop/start/mikroventile/va-304-913-v-08-sap-12-1-detail) | 2 |
+| **(5)** | PCB |  | 1 |
+| **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
+| **(7)** | Adafruit Metro Mini| [Adafruit](https://www.adafruit.com/product/2590) | 1 |
+| **(36)** | Countersunk head screw M2,5x4 | any | 2 |
+| **(37)** | Cylinder head screw M1,6x8 | any | 10 |
+| **(38)** | Cylinder head screw M2x8 | any | 4 |
+| **(39)** | Cylinder head screw M2x16 | any | 4 |
+
+### 3D Printed Components
+
+| Partnumber | Material | File | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(8)** | PLA | back_wall.stl | 1 |
+| **(9)** | MED610 | valve_interface.stl | 2 |
+| **(10)** | MED610 | tube_adapter.stl | 6 |
+| **(11)** | PLA | micropump_frame_A.stl | 1 |
+| **(12)** | PLA | micropump_frame_B.stl | 1 |
+| **(13)** | PLA | damper_frame.stl | 1 |
+
+
+
 ---
 
 ## Assembly

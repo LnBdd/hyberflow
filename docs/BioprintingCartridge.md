@@ -25,12 +25,41 @@ nav_order: 3
 </p>
 
 <p align="center">
-  <img src="../Abbildungen/Abdeckung.svg" width=600>
-</p>
-
-<p align="center">
+  <img src="../Abbildungen/Abdeckung.svg" width=350>
   <img src="../Abbildungen/Spritze.svg" width=400>
 </p>
+
+
+### Off-the-Shelf Components
+
+| Part Number | Part | Supplier | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(14)** | Thread insert | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) | 4 |
+| **(15)** | Hydraulic quick release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
+| **(16)** | Pressure equalising membrane | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
+| **(17)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
+| **(18)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
+| **(19)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
+| **(20)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
+| **(38)** | Cylinder head screw M2x8 | any | 4 |
+| **(40)** | Cylinder head screw M2,5x8 | any | 4 |
+
+### 3D Printed Components
+
+| Partnumber | Material | File | Quantity | 
+| :----: | :----: | :----: | :----: |
+| **(21)** | PLA | cover.stl | 1 |
+| **(22)** | PLA | upper_support.stl | 1 |
+| **(23)** | PLA | lower_support.stl | 1 |
+| **(24)** | MED610 | reservoir.stl | 1 |
+| **(25)** | MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
+| **(26)** | MED610 | fillig_port_plug.stl | 1 |
+| **(27)** | MED610 | divider.stl | 1 |
+| **(28)** | MED610 | syringe_cap.stl | 1 |
+| **(29)** | MED610 | tube_adapter.stl | 4 |
+| **(30)** | PLA | upper_fastener.stl | 1 |
+| **(31)** | PLA | lower_fastener.stl | 1 |
+
 
 ---
 
