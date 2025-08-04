@@ -9,6 +9,6 @@ plugins:
 color_scheme: "theme"
 
 callouts:
-  warning:
-    title: node
+  note:
+    title: Note
     color: purple
