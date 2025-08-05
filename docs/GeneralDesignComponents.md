@@ -14,7 +14,7 @@ To simplify printing and ordering parts, the bottom of the page lists a [bill of
 
 {: .note }
 The 3D-Files can be downloaded [here](/docs/Downloads/). <br>
-The PCB can be downloaded [here](/docs/Downloads.html).
+The PCB can be downloaded [here](/docs/Downloads.md).
 
 ## Table of Contents
 {: .no_toc .text-delta }
