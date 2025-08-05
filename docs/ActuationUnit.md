@@ -54,6 +54,7 @@ nav_order: 2
 | **(11)** | PLA | micropump_frame_A.stl | 1 |
 | **(12)** | PLA | micropump_frame_B.stl | 1 |
 | **(13)** | PLA | damper_frame.stl | 1 |
+| **(44)** | PLA | connectorSleeve.stl | 1 |
 
 
 
@@ -70,13 +71,13 @@ First, assemble the [PCB](./Electronics.md) and connect all cables to the device
   <img src="../Abbildungen/pcb_backplate_assembly.png" width=400>
 </p>
 
-Mount the PCB **(???)** to the back wall **(8)** using four M2.5x8 screws 
+Mount the PCB **(5)** to the back wall **(8)** using four M2.5x8 screws 
 
 <p align="center">
   <img src="../Abbildungen/sleeve_assembly.png" width=600>
 </p>
 
-Connect the back wall **(8)** with the sleeve **(???)** using four M2x8 screws **(38)**.
+Connect the back wall **(8)** with the sleeve **(41)** using four M2x8 screws **(38)**.
 
 
 ### Actuation System

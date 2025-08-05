@@ -17,11 +17,12 @@ nav_order: 2
 <!--  -->
 
 
+
+## Components
+
 <p align="center">
   <img src="../Abbildungen/Übersicht.svg" width=800>
 </p>
-
-## Components
 
 | Bauteil-Nr. | Name |
 | :----: | :----: |
@@ -74,4 +75,4 @@ Once the printing module has been assembled using the assembly instructions, the
 8. Clean and sterilize all parts befor reusing them
 
 ## Video
-[Video hier ansehen](https://github.com/LnBdd/hyberflow/blob/main/Abbildungen/Hydraulic_printing_module_mirrored.mp4)
+[Show Video](https://github.com/LnBdd/hyberflow/blob/main/Abbildungen/Hydraulic_printing_module_mirrored.mp4)

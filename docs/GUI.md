@@ -5,11 +5,13 @@ nav_order: 3
 ---
 
 
-The `GUI.py` module provides a graphical user interface (GUI) for controlling the Hyberflow system. This GUI allows users to configure flowrate parameters, interact with the system, and monitor real-time data.
 
 <!-- Table of Contents -->
 # Hyberflow GUI
 {: .no_toc }
+
+<!-- Page description -->
+The `GUI.py` module provides a graphical user interface (GUI) for controlling the Hyberflow system. This GUI allows users to configure flowrate parameters, interact with the system, and monitor real-time data.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -125,12 +127,7 @@ python GUI.py
 
 ![438698921-f1f55479-3b48-4a40-8a07-6002c9fa855d](https://github.com/user-attachments/assets/ecfcf23c-3f79-4eac-96d0-ac9f0ed26c76)
 
-
-
----
-
-## Notes
-
+{: .note }
 - Ensure the Arduino is connected and properly configured before starting the GUI.
 - The GUI communicates with the Arduino using serial communication. Make sure the correct serial port is selected.
 - The `KP` and `KI` values should be adjusted carefully to achieve optimal control performance.
@@ -142,6 +139,4 @@ python GUI.py
 - **Serial Port Not Found**: Ensure the Arduino is connected and the correct drivers are installed.
 - **No Data on Plot**: Verify that the Arduino is sending data and the serial port is open.
 - **Error Messages**: Check the console for detailed error messages.
-
----
 

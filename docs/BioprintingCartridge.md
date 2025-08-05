@@ -37,12 +37,15 @@ nav_order: 3
 | **(14)** | Thread insert | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen) | 4 |
 | **(15)** | Hydraulic quick release | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde) | 2 |
 | **(16)** | Pressure equalising membrane | [Schreiner Group](https://www.schreiner-group.com/de/produkte/technische-industrie/druckausgleichselemente) | 4 |
-| **(17)** | O-Ring 11,6x2,4 | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
-| **(18)** | O-Ring 15,3x2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
-| **(19)** | O-Ring 4x1 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
+| **(17)** | O-Ring 11,6 x 2,4 mm| [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-11-6-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-33423.html) | 1 |
+| **(18)** | O-Ring 15,3 x 2,4 |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-15-3-x-2-4-mm-nbr-70-5-shore-a-schwarz-black-32113.html) | 1 |
+| **(19)** | O-Ring 4,0 x 1,0 mm |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-4-0-x-1-0-mm-fkm-80-5-shore-a-schwarz-black.html) | 1 |
 | **(20)** | Glasssyringe | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/) | 1 |
-| **(38)** | Cylinder head screw M2x8 | any | 4 |
-| **(40)** | Cylinder head screw M2,5x8 | any | 4 |
+| **(38)** | Cylinder head screw M2 x 8 | any | 4 |
+| **(40)** | Cylinder head screw M2,5 x 8 | any | 4 |
+| **(45)** | Cylinder head screw M2 x 6 | any | 2 |
+| **(42)** | O-Ring 5,0 x 1,0 mm |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-5-0-x-1-0-mm-nbr-70-5-shore-a-schwarz-black-31697.html) | 2 |
+| **(43)** | O-Ring 9,0 x 2,0 mm |[IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-9-0-x-2-0-mm-nbr-70-5-shore-a-schwarz-black-31816.html)| 2 |
 
 ### 3D Printed Components
 
@@ -59,6 +62,7 @@ nav_order: 3
 | **(29)** | MED610 | tube_adapter.stl | 4 |
 | **(30)** | PLA | upper_fastener.stl | 1 |
 | **(31)** | PLA | lower_fastener.stl | 1 |
+| **(41)** | MED610 | tubeConnector-adapter | 2 |
 
 
 ---

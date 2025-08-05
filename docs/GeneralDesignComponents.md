@@ -20,38 +20,14 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 
 ## Bill of Material
 
-### Off-the-Shelf Components
+### Components for PCB
 
 | Part Number | Part | Supplier | Quantity | 
 | :----: | :----: | :----: | :----: |
 | **(5)** | PCB | [Gerberfiles](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1) | 1 |
-| **XX** | SMD Resistor 4k7 Ohm  | [DigiKey](https://www.digikey.de/de/products/detail/yageo/RC1206FR-104K7L/14287794) | 3 |
-| **XX** | onsemi BSS138 Transistor | [Datasheet](https://www.onsemi.com/pdf/datasheet/bss138-d.pdf) | 1 |
-| **XX** | JST_PH_B2B-PH-K_1x02_P2.00mm | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/jst_-_stiftleiste_gerade_1x2-polig_-_ph-185049) | 2 |
-| **XX** | JST_PH_B4B-PH-K_1x04_P2.00mm_ | [Reichelt](https://www.reichelt.de/de/de/shop/produkt/jst_-_stiftleiste_gerade_1x4-polig_-_ph-185051) | 2 |
-| **XX** | PinHeader_1x02_P2.54mm_Vertical | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
-| **XX** | TE_282836-2 | [DigiKey](https://www.digikey.de/en/products/detail/te-connectivity-amp-connectors/282836-2/1826939) | 1 |
-| **XX** | PinHeader_1x14_P2.54mm | [Sparkfun](https://www.sparkfun.com/header-pins-14x1.html) | 2 |
-| **XX** | Socket_1x14_P2.54mm | [Sparkfun](https://www.sparkfun.com/socket-14-pins-0-1-inch-2-54-mm-spacing.html) | 4 |
 | **(6)** | mp-Highdriver4 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/) | 1 |
 | **(7)** | Adafruit Metro Mini| [Adafruit](https://www.adafruit.com/product/2590) | 1 |
-
-
-
-### General Assembly Components
-
-| Part Number | Part | Supplier | Quantity | 
-| :----: | :----: | :----: | :----: |
-| **(32)** | Tubing | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/) | 50 cm |
-| **(33)** | Hose clamp | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/) | 18 |
-| **(34)** | Y-Hose connector | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/) | 2 |
-| **(35)** | Hose clip | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001) | 2 |
-| **(36)** | Countersunk head screw M2,5x4 | any | 2 |
-| **(37)** | Cylinder head screw M1,6x8 | any | 10 |
-| **(38)** | Cylinder head screw M2x8 | any | 8 |
-| **(39)** | Cylinder head screw M2x16 | any | 4 |
-| **(40)** | Cylinder head screw M2,5x8 | any | 9 |
-
+<!-- Hier fehlt noch Litze -->
 
 
 ### Off-the-Shelf Components
@@ -84,25 +60,27 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 
 ### 3D Printed Components
 
-| Partnumber | Material | File | Quantity | 
-| :----: | :----: | :----: | :----: |
-| **(8)** | PLA | back_wall.stl | 1 |
-| **(9)** | BlackV4 | valve_interface.stl | 2 |
-| **(10)** | BlackV4 | tube_adapter.stl | 6 |
-| **(11)** | PLA | micropump_frame_A.stl | 1 |
-| **(12)** | PLA | micropump_frame_B.stl | 1 |
-| **(13)** | PLA | damper_frame.stl | 1 |
-| **(21)** | PLA | cover.stl | 1 |
-| **(22)** | PLA | upper_support.stl | 1 |
-| **(23)** | PLA | lower_support.stl | 1 |
-| **(24)** | BlackV4 | reservoir.stl | 1 |
-| **(25)** | VeroWhitePlus <br >Agilus30 | reservoir_lid.stl | 1 |
-| **(26)** | MED610 | fillig_port_plug.stl | 1 |
-| **(27)** | BlackV4 | divider.stl | 1 |
-| **(28)** | BlackV4 | syringe_cap.stl | 1 |
-| **(29)** | BlackV4 | tube_adapter.stl | 4 |
-| **(30)** | PLA | upper_fastener.stl | 1 |
-| **(31)** | PLA | lower_fastener.stl | 1 |
+| Material | File | Quantity | 
+| :----: | :----: | :----: |
+| PLA | cover.stl | 1 |
+| PLA | upper_support.stl | 1 |
+| PLA | lower_support.stl | 1 |
+| PLA | upper_fastener.stl | 1 |
+| PLA | lower_fastener.stl | 1 |
+| PLA | back_wall.stl | 1 |
+| PLA | micropump_frame_A.stl | 1 |
+| PLA | micropump_frame_B.stl | 1 |
+| PLA | damper_frame.stl | 1 |
+| PLA | connectorSleeve.stl | 1 |
+| MED610 | reservoir.stl | 1 |
+| MED610 | fillig_port_plug.stl | 1 |
+| MED610 | divider.stl | 1 |
+| MED610 | syringe_cap.stl | 1 |
+| MED610 | tube_adapter.stl | 4 |
+| MED610 | tubeConnector-adapter | 2 |
+| MED610 | valve_interface.stl | 2 |
+| MED610 | tube_adapter.stl | 6 |
+| MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
 
 ---
 
@@ -123,8 +101,6 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 {: .note }
 You can download the plate (.3mf) for Bambu Studio [here](#downloads).
 
-### SLA Print
-
 ---
 
 ## Downloads
@@ -132,6 +108,7 @@ You can download the plate (.3mf) for Bambu Studio [here](#downloads).
   - [STL Files]()
   - [CAD Files (Solidworks)]()
   - [.3mf Files]()
+  - [.form Files]()
   - [PCB Manufaturing (Gerberfiles)](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1) <!-- Download muss erneuert werden -->
   - [Full KiCad Project](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1) <!-- Download muss erneuert werden -->
   
