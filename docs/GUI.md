@@ -37,9 +37,9 @@ The `GUI.py` module provides a graphical user interface (GUI) for controlling th
 
 ---
 ## Installation
-{: .note }
-The script can be downloaded [here](/docs/Downloads.md/#software).
 
+{: .note }
+The script can be downloaded [here](./Downloads.md).
 ### Requirements
 
 - Python 3.x
