@@ -12,6 +12,10 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. 
 To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
+{: .note }
+The 3D-Files can be downloaded [here](/docs/Downloads.md/#3d-files).
+The PCB can be downloaded [here](/docs/Downloads.md/#pcb).
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -99,19 +103,3 @@ To simplify printing and ordering parts, the bottom of the page lists a [bill of
 - Perimeter: 5
 - Supports: enabled
 - Brim ears: only for large, rectangular parts to prevent warping
-
-{: .note }
-You can download the plate (.3mf) for Bambu Studio [here](#downloads).
-
----
-
-## Downloads
-<!-- Mising Links -->
-  - [STL Files]()
-  - [CAD Files (Solidworks)]()
-  - [.3mf Files]()
-  - [.form Files]()
-  - [PCB Manufaturing (Gerberfiles)](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1) <!-- Download muss erneuert werden -->
-  - [Full KiCad Project](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1) <!-- Download muss erneuert werden -->
-  
-

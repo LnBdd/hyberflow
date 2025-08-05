@@ -11,6 +11,9 @@ When controlling the pressure module, there are several tasks that must be perfo
 all data for evaluation at the end of each test.
 Both the Arduino IDE and Python are used for implementation.
 
+{: .note }
+The Arduino script and GUI can be downloaded [here](/docs/Downloads.md).
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -58,9 +61,3 @@ Evaluation of these methods has shown that feedforward control is the most effec
 characteristic curve of the micropump is recorded under the current environmental conditions before each pressure cycle
 This performance characteristic curve is then used in the PI control to improve the control speed.
 
----
-
-## Downloads
-
-* [Arduino Skript](../Code/arduino_control/arduino_control.ino)
-* [GUI](../Code/GUI.py)

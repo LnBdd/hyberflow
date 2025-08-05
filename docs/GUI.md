@@ -37,6 +37,8 @@ The `GUI.py` module provides a graphical user interface (GUI) for controlling th
 
 ---
 ## Installation
+{: .note }
+The script can be downloaded [here](/docs/Downloads.md/#software).
 
 ### Requirements
 
@@ -54,10 +56,6 @@ Install the required libraries using:
 pip install pyserial matplotlib pandas scipy
 ```
 
-
-### Download the Script
-
-Download the script [here](../Code/GUI.py )
 
 
 ---

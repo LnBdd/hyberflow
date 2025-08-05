@@ -13,6 +13,8 @@ nav_order: 1
 # Electronics
 {: .no_toc }
 
+The PCB can be downloaded [here](/docs/Downloads.md/#pcb).
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
@@ -66,7 +68,7 @@ nav_order: 1
 
 
 ### Assembly 
-For PCB assembly use the [interactive instructions](#downloads).
+For PCB assembly use the [interactive instructions](/docs/Downloads.md).
 
 ---
 
@@ -122,9 +124,3 @@ Use JST-PH crimp contacts to crimp four stranded wires (0.25mm²) at both ends.
 Combine two cables in one JST-PH2 connector on the one side and in one JST-PH3 connector on the other.
 Use the ports located at the edge.
 The JST-PH3 connector is fits the pitch of the valve pins.
-
----
-
-## Downloads
-<!-- Missing Link -->
-- [Assembly Instructions]()
