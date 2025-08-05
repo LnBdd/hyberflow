@@ -8,7 +8,9 @@ nav_order: 1
 {: .no_toc }
 
 
-This page gives a summary of all comonents that have to be 3D-printed or bought. The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
+This page gives a summary of all comonents that have to be 3D-printed or bought. 
+The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. 
+To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -80,7 +82,7 @@ This page gives a summary of all comonents that have to be 3D-printed or bought.
 | MED610 | tubeConnector-adapter | 2 |
 | MED610 | valve_interface.stl | 2 |
 | MED610 | tube_adapter.stl | 6 |
-| MED610 <br >Agilus30 | reservoir_lid.stl | 1 |
+| MED610 <br> Agilus30 | reservoir_lid.stl | 1 |
 
 ---
 

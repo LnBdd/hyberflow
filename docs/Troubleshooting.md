@@ -15,7 +15,7 @@ nav_order: 4
 
 <!--  -->
 
-## Further Issues
+{: .important}
 Please report bugs via the [Git](https://github.com/LnBdd/hyberflow/issues) repository and feel encouraged to contribute to the project by submitting your own developments and improvements.
 
 ## Sealing
