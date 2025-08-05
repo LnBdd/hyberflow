@@ -13,8 +13,9 @@ The bill of materials is listed seperatly for each sub-assembly to sort the comp
 To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
 
 {: .note }
-The 3D-Files can be downloaded [here](% link /docs/Downloads.md %). <br>
-The PCB can be downloaded [here](/docs/Downloads.md).
+The 3D-Files can be downloaded [here](% link /Downloads.md %). <br>
+The PCB can be downloaded [here](./Downloads.md).
+The PCB can be downloaded [here](./Downloads/).
 
 ## Table of Contents
 {: .no_toc .text-delta }
