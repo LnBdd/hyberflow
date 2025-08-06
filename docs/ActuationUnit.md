@@ -4,7 +4,7 @@ parent: Assembly
 nav_order: 2
 ---
 
-<p align="center">
+<p align="left">
   <img src="../Abbildungen/actuationUnit/banner_actuationUnit.png" width=300>
 </p>
 

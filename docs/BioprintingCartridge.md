@@ -4,7 +4,7 @@ parent: Assembly
 nav_order: 3
 ---
 
-<p align="center">
+<p align="left">
   <img src="../Abbildungen/bioprintingCartridge/banner_bioprintingCartridge.png" width=300>
 </p>
 
