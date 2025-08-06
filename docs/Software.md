@@ -11,14 +11,15 @@ When controlling the pressure module, there are several tasks that must be perfo
 all data for evaluation at the end of each test.
 Both the Arduino IDE and Python are used for implementation.
 
-{: .note }
-The Arduino script and GUI can be downloaded [here](/docs/Downloads.md).
 
 ## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+{: .note }
+The Arduino script and GUI can be downloaded [here](/docs/Downloads.md).
 
 ---
 

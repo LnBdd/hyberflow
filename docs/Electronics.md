@@ -13,8 +13,6 @@ nav_order: 1
 # Electronics
 {: .no_toc }
 
-{: .note }
-The PCB can be downloaded [here](/docs/Downloads/).
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -23,6 +21,8 @@ The PCB can be downloaded [here](/docs/Downloads/).
 {:toc}
 
 
+{: .note }
+The PCB can be downloaded [here](/docs/Downloads/).
 
 ---
 

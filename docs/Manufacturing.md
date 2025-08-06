@@ -102,3 +102,43 @@ The 3D and PCB Files can be downloaded [here](./Downloads.md).
 - Perimeter: 5
 - Supports: enabled
 - Brim ears: only for large, rectangular parts to prevent warping
+
+### Stratasys Print
+
+<p align="center">
+  <img src="../Abbildungen/manufacturing/printOrientation_Stratasys.png" width=600>
+</p>
+
+#### Print Settings:
+- Printer: Stratasys Objet350 Connex 3
+- Material: MED610
+- Supports: enabled
+
+{: .warning }
+The reservoir lid is made up of two materials and two STL files.
+These must be aligned manually, as shown in the image below.
+The grey object is printed in MED610 and the white object in Agilus30.
+
+<p align="center">
+  <img src="../Abbildungen/manufacturing/printOrientation_reservoirLid_Stratasys.png" width=400>
+</p>
+
+#### Print Settings:
+- Printer: Stratasys Objet350 Connex 3
+- Material: MED610(grey object), Agilus30(white object)
+- Supports: disabled
+
+### SLA Print
+
+{: .note }
+As an alternative to the Stratasys printer, you can use any SLA printer with the MED610 material.
+Please note that standard resin is not biocompatible.
+
+<p align="center">
+  <img src="../Abbildungen/manufacturing/sla_blackV4_print-orientation.PNG" width=800>
+</p>
+
+#### Print Settings
+- Printer: Formlabs Form 3L
+- Material: Formlabs Black Resin V4
+- Layer Height: 0.050mm

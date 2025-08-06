@@ -4,6 +4,10 @@ parent: Assembly
 nav_order: 3
 ---
 
+<p align="center">
+  <img src="../Abbildungen/bioprintingCartridge/banner_bioprintingCartridge.png" width=300>
+</p>
+
 <!-- Table of Contents -->
 # Bioprinting Cartridge
 {: .no_toc }

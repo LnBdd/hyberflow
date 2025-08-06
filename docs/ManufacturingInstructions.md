@@ -18,3 +18,7 @@ The componenents (8, 11-13, 21-23, 30, 31) should be printed from thermoplastic 
 | :----: | :----: |
 | [Stratasys Objet350 Connex 3](https://www.stratasys.com/en/) | MED610 <br >Agilus30 |
 | FDM Printer | PLA |
+
+{: .note }
+As an alternative to the Stratasys printer, you can use any SLA printer with the MED610 material.
+Please note that standard resin is not biocompatible.

@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <p align="center">
-  <img src="../Abbildungen/Elektronik.png" width=150>
+  <img src="../Abbildungen/actuationUnit/banner_actuationUnit.png" width=300>
 </p>
 
 <!-- Table of Contents -->
@@ -86,7 +86,7 @@ Connect the back wall **(8)** with the sleeve **(41)** using four M2x8 screws **
   <img src="../Abbildungen/Montage_02.svg" width=200>
 </p>
 
-Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(36)**. </br>
+Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(36)**. <br>
 Connect the flowsensor to the flowsensor port on the PCB.
 
 
@@ -107,7 +107,7 @@ Insert tube adapters **(10)** into the side of the valve interfaces **(9)** usin
   <img src="../Abbildungen/Montage_05.svg" width=200>
 </p>
 
-Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(39)** each. </br>
+Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(39)** each. <br>
 Connect the valves to the ports Valve01 and Valve02 on the PCB.
 It does not matter which one is connected to which port. 
 
@@ -122,7 +122,7 @@ Fit the first micropump **(1)** in the micropump frame A **(11)**.
 </p>
 
 Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four 
-M1,6x8 screws **(37)**. </br>
+M1,6x8 screws **(37)**. <br>
 Connect the micropump to the port Pump01 on the PCB.
 
 <p align="center">
@@ -136,7 +136,7 @@ Fit the second micropump **(1)** in the micropump frame B **(12)**, it's later c
 </p>
 
 Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using
-two M1,6x8 screws **(37)**. </br>
+two M1,6x8 screws **(37)**. <br>
 Connect the micropump to the port Pump02 on the PCB.
 
 <p align="center">
@@ -151,13 +151,14 @@ Fit the pulsation damper **(2)** in the damper frame **(13)**.
 
 Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws **(37)**.
 
-<p align="center">
-  <img src="../Abbildungen/Elektronik.png" width=200>
-</p>
-
-The front view of the back wall with all control components looks like the above figure.
 ### Metro Mini and MP4-Highdriver
 
+<p align="center">
+  <img src="../Abbildungen/actuationUnit/installation_uC.png" width=400
+  >
+</p>
+
+Plug the Metro Mini and Highdriver into the PCB.
 
 ## Hose System
 
@@ -169,9 +170,19 @@ The front view of the back wall with all control components looks like the above
 While the flowsensor can measure bidirectionally, the micropump would be damaged if the actuating fluid would be pumped through the micropump in the opposite pumping direction.
 
 {: .note }
-In the default setting, outputs 'R' and 'A' of the valves are connected. As soon as the valves are operated with 12 V, 
+In the default setting, outputs 'R' and 'A' of the valves are connected. 
+As soon as the valves are operated with 12 V, 
 they switch over so that 'A' and 'P' are connected to each other.
 
+Use a sharp blade to cut the tubes down to the required length. 
+The tube going to the reservoir and syringe should be longer to make installation of the bioprinting cartridge easier.
+
+
+<p align="center">
+  <img src="../Abbildungen/actuationUnit/hoseSystem.png" width=200>
+</p>
+
+This is what the final result should look like.
 
 
 
