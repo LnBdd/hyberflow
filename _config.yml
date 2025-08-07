@@ -11,6 +11,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 
+just_the_docs:
+  custom_head: mathjax.html
+
 color_scheme: "theme"
 
 callouts_level: quiet # or loud
