@@ -48,17 +48,36 @@ In addition, all data is exported to an Excel file for further evaluation.
 
 ---
 
-## Feedforward Control
+## Control Algorithm
 
-Various methods were tried out to improve the regulation of the flow velocity.
-- Control without feedforward control
-- Control with feedforward control
-- Control with reset of the integral component and the average value memory
-- Control with last voltage value before setpoint change as feedforward control and reset of integral component and 
-- average value memory
+The control algorithm combines a feedforward controller with a PI controller for the primary pump and a specific discrete controller for the secondary pump.
+The feedforward controller is based on a trial run in which the flow rate is monitored while the pumps cover the whole range of amplitudes. A linear regression is performed to give an estimate of the relation between amplitude and flow rate. 
+As we observed a high day-to-day variability in pumping performance, such a trial run is recommended at the beginning of each day to increase the speed of the controller. 
+The following figure depicts the general overall control scheme.
 
+<p align="center">
+  <img src="../Abbildungen/ControlScheme.pdf" width=800>
+</p>
+Using the Ziegler-Nichols open-loop method to initialize the gains for the PI controller and fine-tuning them experimentally led to kp = 0.014 = and ki = 0.008. 
 
-Evaluation of these methods has shown that feedforward control is the most effective method. Here, a performance 
-characteristic curve of the micropump is recorded under the current environmental conditions before each pressure cycle
-This performance characteristic curve is then used in the PI control to improve the control speed.
+For details on the discrete controller for the secondary pump, please refer to the following figure:
+
+<p align="center">
+  <img src="../Abbildungen/Flowchart_ControllerSupportPump.pdf" width=800>
+</p>
+
+### Nomenclature
+
+\begin{tabbing}
+	1234567890 \= \kill
+	
+	$\dot{V}_d$ \> desired flow rate  \\
+	$\dot{V}_c$ \> current flow rate  \\
+	$A_\text{ff}(\dot{V}_d)$ \> feedforward amplitude to achieve a given $\dot{V}_d$ \\
+	$A_{s, \text{p}}$ \> set amplitude of the primary pump \\
+	$A_{c, \text{p}}$ \> current amplitude of the primary pump \\
+	$A_{s, \text{s}}$ \> set amplitude of the secondary pump \\
+	$A_{c, \text{s}}$ \> current amplitude of the secondary pump \\
+	$A_{\max}$ \> maximum amplitude of the pumps = 255 \\
+\end{tabbing}
 
