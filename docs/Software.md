@@ -2,8 +2,8 @@
 title: Software
 parent: Manufacturing Instructions
 nav_order: 3
+usemathjax : true
 ---
-{% include mathjax.html %}
 
 # Software Implementation of the Hydraulic Pressure Module
 {: .no_toc }

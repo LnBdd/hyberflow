@@ -11,8 +11,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 
-just_the_docs:
-  custom_head: mathjax.html
+usemathjax : true
 
 color_scheme: "theme"
 
