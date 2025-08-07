@@ -63,21 +63,19 @@ Using the Ziegler-Nichols open-loop method to initialize the gains for the PI co
 For details on the discrete controller for the secondary pump, please refer to the following figure:
 
 <p align="center">
-  <img src="../Abbildungen/Flowchart_ControllerSupportPump.pdf" width=800>
+  <img src="../Abbildungen/Flowchart_ControllerSupportPump.pdf" width=400>
 </p>
 
 ### Nomenclature
 
-\begin{tabbing}
-	1234567890 \= \kill
-	
-	$\dot{V}_d$ \> desired flow rate  \\
-	$\dot{V}_c$ \> current flow rate  \\
-	$A_\text{ff}(\dot{V}_d)$ \> feedforward amplitude to achieve a given $\dot{V}_d$ \\
-	$A_{s, \text{p}}$ \> set amplitude of the primary pump \\
-	$A_{c, \text{p}}$ \> current amplitude of the primary pump \\
-	$A_{s, \text{s}}$ \> set amplitude of the secondary pump \\
-	$A_{c, \text{s}}$ \> current amplitude of the secondary pump \\
-	$A_{\max}$ \> maximum amplitude of the pumps = 255 \\
-\end{tabbing}
+| Symbol                         | Description                                       |
+|-------------------------------|---------------------------------------------------|
+| $\dot{V}_d$                   | desired flow rate                                 |
+| $\dot{V}_c$                   | current flow rate                                 |
+| $A_\text{ff}(\dot{V}_d)$      | feedforward amplitude to achieve a given $\dot{V}_d$ |
+| $A_{s, \text{p}}$             | set amplitude of the primary pump                 |
+| $A_{c, \text{p}}$             | current amplitude of the primary pump             |
+| $A_{s, \text{s}}$             | set amplitude of the secondary pump               |
+| $A_{c, \text{s}}$             | current amplitude of the secondary pump           |
+| $A_{\max}$                    | maximum amplitude of the pumps = 255              |
 
