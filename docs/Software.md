@@ -64,7 +64,7 @@ Using the Ziegler-Nichols open-loop method to initialize the gains for the PI co
 For details on the discrete controller for the secondary pump, please refer to the following figure:
 
 <p align="center">
-  <img src="../Abbildungen/Flowchart_ControllerSupportPump.pdf" width=400>
+  <img src="../Abbildungen/Flowchart_ControllerSupportPump.pdf" width=500>
 </p>
 
 
