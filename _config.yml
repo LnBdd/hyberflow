@@ -7,6 +7,9 @@ remote_theme: just-the-docs/just-the-docs
 just_the_docs:
   custom_head: katex_support.html
 
+include:
+  - _includes
+
 gems:
   -'jekyll-relative-links'
 
