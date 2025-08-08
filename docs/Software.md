@@ -74,8 +74,8 @@ $V_d$
 
 | Symbol                         | Description                                       |
 |-------------------------------|---------------------------------------------------|
-| $$\dot{V}_d$$                   | desired flow rate                                 |
-| \(\dot{V}_c\)                  | current flow rate                                 |
+| $ \dot{V}_d $                   | desired flow rate                                 |
+| $$ \dot{V}_c $$                  | current flow rate                                 |
 | $A_\text{ff}(\dot{V}_d)$      | feedforward amplitude to achieve a given $\dot{V}_d$ |
 | $A_{s, \text{p}}$             | set amplitude of the primary pump                 |
 | $A_{c, \text{p}}$             | current amplitude of the primary pump             |
