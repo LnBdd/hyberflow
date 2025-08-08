@@ -7,17 +7,28 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2575.7">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #4a474f; -webkit-text-stroke: #4a474f; background-color: #f2f4f9}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Menlo; color: #4a474f; -webkit-text-stroke: #4a474f; background-color: #f2f4f9; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{% assign math = page.math | default: layout.math | default: site.math %}</span></p>
+<p class="p1"><span class="s1">&lt;!-- KaTeX CSS --&gt;</span></p>
+<p class="p1"><span class="s1">&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGW2tkTVGFasHpSy3SV" crossorigin="anonymous"&gt;</span></p>
 <p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{% case math %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% when "katex" %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% include katex.html %}</span></p>
-<p class="p1"><span class="s1">{% endcase %}</span></p>
+<p class="p1"><span class="s1">&lt;!-- KaTeX core --&gt;</span></p>
+<p class="p1"><span class="s1">&lt;script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" integrity="sha384-XJkYO0IGwjNTAIQHlpgOno0HlIYQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0I8" crossorigin="anonymous"&gt;&lt;/script&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;!-- KaTeX auto-render --&gt;</span></p>
+<p class="p1"><span class="s1">&lt;script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ1I7nYw44OOclax56Z4dCRWbxyPt0K0ah1uHoK0o4+/RRE05" crossorigin="anonymous"</span></p>
+<p class="p1"><span class="s1">onload="renderMathInElement(document.body, {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>delimiters: [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{left: '$$', right: '$$', display: true},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{left: '$', right: '$', display: false},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{left: '\\(', right: '\\)', display: false},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{left: '\\[', right: '\\]', display: true}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>]</span></p>
+<p class="p1"><span class="s1">});"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/script&gt;</span></p>
 </body>
 </html>

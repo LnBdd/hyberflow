@@ -5,7 +5,7 @@ github_username: LnBdd
 remote_theme: just-the-docs/just-the-docs
 
 just_the_docs:
-  custom_head: katex_support.html
+  custom_head: head_custom.html
 
 include:
   - _includes
