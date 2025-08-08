@@ -70,7 +70,7 @@ For details on the discrete controller for the secondary pump, please refer to t
 
 ### Nomenclature
 
-\(V_d\)
+$V_d$
 
 | Symbol                         | Description                                       |
 |-------------------------------|---------------------------------------------------|
