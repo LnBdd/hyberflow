@@ -14,9 +14,6 @@ plugins:
 just_the_docs:
   custom_head: katex_support.html
 
-
-math: katex
-
 color_scheme: "theme"
 
 callouts_level: quiet # or loud
