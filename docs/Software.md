@@ -70,8 +70,6 @@ For details on the discrete controller for the secondary pump, please refer to t
 
 ### Nomenclature
 
-$V_d$
-
 | Symbol                         | Description                                       |
 |-------------------------------|---------------------------------------------------|
 | $ \dot{V}_d $                   | desired flow rate                                 |
@@ -81,5 +79,5 @@ $V_d$
 | $A_{c, \text{p}}$             | current amplitude of the primary pump             |
 | $A_{s, \text{s}}$             | set amplitude of the secondary pump               |
 | $A_{c, \text{s}}$             | current amplitude of the secondary pump           |
-| $A_{\max}$                    | maximum amplitude of the pumps = 255              |
+| $ A_{\max} $                    | maximum amplitude of the pumps = 255              |
 
