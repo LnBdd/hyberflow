@@ -2,6 +2,7 @@
 title: Software
 parent: Manufacturing Instructions
 nav_order: 3
+usemathjax : true
 ---
 
 # Software Implementation of the Hydraulic Pressure Module
@@ -74,10 +75,10 @@ For details on the discrete controller for the secondary pump, please refer to t
 |-------------------------------|---------------------------------------------------|
 | $$\dot{V}_d$$                   | desired flow rate                                 |
 | $$\dot{V}_c$$                   | current flow rate                                 |
-| $$A_\text{ff}(\dot{V}_d)$$      | feedforward amplitude to achieve a given $$\dot{V}_d$$ |
-| $$A_{s, \text{p}}$$             | set amplitude of the primary pump                 |
-| $$A_{c, \text{p}}$$             | current amplitude of the primary pump             |
-| $$A_{s, \text{s}}$$             | set amplitude of the secondary pump               |
-| $$A_{c, \text{s}}$$             | current amplitude of the secondary pump           |
-| $$A_{\max}$                    | maximum amplitude of the pumps = 255              |
+| $A_\text{ff}(\dot{V}_d)$      | feedforward amplitude to achieve a given $\dot{V}_d$ |
+| $A_{s, \text{p}}$             | set amplitude of the primary pump                 |
+| $A_{c, \text{p}}$             | current amplitude of the primary pump             |
+| $A_{s, \text{s}}$             | set amplitude of the secondary pump               |
+| $A_{c, \text{s}}$             | current amplitude of the secondary pump           |
+| $A_{\max}$                    | maximum amplitude of the pumps = 255              |
 

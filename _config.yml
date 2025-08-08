@@ -11,7 +11,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
 
-usemathjax : true
+math: katex
 
 color_scheme: "theme"
 
