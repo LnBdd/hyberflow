@@ -69,7 +69,7 @@ For details on the discrete controller for the secondary pump, please refer to t
 
 
 ### Nomenclature
-
+\( \dot{V}_d \)
 | Symbol                         | Description                                       |
 |-------------------------------|---------------------------------------------------|
 | $ \dot{V}_d $                   | desired flow rate                                 |
