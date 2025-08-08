@@ -71,5 +71,5 @@ For details on the discrete controller for the secondary pump, please refer to t
 ### Nomenclature
 
 <p align="center">
-  <img src="../Abbildungen/nomenclatur.pdf" width=500>
+  <img src="../Abbildungen/nomenclature.pdf" width=500>
 </p>
