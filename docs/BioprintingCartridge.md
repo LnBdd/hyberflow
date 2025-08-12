@@ -110,15 +110,18 @@ Repeat the stept for the second hose coupling.
   <img src="../Abbildungen/hoseCoupling-into-cover_assembly.png" width=400>
 </p>
 
-Insert the hose couplings **(41)** together with its attachments into the cover **(21)** and secure them using two M2x6 screws.
+Insert the hose couplings **(41)** together with its attachments into the cover **(21)** and secure them using two M2x6 
+screws.
 
 
 <p align="center">
-  <img src="../Abbildungen/cover_assembly.png" width=600>
+  <img src="../Abbildungen/bioprintingCartridge/cover_assembly.png" width=1000>
 </p>
 
-Connect the silicon tubing **(32)** according to the principle sketch by cutting tube sections of the appropriate length. Y-hose-connectors **(34)** can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor **(3)** to the upper tube adapter **(29)** in the cover **(21)** and the end of the tubing coming out of one of the valve interfaces **(9)** to the lower tube adapter **(29)** in the cover **(21)**. Place micro hose clamps **(33)** on all tube ends in the system. <br>
+Connect the end of the tubing coming out of the flow sensor **(3)** to the upper tube adapter **(29)** in the cover **(21)** and the end of the tubing coming out of one of the valve interfaces **(9)** to the lower tube adapter **(29)** in the cover **(21)**. 
+Place micro hose clamps **(33)** on all tube ends in the system. 
 Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws.
+
 
 
 ### Reservoir
@@ -128,7 +131,8 @@ Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws.
 </p>
 
 
-Attach the reservoir lid **(25)** to the reservoir **(24)** using five M2,5x8 screws. The elastic seal should be pressed on the reservoir.
+Attach the reservoir lid **(25)** to the reservoir **(24)** using five M2,5x8 screws. 
+The elastic seal should be pressed on the reservoir.
 
 <p align="center">
   <img src="../Abbildungen/Montage_19.svg" width=200>
@@ -152,7 +156,8 @@ Slide the O-ring 4x1 **(19)** onto the filling port filling port plug **(26)** u
   <img src="../Abbildungen/Montage_22.svg" width=200>
 </p>
 
-Connect the tupe adapter **(29)**, inserted into the reservoir **(24)**, with the lower hydraulic quick release **(15)** and thread a hose clip **(35)** onto the tubing **(32)**. Place the reservoir between the upper **(22)** and lower support **(23)**.
+Connect the tupe adapter **(29)**, inserted into the reservoir **(24)**, with the lower hydraulic quick release **(15)** and thread a hose clip **(35)** onto the tubing **(32)**. 
+Place the reservoir between the upper **(22)** and lower support **(23)**.
 
 ### Syringe
 
