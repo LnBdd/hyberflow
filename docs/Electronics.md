@@ -28,9 +28,6 @@ The PCB can be downloaded [here](/docs/Downloads/).
 
 ## Components
 
-### PCB - ToDo: Gerberfiles, Manufacturing Instructions
-
-
 ### Off-the-Shelf Components
 
 
@@ -50,6 +47,12 @@ The PCB can be downloaded [here](/docs/Downloads/).
 | Pin Socket | 4 | any | 1×14 pin socket, 2.54mm pitch, vertical, 8.5mm height | - | THT |
 | Pin Hocket | 1 | any | 1×02 pin header, 2.54mm pitch, vertical | - | THT |
 | Jumper | 1 | any | 1×02 jumper, 2.54mm pitch, vertical | - | - |
+| wire | - | any | 0.25mm², different colors | - | - |
+
+### 3D Printed Components
+| Material | File | Quantity |
+| :----: | :----: | :----: |
+| PLA | spacerPCB | 4 |
 
 
 ---
