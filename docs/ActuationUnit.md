@@ -71,7 +71,7 @@ First, assemble the [PCB](./Electronics.md) and connect all cables to the device
   <img src="../Abbildungen/pcb_backplate_assembly.png" width=400>
 </p>
 
-Mount the PCB **(5)** to the back wall **(8)** using four M2.5x8 screws 
+Mount the PCB **(5)** to the back wall **(8)** using four M2.5x8 screws and spacer rings.
 
 <p align="center">
   <img src="../Abbildungen/sleeve_assembly.png" width=600>
@@ -86,7 +86,7 @@ Connect the back wall **(8)** with the sleeve **(41)** using four M2x8 screws **
   <img src="../Abbildungen/Montage_02.svg" width=200>
 </p>
 
-Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws **(36)**. <br>
+Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws. <br>
 Connect the flowsensor to the flowsensor port on the PCB.
 
 
@@ -107,7 +107,7 @@ Insert tube adapters **(10)** into the side of the valve interfaces **(9)** usin
   <img src="../Abbildungen/Montage_05.svg" width=200>
 </p>
 
-Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws **(39)** each. <br>
+Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws each. <br>
 Connect the valves to the ports Valve01 and Valve02 on the PCB.
 It does not matter which one is connected to which port. 
 
@@ -122,7 +122,7 @@ Fit the first micropump **(1)** in the micropump frame A **(11)**.
 </p>
 
 Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four 
-M1,6x8 screws **(37)**. <br>
+M1,6x8 screws. <br>
 Connect the micropump to the port Pump01 on the PCB.
 
 <p align="center">
@@ -136,7 +136,7 @@ Fit the second micropump **(1)** in the micropump frame B **(12)**, it's later c
 </p>
 
 Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using
-two M1,6x8 screws **(37)**. <br>
+two M1,6x8 screws. <br>
 Connect the micropump to the port Pump02 on the PCB.
 
 <p align="center">
@@ -149,7 +149,7 @@ Fit the pulsation damper **(2)** in the damper frame **(13)**.
   <img src="../Abbildungen/Montage_11.svg" width=200>
 </p>
 
-Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws **(37)**.
+Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws.
 
 ### Metro Mini and MP4-Highdriver
 

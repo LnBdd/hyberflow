@@ -55,6 +55,8 @@ The feedforward controller is based on a trial run in which the flow rate is mon
 As we observed a high day-to-day variability in pumping performance, such a trial run is recommended at the beginning of each day to increase the speed of the controller. 
 The following figure depicts the general overall control scheme.
 
+<object data="../Abbildungen/ControlScheme.pdf" width="800" type='application/pdf'></object>
+
 <p align="center">
   <img src="../Abbildungen/ControlScheme.pdf" width=800>
 </p>

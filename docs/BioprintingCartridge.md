@@ -85,7 +85,7 @@ Melt M2 thread inserts **(14)** into the upper **(22)** and lower support **(23)
   <img src="../Abbildungen/Montage_13.svg" width=200>
 </p>
 
-Mount the upper **(22)** and lower support **(23)** to the cover **(21)** using four M2x8 screws **(38)**.
+Mount the upper **(22)** and lower support **(23)** to the cover **(21)** using four M2x8 screws.
 
 <p align="center">
   <img src="../Abbildungen/hoseCoupling_assembly_01.png" width=400>
@@ -118,7 +118,7 @@ Insert the hose couplings **(41)** together with its attachments into the cover 
 </p>
 
 Connect the silicon tubing **(32)** according to the principle sketch by cutting tube sections of the appropriate length. Y-hose-connectors **(34)** can be used to connect three tube ends. Connect the end of the tubing coming out of the flow sensor **(3)** to the upper tube adapter **(29)** in the cover **(21)** and the end of the tubing coming out of one of the valve interfaces **(9)** to the lower tube adapter **(29)** in the cover **(21)**. Place micro hose clamps **(33)** on all tube ends in the system. <br>
-Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws **(40)**.
+Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws.
 
 
 ### Reservoir
@@ -128,7 +128,7 @@ Mount the cover **(21)** to the back wall **(8)** using four M2,5x8 screws **(40
 </p>
 
 
-Attach the reservoir lid **(25)** to the reservoir **(24)** using five M2,5x8 screws **(40)**. The elastic seal should be pressed on the reservoir.
+Attach the reservoir lid **(25)** to the reservoir **(24)** using five M2,5x8 screws. The elastic seal should be pressed on the reservoir.
 
 <p align="center">
   <img src="../Abbildungen/Montage_19.svg" width=200>
