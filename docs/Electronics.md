@@ -1,5 +1,5 @@
 ---
-title: electronics
+title: Electronics
 parent: Assembly
 nav_order: 1
 ---
@@ -10,7 +10,7 @@ nav_order: 1
 
 
 <!-- Table of Contents -->
-# electronics
+# Electronics
 {: .no_toc }
 
 
