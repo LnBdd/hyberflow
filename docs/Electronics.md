@@ -33,6 +33,7 @@ The PCB can be downloaded [here](/docs/Downloads/).
 
 ### Off-the-Shelf Components
 
+
 | Name | Qty. | Manufacturer | Description / Value | Package | Type |
 | :----: | :----: | :----: | :----: | :----: | :----: |
 | Resistor | 3 | any | 4k7 | 0805 | SMD |
@@ -57,7 +58,7 @@ The PCB can be downloaded [here](/docs/Downloads/).
 
 
 ### Schematics
-<object data="../images/electronics/hyberflow_PCB_v1-2.pdf" width="800" type='application/pdf'></object>
+<object data="../images/electronics/hyberflow_PCB_v1-2.pdf" width="800" height="800" type='application/pdf'></object>
 
 ### Pinout
 <p align="center">
