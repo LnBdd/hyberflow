@@ -55,13 +55,14 @@ The PCB can be downloaded [here](/docs/Downloads/).
 | PLA | spacerPCB | 4 |
 
 
+
 ---
 
 ## PCB
 
 
 ### Schematics
-<object data="../images/electronics/hyberflow_PCB_v1-2.pdf" width="800" height="800" type='application/pdf'></object>
+<object data="../images/electronics/hyberflow_PCB_v1-2.pdf" width="800" height="600" type='application/pdf'></object>
 
 ### Pinout
 <p align="center">
