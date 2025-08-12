@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align="left">
-  <img src="../Abbildungen/electronics/PCB_Iso.png" width=350>
+  <img src="../images/electronics/PCB_Iso.png" width=350>
 </p>
 
 
@@ -57,11 +57,11 @@ The PCB can be downloaded [here](/docs/Downloads/).
 
 
 ### Schematics
-<object data="../Abbildungen/electronics/hyberflow_PCB_v1-2.pdf" width="800" type='application/pdf'></object>
+<object data="../images/electronics/hyberflow_PCB_v1-2.pdf" width="800" type='application/pdf'></object>
 
 ### Pinout
 <p align="center">
-  <img src="../Abbildungen/electronics/PCB_PinOut.svg" width=400>
+  <img src="../images/electronics/PCB_PinOut.svg" width=400>
 </p>
 
 
@@ -82,7 +82,7 @@ The corresponding pins on the PCB and device connectors are labelled with the sa
 
 ### Adafruit Metro Mini
 <p align="center">
-  <img src="../Abbildungen/electronics/metroMini_assembly.png" width=600>
+  <img src="../images/electronics/metroMini_assembly.png" width=600>
 </p>
 
 Solder the pinheaders to the Adafruit Metro Mini.
@@ -90,8 +90,8 @@ Solder the pinheaders to the Adafruit Metro Mini.
 ### Bartels Micropumps
 
 <p align="center">
-  <img src="../Abbildungen/electronics/micropump_pinout.png" width=600>
-  <img src="../Abbildungen/electronics/conn_micropump.svg" width=400>
+  <img src="../images/electronics/micropump_pinout.png" width=600>
+  <img src="../images/electronics/conn_micropump.svg" width=400>
 </p>
 
 Use JST-PH crimp contacts to crimp eight stranded wires (0.25mm²) at one end.
@@ -105,8 +105,8 @@ Label the cables, so you can differentiate the two pumps later on.
 ### Sensorion Flowsensor
 
 <p align="center">
-  <img src="../Abbildungen/electronics/flowsensor_pinout.png" width=500>
-  <img src="../Abbildungen/electronics/conn_flowsensor.svg" width=400>
+  <img src="../images/electronics/flowsensor_pinout.png" width=500>
+  <img src="../images/electronics/conn_flowsensor.svg" width=400>
 </p>
 
 Use JST-PH crimp contacts to crimpt the Sensorion ribbon cable.
@@ -115,8 +115,8 @@ Plug the 5 cables into one JST-PH5 connector as shows in the pictures.
 ### Staiger valves
 
 <p align="center">
-  <img src="../Abbildungen/electronics/valve_pinout.png" width=500>
-  <img src="../Abbildungen/electronics/conn_valve.svg" width=400>
+  <img src="../images/electronics/valve_pinout.png" width=500>
+  <img src="../images/electronics/conn_valve.svg" width=400>
 </p>
 
 Use JST-PH crimp contacts to crimp four stranded wires (0.25mm²) at both ends.

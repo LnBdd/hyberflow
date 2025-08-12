@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <p align="left">
-  <img src="../Abbildungen/actuationUnit/banner_actuationUnit.png" width=300>
+  <img src="../images/actuationUnit/banner_actuationUnit.png" width=300>
 </p>
 
 <!-- Table of Contents -->
@@ -25,7 +25,7 @@ nav_order: 2
 ## Components 
 
 <p align="center">
-  <img src="../Abbildungen/Elektronik_1.svg" width=1200>
+  <img src="../images/actuationUnit/Elektronik_1.svg" width=1200>
 </p>
 
 ### Off-the-Shelf Components
@@ -61,20 +61,20 @@ nav_order: 2
 ---
 
 ## Assembly
-
+s
 {: .note }
 First, assemble the [PCB](./Electronics.md) and connect all cables to the devices but not to the PCB.
 
 ### Housing
  
 <p align="center">
-  <img src="../Abbildungen/pcb_backplate_assembly.png" width=400>
+  <img src="../images/actuationUnit/pcb_backplate_assembly.png" width=400>
 </p>
 
 Mount the PCB **(5)** to the back wall **(8)** using four M2.5x8 screws and spacer rings.
 
 <p align="center">
-  <img src="../Abbildungen/sleeve_assembly.png" width=600>
+  <img src="../images/actuationUnit/sleeve_assembly.png" width=600>
 </p>
 
 Connect the back wall **(8)** with the sleeve **(41)** using four M2x8 screws **(38)**.
@@ -83,7 +83,7 @@ Connect the back wall **(8)** with the sleeve **(41)** using four M2x8 screws **
 ### Actuation System
 
 <p align="center">
-  <img src="../Abbildungen/Montage_02.svg" width=200>
+  <img src="../images/actuationUnit/Montage_02.svg" width=200>
 </p>
 
 Attach the flowsensor **(3)** to the back wall **(8)** using two M2,5x4 screws. <br>
@@ -91,20 +91,20 @@ Connect the flowsensor to the flowsensor port on the PCB.
 
 
 <p align="center">
-  <img src="../Abbildungen/Montage_03.svg" width=200>
+  <img src="../images/actuationUnit/Montage_03.svg" width=200>
 </p>
 
 
 Insert a valve **(4)** in each of the two valve interfaces **(9)**.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_04.svg" width=200>
+  <img src="../images/actuationUnit/Montage_04.svg" width=200>
 </p>
 
 Insert tube adapters **(10)** into the side of the valve interfaces **(9)** using thread sealing tape.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_05.svg" width=200>
+  <img src="../images/actuationUnit/Montage_05.svg" width=200>
 </p>
 
 Attach the valve interfaces **(9)** to the back wall **(8)** using two M2x16 screws each. <br>
@@ -112,13 +112,13 @@ Connect the valves to the ports Valve01 and Valve02 on the PCB.
 It does not matter which one is connected to which port. 
 
 <p align="center">
-  <img src="../Abbildungen/Montage_06.svg" width=200>
+  <img src="../images/actuationUnit/Montage_06.svg" width=200>
 </p>
 
 Fit the first micropump **(1)** in the micropump frame A **(11)**.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_07.svg" width=200>
+  <img src="../images/actuationUnit/Montage_07.svg" width=200>
 </p>
 
 Mount the micropump frame A **(11)** with the micropump **(1)** to the back wall **(8)** using four 
@@ -126,13 +126,13 @@ M1,6x8 screws. <br>
 Connect the micropump to the port Pump01 on the PCB.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_08.svg" width=200>
+  <img src="../images/actuationUnit/Montage_08.svg" width=200>
 </p>
 
 Fit the second micropump **(1)** in the micropump frame B **(12)**, it's later connected to Pump02.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_09.svg" width=200>
+  <img src="../images/actuationUnit/Montage_09.svg" width=200>
 </p>
 
 Mount the micropump frame B **(12)** with the micropump **(1)** to the micropump frame A **(11)** using
@@ -140,13 +140,13 @@ two M1,6x8 screws. <br>
 Connect the micropump to the port Pump02 on the PCB.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_10.svg" width=200>
+  <img src="../images/actuationUnit/Montage_10.svg" width=200>
 </p>
 
 Fit the pulsation damper **(2)** in the damper frame **(13)**.
 
 <p align="center">
-  <img src="../Abbildungen/Montage_11.svg" width=200>
+  <img src="../images/actuationUnit/Montage_11.svg" width=200>
 </p>
 
 Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,6x8 screws.
@@ -154,7 +154,7 @@ Mount the damper frame **(13)** to the micropump frame B **(12)** using four M1,
 ### Metro Mini and MP4-Highdriver
 
 <p align="center">
-  <img src="../Abbildungen/actuationUnit/installation_uC.png" width=400
+  <img src="../images/actuationUnit/installation_uC.png" width=400
   >
 </p>
 
@@ -163,7 +163,7 @@ Plug the Metro Mini and Highdriver into the PCB.
 ## Hose System
 
 <p align="center">
-  <img src="../Abbildungen/Hydraulic.svg" width=500>
+  <img src="../images/Hydraulic.svg" width=500>
 </p>
 
 {: .warning }
@@ -181,7 +181,7 @@ The tube going to the reservoir and syringe should be longer to make installatio
 
 
 <p align="center">
-  <img src="../Abbildungen/actuationUnit/hoseSystem.png" width=200>
+  <img src="../images/actuationUnit/hoseSystem.png" width=200>
 </p>
 
 This is what the final result should look like.

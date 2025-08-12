@@ -122,8 +122,10 @@ python GUI.py
 
 
 ### Screenshot
+<p align="center">
+  <img src="../images/gui/gui_screenshot.jpg" width=800>
+</p>
 
-![438698921-f1f55479-3b48-4a40-8a07-6002c9fa855d](https://github.com/user-attachments/assets/ecfcf23c-3f79-4eac-96d0-ac9f0ed26c76)
 
 {: .note }
 - Ensure the Arduino is connected and properly configured before starting the GUI.

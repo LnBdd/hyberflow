@@ -4,7 +4,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="Abbildungen/Print_Head.png" width=500>
+  <img src="images/banner/Print_Head.png" width=350>
 </p>
 
 # HYPBERFLOW - a novel hydraulically actuated open source bioextrusion printhead
