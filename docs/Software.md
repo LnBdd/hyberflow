@@ -57,14 +57,14 @@ The following figure depicts the general overall control scheme.
 
 
 <p align="center">
-  <img src="../images/Software/ControlScheme.png" width=800>
+  <img src="../images/software/ControlScheme.png" width=800>
 </p>
 Using the Ziegler-Nichols open-loop method to initialize the gains for the PI controller and fine-tuning them experimentally led to kp = 0.014 = and ki = 0.008. 
 
 For details on the discrete controller for the secondary pump, please refer to the following figure:
 
 <p align="center">
-  <img src="../images/Software/Flowchart_ControllerSupportPump.png" width=500>
+  <img src="../images/software/Flowchart_ControllerSupportPump.png" width=500>
 </p>
 
 
@@ -72,5 +72,5 @@ For details on the discrete controller for the secondary pump, please refer to t
 ### Nomenclature
 
 <p align="center">
-  <img src="../images/Software/nomenclature.png" width=500>
+  <img src="../images/software/nomenclature.png" width=500>
 </p>
