@@ -26,35 +26,31 @@ The PCB can be downloaded [here](/docs/Downloads/).
 
 ---
 
-## Components
+## Bill of Materials for PCB assembly
+
+{: .note }
+All other electrical components are listed [here](/docs/ActuationUnit.md).
 
 ### Off-the-Shelf Components
 
-
-| Name | Qty. | Manufacturer | Description / Value | Package | Type |
-| :----: | :----: | :----: | :----: | :----: | :----: |
-| Resistor | 3 | any | 4k7 | 0805 | SMD |
-| Connector | 2 | JST | B2B-PH-K-S | PH | THT |
-| Connector | 2 | JST | PHR-2 | PH | THT |
-| Connector | 1 | JST | PHR-3 | PH | THT |
-| Connector | 2 | JST | B4B-PH-K-S | PH | THT |
-| Connector | 2 | JST | PHR-4 | PH | THT |
-| Connector | 1 | JST | B5B-PH-K-S | PH | THT |
-| Connector | 1 | JST | PHR-5 | PH | THT |
-| Crimp contact | 50 | JST | BPH-002T-P0.5S | PH | - |
-| Connector | 1 | TE-Connectivity | 282836-2 | - | THT |
-| MOSFET | 1 | ALPHA & OMEGA | AO3400A | SOT-32 | SMD |
-| Pin Socket | 4 | any | 1×14 pin socket, 2.54mm pitch, vertical, 8.5mm height | - | THT |
-| Pin Hocket | 1 | any | 1×02 pin header, 2.54mm pitch, vertical | - | THT |
-| Jumper | 1 | any | 1×02 jumper, 2.54mm pitch, vertical | - | - |
-| wire | - | any | 0.25mm², different colors | - | - |
-
-### 3D Printed Components
-| Material | File | Quantity |
-| :----: | :----: | :----: |
-| PLA | spacerPCB | 4 |
-
-
+| Name          | Qty.   | Manufacturer    | Description / Value                                   | Package | Type   |
+|---------------|--------|-----------------|-------------------------------------------------------|---------|--------|
+| Resistor      | 3      | any             | 4k7                                                   | 805     | SMD    |
+| Connector     | 2      | JST             | B2B-PH-K-S                                            | PH      | THT    |
+| Connector     | 2      | JST             | PHR-2                                                 | PH      | THT    |
+| Connector     | 1      | JST             | PHR-3                                                 | PH      | THT    |
+| Connector     | 2      | JST             | B4B-PH-K-S                                            | PH      | THT    |
+| Connector     | 2      | JST             | PHR-4                                                 | PH      | THT    |
+| Connector     | 1      | JST             | B5B-PH-K-S                                            | PH      | THT    |
+| Connector     | 1      | JST             | PHR-5                                                 | PH      | THT    |
+| Crimp contact | 50     | JST             | BPH-002T-P0.5S                                        | PH      | -      |
+| Connector     | 1      | TE-Connectivity | 282836-2                                              | -       | THT    |
+| MOSFET        | 1      | ALPHA & OMEGA   | AO3400A                                               | SOT-32  | SMD    |
+| Pin Socket    | 4      | any             | 1×14 pin socket, 2.54mm pitch, vertical, 8.5mm height | -       | THT    |
+| Pin Hocket    | 1      | any             | 1×02 pin header, 2.54mm pitch, vertical               | -       | THT    |
+| Jumper        | 1      | any             | 1×02 jumper, 2.54mm pitch, vertical                   | -       | -      |
+| Wire          | -      | any             | 0.25mm², different colors                             | -       | -      |
+| Cable         | 1      | Molex           | Molex Picoblade 15134-0606                            | -       | -      |
 
 ---
 
@@ -114,7 +110,8 @@ Label the cables, so you can differentiate the two pumps later on.
   <img src="../images/electronics/conn_flowsensor.svg" width=400>
 </p>
 
-Use JST-PH crimp contacts to crimpt the Sensorion ribbon cable.
+Cut off one plug of the Molex Picoblade cable. Use 5 JST-PH crimp contacts to crimpt the cable, the n.c. cable can 
+remain free.
 Plug the 5 cables into one JST-PH5 connector as shows in the pictures.
 
 ### Staiger valves
