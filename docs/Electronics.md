@@ -22,14 +22,11 @@ nav_order: 1
 
 
 {: .note }
-The PCB can be downloaded [here](/docs/Downloads/).
+The PCB can be downloaded [here](./Downloads/).
 
 ---
 
 ## Bill of Materials for PCB assembly
-
-{: .note }
-All other electrical components are listed [here](/docs/ActuationUnit.md).
 
 ### Off-the-Shelf Components
 
@@ -52,6 +49,10 @@ All other electrical components are listed [here](/docs/ActuationUnit.md).
 | Wire          | -      | any             | 0.25mm², different colors                             | -       | -      |
 | Cable         | 1      | Molex           | Molex Picoblade 15134-0606                            | -       | -      |
 
+{: .note }
+All other electrical components are listed [here](./ActuationUnit.md).
+
+
 ---
 
 ## PCB
@@ -68,7 +69,7 @@ All other electrical components are listed [here](/docs/ActuationUnit.md).
 
 
 ### Assembly 
-For PCB assembly use the [interactive instructions](/docs/Downloads.md).
+For PCB assembly use the [interactive instructions](./Downloads.md).
 
 ---
 
