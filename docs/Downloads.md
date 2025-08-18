@@ -20,14 +20,15 @@ nav_order: 5
 A possible arrangement of the models can be downloaded directly as a .3mf file.
 
 - [STL Files]()
-- [CAD Files (Solidworks)]()
+- [STEP Files]()
+- [Solidworks Files]()
 - [.3mf Files]()
 
 ---
 
 ## PCB
-- [PCB Manufaturing (Gerberfiles)](https://seafile.cloud.uni-hannover.de/f/c398d5bc485c45f787d8/?dl=1) <!-- Download muss erneuert werden -->
-- [Full KiCad Project](https://seafile.cloud.uni-hannover.de/f/595969832f2d4af1b4db/?dl=1) <!-- Download muss erneuert werden -->
+- [Gerberfiles for JLCPCB]() <!-- Download muss erneuert werden -->
+- [Full KiCad Project]() <!-- Download muss erneuert werden -->
 - [Assembly Instructions]()
   
 ---
