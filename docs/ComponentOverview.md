@@ -8,9 +8,9 @@ nav_order: 1
 {: .no_toc }
 
 
-This page gives a summary of all comonents that have to be 3D-printed or bought. 
-The bill of materials is listed seperatly for each sub-assembly to sort the components before the assembly process. 
-To simplify printing and ordering parts, the bottom of the page lists a [bill of materials](#summary-/-bill-of-materials) for the HYBERFLOW as a whole.
+This page provides a complete list of all components required for assembling the Hyperflow System.
+It also includes instructions for the fabrication of the 3D-printed parts, covering the necessary design files and 
+printing parameters.
 
 {: .note }
 The 3D and PCB Files can be downloaded [here](./Downloads.md).
