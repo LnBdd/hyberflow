@@ -1,6 +1,6 @@
 ---
 title: GUI
-parent: Usage
+parent: User Manual
 nav_order: 3
 ---
 

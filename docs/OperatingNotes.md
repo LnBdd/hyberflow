@@ -1,6 +1,6 @@
 ---
 title: Operating Notes
-parent: Usage
+parent: User Manual
 nav_order: 1
 ---
 

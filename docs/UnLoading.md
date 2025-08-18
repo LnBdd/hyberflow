@@ -1,6 +1,6 @@
 ---
 title: Loading & Unloading
-parent: Usage
+parent: User Manual
 nav_order: 2
 ---
 
@@ -24,18 +24,18 @@ nav_order: 2
   <img src="../images/LoadingUnloading/Übersicht.svg" width=800>
 </p>
 
-| Bauteil-Nr. | Name |
-| :----: | :----: |
-| **(1)** | Glasssyringe |
-| **(2)** | Divider |
-| **(3)** | Syringe lid |
-| **(4)** | Reservoir |
-| **(5)** | Filling port plug |
-| **(6)** | Actuation unit |
-| **(7)** | Upper fastener (white) |
-| **(8)** | Lower fastener (black) |
-| **(9)** | Lower quick release |
-| **(10)** | Upper quick release |
+| Part Number |          Part          |
+|:-----------:|:----------------------:|
+|   **(1)**   |      Glasssyringe      |
+|   **(2)**   |        Divider         |
+|   **(3)**   |      Syringe lid       |
+|   **(4)**   |       Reservoir        |
+|   **(5)**   |   Filling port plug    |
+|   **(6)**   |     Actuation unit     |
+|   **(7)**   | Upper fastener (white) |
+|   **(8)**   | Lower fastener (black) |
+|   **(9)**   |  Lower quick release   |
+|  **(10)**   |  Upper quick release   |
 
 ## Additional Tools & Materials
 
