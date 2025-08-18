@@ -30,7 +30,7 @@ The PCB can be downloaded [here](./Downloads/).
 
 ### Off-the-Shelf Components
 
-| Name          | Qty.   | Manufacturer    | Description / Value                                   | Package | Type   |
+| Part          | Qty.   | Manufacturer    | Description / Value                                   | Package | Type   |
 |---------------|--------|-----------------|-------------------------------------------------------|---------|--------|
 | Resistor      | 3      | any             | 4k7                                                   | 805     | SMD    |
 | Connector     | 2      | JST             | B2B-PH-K-S                                            | PH      | THT    |

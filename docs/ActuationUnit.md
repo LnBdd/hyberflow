@@ -181,7 +181,7 @@ they switch over so that 'A' and 'P' are connected to each other.
 
 Use a sharp blade to cut the tubes down to the required length. 
 Connect the silicon tubing **(A1)** according to the principle sketch.
-Secure the tubes by using the **(A2)**.
+Secure the tubes by using the hose clamps **(A2)**.
 Y-hose-connectors **(A3)** can be used to connect three tube ends.
 
 The tube going to the reservoir and syringe should be longer to make installation of the bioprinting cartridge easier.
