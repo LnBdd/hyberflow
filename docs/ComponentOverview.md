@@ -1,10 +1,10 @@
 ---
-title: Manufacturing
+title: Component Overview
 parent: Manufacturing Instructions
 nav_order: 1
 ---
 
-# Manufacturing 
+# Component Overview 
 {: .no_toc }
 
 
