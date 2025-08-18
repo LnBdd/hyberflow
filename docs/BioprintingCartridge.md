@@ -46,6 +46,7 @@ nav_order: 3
 |  **(20)**   |         Glasssyringe         |            [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/)            |    1     |
 |  **(42)**   |     O-Ring 5,0 x 1,0 mm      | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-5-0-x-1-0-mm-nbr-70-5-shore-a-schwarz-black-31697.html)  |    2     |
 |  **(43)**   |     O-Ring 9,0 x 2,0 mm      | [IR Dichtungstechnik](https://www.ir-dichtungstechnik.de/gewerbe/de/o-ring-9-0-x-2-0-mm-nbr-70-5-shore-a-schwarz-black-31816.html)  |    2     |
+| **(A1)**    | Hose clip                                                 | [Bürkle](https://www.buerkle.de/de/schlauchklemme-quetsch-fix_p8618-0001)                               | 2        |
 |    **-**    |       M2 Thread insert       |              [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen)              |    4     |
 |    **-**    |  Cylinder head screw M2 x 6  |                                                                 any                                                                 |    2     |
 |    **-**    |  Cylinder head screw M2 x 8  |                                                                 any                                                                 |    4     |

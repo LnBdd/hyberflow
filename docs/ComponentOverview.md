@@ -61,6 +61,10 @@ The 3D and PCB Files can be downloaded [here](./Downloads.md).
 | mp-Highdriver4                                            | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/pump-driver/)                                                        | 1        |
 | mp-damper                                                 | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-damper-pulsation-damper/)                                         | 1        |
 | Micropump mp6-liq                                         | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/de/mikropumpen/)                                                             | 2        |
+| Tubing                                                    | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-t-tygon-tubing/)                                                  | 50cm     |
+| Hose clamp                                                | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-hc-hose-clamp/)                                                   | 18       |
+| Y-Hose connector                                          | [Bartels Mikrotechnik](https://bartels-mikrotechnik.de/product/mp-y-hose-connector/)                                                | 2        |
+| Hose clip                                                 | [Bürkle]()                                                                                                                          | 2        |
 | M2 Thread insert                                          | [Ruthex](https://www.ruthex.de/products/ruthex-gewindeeinsatz-m2-70-stuck-rx-m2x4-messing-gewindebuchsen)                           | 4        |
 | Hydraulic quick release                                   | [Lesu](https://www.scm-modellbau.com/Lesu-Schnellkupplung-2-x-1-mm-Schlauch-M3-Gewinde)                                             | 2        |
 | Glasssyringe                                              | [Poulten & Graf](https://poulten-graf.de/produkt/ganzglasspritze-fortuna-optima-20-ml-10-ml-glasspitze-luer/)                       | 1        |

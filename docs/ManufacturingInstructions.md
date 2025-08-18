@@ -8,7 +8,7 @@ nav_order: 2
   <img src="../images/banner/HPM.png" width=150>
 </p>
 
-# Manufacturing instructions for replicating the hydraulic printing module
+# Manufacturing Instructions for Replicating the Hydraulic Printing Module
 
 The hydraulic printing module comprises a reservoir for the actuating fluid, a syringe and the regulation and control components required for each syringe.
 
