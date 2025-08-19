@@ -110,7 +110,7 @@ The 3D and PCB Files can be downloaded [here](./Downloads.md).
 
 ### FDM Print
 <p align="center">
-  <img src="../images/manufacturing/fdm_print-orientation.png" width=600>
+  <img src="../images/componentOverview/fdm_print-orientation.png" width=600>
 </p>
 
 #### Print Settings:
@@ -123,7 +123,7 @@ The 3D and PCB Files can be downloaded [here](./Downloads.md).
 ### Stratasys Print
 
 <p align="center">
-  <img src="../images/manufacturing/printOrientation_Stratasys.png" width=600>
+  <img src="../images/componentOverview/printOrientation_Stratasys.png" width=600>
 </p>
 
 #### Print Settings:
@@ -137,7 +137,7 @@ These must be aligned manually, as shown in the image below.
 The grey object is printed in MED610 and the white object in Agilus30.
 
 <p align="center">
-  <img src="../images/manufacturing/printOrientation_reservoirLid_Stratasys.png" width=400>
+  <img src="../images/componentOverview/printOrientation_reservoirLid_Stratasys.png" width=400>
 </p>
 
 #### Print Settings:
@@ -152,7 +152,7 @@ As an alternative to the Stratasys printer, you can use any SLA printers.
 Please note that standard resin is not biocompatible.
 
 <p align="center">
-  <img src="../images/manufacturing/sla_blackV4_print-orientation.PNG" width=800>
+  <img src="../images/componentOverview/sla_blackV4_print-orientation.PNG" width=800>
 </p>
 
 #### Print Settings
