@@ -21,7 +21,7 @@ A possible arrangement of the models can be downloaded directly as a .3mf file.
 
 - [STL Files]()
 - [STEP Files]()
-- [Solidworks Files]()
+- [Full Project (Solidworks)]()
 - [.3mf Files]()
 
 ---
