@@ -113,6 +113,8 @@ As we ordered our PCBs from JLCPCB, the design rules apply to their manufacturin
 You can use the 8x8 mm square at the back of the PCB to place a 2D barcode including the
 serial number.
 
+---
+
 ## Print Orientation
 
 ### FDM Print
