@@ -16,26 +16,28 @@ nav_order: 2
 
 <!--  -->
 
-
+---
 
 ## Components
 
 <p align="center">
-  <img src="../images/LoadingUnloading/Übersicht.svg" width=800>
+  <img src="../images/LoadingUnloading/loadingUnloading_overview.png" width=1200>
 </p>
 
 | Part Number |          Part          |
 |:-----------:|:----------------------:|
-|   **(1)**   |      Glasssyringe      |
-|   **(2)**   |        Divider         |
-|   **(3)**   |      Syringe lid       |
-|   **(4)**   |       Reservoir        |
-|   **(5)**   |   Filling port plug    |
-|   **(6)**   |     Actuation unit     |
-|   **(7)**   | Upper fastener (white) |
-|   **(8)**   | Lower fastener (black) |
-|   **(9)**   |  Lower quick release   |
-|  **(10)**   |  Upper quick release   |
+|  **(01)**   |     Actuation unit     |
+|  **(02)**   |  Upper quick release   |
+|  **(03)**   |  Lower quick release   |
+|  **(04)**   |       Reservoir        |
+|  **(05)**   |   Filling port plug    |
+|  **(06)**   |      Syringe lid       |
+|  **(07)**   |        Divider         |
+|  **(08)**   |      Glasssyringe      |
+|  **(09)**   | Upper fastener (white) |
+|  **(10)**   | Lower fastener (black) |
+
+---
 
 ## Additional Tools & Materials
 
@@ -43,6 +45,8 @@ nav_order: 2
 - Bioink
 - Actuation Fluid (i.e., sterile water)
 - Tweezers 
+
+---
 
 ## Loading 
 
@@ -63,6 +67,8 @@ Once the printing module has been assembled using the assembly instructions, the
 13. Connect the syringe **(4)** to the actuation unit using the upper quick release **(10)**
 14. Ensure that the two hose clips (one between reservoir and actuation unit and one between actuation unit and syringe) are open
 
+---
+
 ## Unloading
 
 1. Close the two hose clips
@@ -73,6 +79,8 @@ Once the printing module has been assembled using the assembly instructions, the
 6. Remove the lid of the syringe **(3)**
 7. Use the tweezers to remove the divider **(2)** by grasping the two indents in the divider
 8. Clean and sterilize all parts befor reusing them
+
+---
 
 ## Video
 [Show Video](https://github.com/LnBdd/hyberflow/blob/main/images/LoadingUnloading/Hydraulic_printing_module_mirrored.mp4)
