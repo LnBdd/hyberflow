@@ -15,9 +15,14 @@ This documentation enables you to rebuild the system and integrate it in your bi
 
 ## Citing
 
-The HYPBERFLOW was first presented and evaluated in an XX paper, which is freely available. If you use parts of this project for your reserach, please cite the publication:
+The HYPBERFLOW was first presented and evaluated in an [Bioprinting paper](https://www.sciencedirect.com/science/article/pii/S240588662500051X) in 2025, which is freely available. If you use parts of this project for your reserach, please cite the publication:
 ```
-TBD
+Leon Budde, Julia Hundertmark, Tim Meyer, Thomas Seel, Daniel O.M. Weber,
+HYBERFLOW — enabling non-invasive flow rate feedback control in bioprinting via hydraulic actuation,
+Bioprinting, Volume 50, 2025,
+e00435,
+ISSN 2405-8866,
+https://doi.org/10.1016/j.bprint.2025.e00435.
 ```
 
 ## Further Publications
