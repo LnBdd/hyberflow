@@ -7,15 +7,15 @@ nav_order: 1
   <img src="images/banner/Print_Head.png" width=350>
 </p>
 
-# HYPBERFLOW - a novel hydraulically actuated open source bioextrusion printhead
+# HYBERFLOW - a novel hydraulically actuated open source bioextrusion printhead
 
-HYPBERFLOW is an printhead for bioextrusion applications and was developed at the Leibniz Universität Hannover by the [Institute for Mechatronic Systems](https://www.imes.uni-hannover.de/en/). 
+HYBERFLOW is an printhead for bioextrusion applications and was developed at the Leibniz Universität Hannover by the [Institute for Mechatronic Systems](https://www.imes.uni-hannover.de/en/). 
 
 This documentation enables you to rebuild the system and integrate it in your bioprinter setup. We provide an example code to interface the module through a serial commincation. Since the control of the actual extrusion of the module is done by an onboard microcontroller, mulitple modules can be interfaced and operated simultaniously. 
 
 ## Citing
 
-The HYPBERFLOW was first presented and evaluated in an [Bioprinting paper](https://www.sciencedirect.com/science/article/pii/S240588662500051X) in 2025, which is freely available. If you use parts of this project for your reserach, please cite the publication:
+The HYBERFLOW was first presented and evaluated in an [Bioprinting paper](https://www.sciencedirect.com/science/article/pii/S240588662500051X) in 2025, which is freely available. If you use parts of this project for your reserach, please cite the publication:
 ```
 Leon Budde, Julia Hundertmark, Tim Meyer, Thomas Seel, Daniel O.M. Weber,
 HYBERFLOW — enabling non-invasive flow rate feedback control in bioprinting via hydraulic actuation,
@@ -36,5 +36,5 @@ There are also further publication of our bioprinting and automation projects:
 
 ## Authors
 
-HYPBERFLOW is part of the PhD thesis of [Leon Budde](https://www.imes.uni-hannover.de/en/institut/team/m-sc-leon-budde)
+HYBERFLOW is part of the PhD thesis of [Leon Budde](https://www.imes.uni-hannover.de/en/institut/team/m-sc-leon-budde)
 (Email: <leon.budde@imes.uni-hannover.de>) and was developed with support from the IMES staff and supervised students.
