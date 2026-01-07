@@ -49,6 +49,8 @@ nav_order: 2
 ---
 
 ## Loading 
+{: .note }
+For loading purposes the system can be operated dry.
 
 Once the printing module has been assembled using the assembly instructions, the following steps are necessary to start a printing cycle.
 <br>
